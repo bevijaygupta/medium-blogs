@@ -1,3 +1,11 @@
+---
+title: "Unlocking the Digital Puzzle  A Comprehensive Guide to Computer Forensics 9c5a915f8aaf"
+platform: Medium
+original_file: 2024-09-27_Unlocking-the-Digital-Puzzle--A-Comprehensive-Guide-to-Computer-Forensics-9c5a915f8aaf.md
+---
+
+# Unlocking the Digital Puzzle  A Comprehensive Guide to Computer Forensics 9c5a915f8aaf
+
 ::: {}
 # Unlocking the Digital Puzzle: A Comprehensive Guide to Computer Forensics {#unlocking-the-digital-puzzle-a-comprehensive-guide-to-computer-forensics .p-name}
 :::

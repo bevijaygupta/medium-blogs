@@ -1,3 +1,11 @@
+---
+title: "Why Collecting Cybersecurity Tools Won t Land You a Job  13bae55688ce"
+platform: Medium
+original_file: 2025-08-21_Why-Collecting-Cybersecurity-Tools-Won-t-Land-You-a-Job--13bae55688ce.md
+---
+
+# Why Collecting Cybersecurity Tools Won t Land You a Job  13bae55688ce
+
 ::: {}
 # Why Collecting Cybersecurity Tools Won't Land You a Job? {#why-collecting-cybersecurity-tools-wont-land-you-a-job .p-name}
 :::

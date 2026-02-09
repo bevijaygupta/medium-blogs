@@ -1,3 +1,11 @@
+---
+title: "10 Things Cybersecurity Experts Should Do in the Evening Instead of Watching Netflix f61ff0b32b67"
+platform: Medium
+original_file: 2025-06-17_10-Things-Cybersecurity-Experts-Should-Do-in-the-Evening-Instead-of-Watching-Netflix-f61ff0b32b67.md
+---
+
+# 10 Things Cybersecurity Experts Should Do in the Evening Instead of Watching Netflix f61ff0b32b67
+
 ::: {}
 # 10 Things Cybersecurity Experts Should Do in the Evening Instead of Watching Netflix {#things-cybersecurity-experts-should-do-in-the-evening-instead-of-watching-netflix .p-name}
 :::

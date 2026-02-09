@@ -1,3 +1,11 @@
+---
+title: "10 Mindset Shifts That Will Grow Your Career    d7b9ff071e73"
+platform: Medium
+original_file: 2024-10-31_10-Mindset-Shifts-That-Will-Grow-Your-Career----d7b9ff071e73.md
+---
+
+# 10 Mindset Shifts That Will Grow Your Career    d7b9ff071e73
+
 ::: {}
 # 10 Mindset Shifts That Will Grow Your Career 🚀 {#mindset-shifts-that-will-grow-your-career .p-name}
 :::

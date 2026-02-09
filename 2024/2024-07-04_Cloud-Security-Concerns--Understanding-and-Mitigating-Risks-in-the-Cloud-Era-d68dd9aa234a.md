@@ -1,3 +1,11 @@
+---
+title: "Cloud Security Concerns  Understanding and Mitigating Risks in the Cloud Era d68dd9aa234a"
+platform: Medium
+original_file: 2024-07-04_Cloud-Security-Concerns--Understanding-and-Mitigating-Risks-in-the-Cloud-Era-d68dd9aa234a.md
+---
+
+# Cloud Security Concerns  Understanding and Mitigating Risks in the Cloud Era d68dd9aa234a
+
 ::: {}
 # Cloud Security Concerns: Understanding and Mitigating Risks in the Cloud Era {#cloud-security-concerns-understanding-and-mitigating-risks-in-the-cloud-era .p-name}
 :::

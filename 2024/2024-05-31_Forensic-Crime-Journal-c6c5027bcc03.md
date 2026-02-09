@@ -1,3 +1,11 @@
+---
+title: "Forensic Crime Journal c6c5027bcc03"
+platform: Medium
+original_file: 2024-05-31_Forensic-Crime-Journal-c6c5027bcc03.md
+---
+
+# Forensic Crime Journal c6c5027bcc03
+
 ::: {}
 # Forensic Crime Journal {#forensic-crime-journal .p-name}
 :::

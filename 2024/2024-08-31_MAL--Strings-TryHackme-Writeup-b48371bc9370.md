@@ -1,3 +1,11 @@
+---
+title: "MAL  Strings TryHackme Writeup b48371bc9370"
+platform: Medium
+original_file: 2024-08-31_MAL--Strings-TryHackme-Writeup-b48371bc9370.md
+---
+
+# MAL  Strings TryHackme Writeup b48371bc9370
+
 ::: {}
 # MAL: Strings TryHackme Writeup {#mal-strings-tryhackme-writeup .p-name}
 :::

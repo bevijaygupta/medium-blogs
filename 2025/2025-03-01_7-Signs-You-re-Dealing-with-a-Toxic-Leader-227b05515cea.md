@@ -1,3 +1,11 @@
+---
+title: "7 Signs You re Dealing with a Toxic Leader 227b05515cea"
+platform: Medium
+original_file: 2025-03-01_7-Signs-You-re-Dealing-with-a-Toxic-Leader-227b05515cea.md
+---
+
+# 7 Signs You re Dealing with a Toxic Leader 227b05515cea
+
 ::: {}
 # 7 Signs You're Dealing with a Toxic Leader {#signs-youre-dealing-with-a-toxic-leader .p-name}
 :::

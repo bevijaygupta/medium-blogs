@@ -1,3 +1,11 @@
+---
+title: "What Have I Been Doing All This Time  9be3e41ed9f9"
+platform: Medium
+original_file: 2026-01-02_What-Have-I-Been-Doing-All-This-Time--9be3e41ed9f9.md
+---
+
+# What Have I Been Doing All This Time  9be3e41ed9f9
+
 ::: {}
 # What Have I Been Doing All This Time? {#what-have-i-been-doing-all-this-time .p-name}
 :::

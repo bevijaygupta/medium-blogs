@@ -1,3 +1,11 @@
+---
+title: "CTF or DIE  Who Stole the Source Code  fda81e5ab4c6"
+platform: Medium
+original_file: 2025-05-10_CTF-or-DIE--Who-Stole-the-Source-Code--fda81e5ab4c6.md
+---
+
+# CTF or DIE  Who Stole the Source Code  fda81e5ab4c6
+
 ::: {}
 # CTF or DIE: Who Stole the Source Code? {#ctf-or-die-who-stole-the-source-code .p-name}
 :::

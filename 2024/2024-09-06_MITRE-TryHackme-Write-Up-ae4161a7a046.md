@@ -1,3 +1,11 @@
+---
+title: "MITRE TryHackme Write Up ae4161a7a046"
+platform: Medium
+original_file: 2024-09-06_MITRE-TryHackme-Write-Up-ae4161a7a046.md
+---
+
+# MITRE TryHackme Write Up ae4161a7a046
+
 ::: {}
 # MITRE TryHackme Write-Up {#mitre-tryhackme-write-up .p-name}
 :::

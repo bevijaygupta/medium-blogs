@@ -1,3 +1,11 @@
+---
+title: "VAPT  Your Ultimate Guide to Securing Systems    ad67b440dd94"
+platform: Medium
+original_file: 2024-11-24_VAPT--Your-Ultimate-Guide-to-Securing-Systems----ad67b440dd94.md
+---
+
+# VAPT  Your Ultimate Guide to Securing Systems    ad67b440dd94
+
 ::: {}
 # VAPT: Your Ultimate Guide to Securing Systems 🔒 {#vapt-your-ultimate-guide-to-securing-systems .p-name}
 :::

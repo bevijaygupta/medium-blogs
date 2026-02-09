@@ -1,3 +1,11 @@
+---
+title: "When Your Friend Thinks You Are a Real Hacker 1716da4caf58"
+platform: Medium
+original_file: 2025-03-29_When-Your-Friend-Thinks-You-Are-a-Real-Hacker-1716da4caf58.md
+---
+
+# When Your Friend Thinks You Are a Real Hacker 1716da4caf58
+
 ::: {}
 # When Your Friend Thinks You Are a Real Hacker {#when-your-friend-thinks-you-are-a-real-hacker .p-name}
 :::

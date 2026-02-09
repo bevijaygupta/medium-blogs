@@ -1,3 +1,11 @@
+---
+title: "Haha yes  Apparently  green text on a black screen is the universal sign of  serious hacking     2af7a40a4df2"
+platform: Medium
+original_file: 2025-05-12_Haha-yes--Apparently--green-text-on-a-black-screen-is-the-universal-sign-of--serious-hacking-----2af7a40a4df2.md
+---
+
+# Haha yes  Apparently  green text on a black screen is the universal sign of  serious hacking     2af7a40a4df2
+
 ::: {}
 # Haha yes! Apparently, green text on a black screen is the universal sign of "serious hacking" ---... {#haha-yes-apparently-green-text-on-a-black-screen-is-the-universal-sign-of-serious-hacking .p-name}
 :::

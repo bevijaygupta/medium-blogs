@@ -1,3 +1,11 @@
+---
+title: "100 Most Vulnerable Apps  Systems   Platforms to Practice Penetration Testing 63fb9cd26ff4"
+platform: Medium
+original_file: 2024-09-05_100-Most-Vulnerable-Apps--Systems---Platforms-to-Practice-Penetration-Testing-63fb9cd26ff4.md
+---
+
+# 100 Most Vulnerable Apps  Systems   Platforms to Practice Penetration Testing 63fb9cd26ff4
+
 ::: {}
 # 100 Most Vulnerable Apps, Systems & Platforms to Practice Penetration Testing {#most-vulnerable-apps-systems-platforms-to-practice-penetration-testing .p-name}
 :::

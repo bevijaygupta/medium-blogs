@@ -1,3 +1,11 @@
+---
+title: "AWS Penetration Testing  Ensuring Cloud Security 3377df8d0567"
+platform: Medium
+original_file: 2024-04-25_AWS-Penetration-Testing--Ensuring-Cloud-Security-3377df8d0567.md
+---
+
+# AWS Penetration Testing  Ensuring Cloud Security 3377df8d0567
+
 ::: {}
 # AWS Penetration Testing: Ensuring Cloud Security {#aws-penetration-testing-ensuring-cloud-security .p-name}
 :::

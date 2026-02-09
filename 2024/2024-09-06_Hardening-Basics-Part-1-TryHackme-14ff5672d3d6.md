@@ -1,3 +1,11 @@
+---
+title: "Hardening Basics Part 1 TryHackme 14ff5672d3d6"
+platform: Medium
+original_file: 2024-09-06_Hardening-Basics-Part-1-TryHackme-14ff5672d3d6.md
+---
+
+# Hardening Basics Part 1 TryHackme 14ff5672d3d6
+
 ::: {}
 # Hardening Basics Part 1 TryHackme {#hardening-basics-part-1-tryhackme .p-name}
 :::

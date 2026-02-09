@@ -1,3 +1,11 @@
+---
+title: "Why Most People Are Blind to Their Own Potential fdcb1fc9108d"
+platform: Medium
+original_file: 2025-08-16_Why-Most-People-Are-Blind-to-Their-Own-Potential-fdcb1fc9108d.md
+---
+
+# Why Most People Are Blind to Their Own Potential fdcb1fc9108d
+
 ::: {}
 # Why Most People Are Blind to Their Own Potential {#why-most-people-are-blind-to-their-own-potential .p-name}
 :::

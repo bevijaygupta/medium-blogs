@@ -1,3 +1,11 @@
+---
+title: "Creating and Using Custom Kali Linux Images 38a368d82cf8"
+platform: Medium
+original_file: 2024-10-15_Creating-and-Using-Custom-Kali-Linux-Images-38a368d82cf8.md
+---
+
+# Creating and Using Custom Kali Linux Images 38a368d82cf8
+
 ::: {}
 # Creating and Using Custom Kali Linux Images {#creating-and-using-custom-kali-linux-images .p-name}
 :::

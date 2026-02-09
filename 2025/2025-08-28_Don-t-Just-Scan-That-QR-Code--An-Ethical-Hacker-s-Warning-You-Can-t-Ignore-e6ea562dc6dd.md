@@ -1,3 +1,11 @@
+---
+title: "Don t Just Scan That QR Code  An Ethical Hacker s Warning You Can t Ignore e6ea562dc6dd"
+platform: Medium
+original_file: 2025-08-28_Don-t-Just-Scan-That-QR-Code--An-Ethical-Hacker-s-Warning-You-Can-t-Ignore-e6ea562dc6dd.md
+---
+
+# Don t Just Scan That QR Code  An Ethical Hacker s Warning You Can t Ignore e6ea562dc6dd
+
 ::: {}
 # Don't Just Scan That QR Code: An Ethical Hacker's Warning You Can't Ignore {#dont-just-scan-that-qr-code-an-ethical-hackers-warning-you-cant-ignore .p-name}
 :::

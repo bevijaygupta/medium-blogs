@@ -1,3 +1,11 @@
+---
+title: "IoT in Agriculture  Revolutionizing Farming Practices a741b18b507a"
+platform: Medium
+original_file: 2024-08-06_IoT-in-Agriculture--Revolutionizing-Farming-Practices-a741b18b507a.md
+---
+
+# IoT in Agriculture  Revolutionizing Farming Practices a741b18b507a
+
 ::: {}
 # IoT in Agriculture: Revolutionizing Farming Practices {#iot-in-agriculture-revolutionizing-farming-practices .p-name}
 :::

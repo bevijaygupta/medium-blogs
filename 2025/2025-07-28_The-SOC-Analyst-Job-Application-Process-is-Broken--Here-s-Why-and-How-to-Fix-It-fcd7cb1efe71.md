@@ -1,3 +1,11 @@
+---
+title: "The SOC Analyst Job Application Process is Broken  Here s Why and How to Fix It fcd7cb1efe71"
+platform: Medium
+original_file: 2025-07-28_The-SOC-Analyst-Job-Application-Process-is-Broken--Here-s-Why-and-How-to-Fix-It-fcd7cb1efe71.md
+---
+
+# The SOC Analyst Job Application Process is Broken  Here s Why and How to Fix It fcd7cb1efe71
+
 ::: {}
 # The SOC Analyst Job Application Process is Broken: Here's Why and How to Fix It {#the-soc-analyst-job-application-process-is-broken-heres-why-and-how-to-fix-it .p-name}
 :::

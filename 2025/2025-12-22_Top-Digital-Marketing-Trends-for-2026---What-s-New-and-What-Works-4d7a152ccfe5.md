@@ -1,3 +1,11 @@
+---
+title: "Top Digital Marketing Trends for 2026   What s New and What Works 4d7a152ccfe5"
+platform: Medium
+original_file: 2025-12-22_Top-Digital-Marketing-Trends-for-2026---What-s-New-and-What-Works-4d7a152ccfe5.md
+---
+
+# Top Digital Marketing Trends for 2026   What s New and What Works 4d7a152ccfe5
+
 ::: {}
 # Top Digital Marketing Trends for 2026 --- What's New and What Works {#top-digital-marketing-trends-for-2026-whats-new-and-what-works .p-name}
 :::

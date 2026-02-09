@@ -1,3 +1,11 @@
+---
+title: "Jamtangan Bug Bounty 7c49fc09881f"
+platform: Medium
+original_file: 2024-04-18_Jamtangan-Bug-Bounty-7c49fc09881f.md
+---
+
+# Jamtangan Bug Bounty 7c49fc09881f
+
 ::: {}
 # Jamtangan Bug Bounty {#jamtangan-bug-bounty .p-name}
 :::

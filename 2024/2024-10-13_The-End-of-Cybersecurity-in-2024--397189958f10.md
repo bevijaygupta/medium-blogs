@@ -1,3 +1,11 @@
+---
+title: "The End of Cybersecurity in 2024  397189958f10"
+platform: Medium
+original_file: 2024-10-13_The-End-of-Cybersecurity-in-2024--397189958f10.md
+---
+
+# The End of Cybersecurity in 2024  397189958f10
+
 ::: {}
 # The End of Cybersecurity in 2024: {#the-end-of-cybersecurity-in-2024 .p-name}
 :::

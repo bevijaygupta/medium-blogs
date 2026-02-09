@@ -1,3 +1,11 @@
+---
+title: "Cloud Security Methods  Protecting Your Data in the Cloud 08b12f73c6cc"
+platform: Medium
+original_file: 2024-07-01_Cloud-Security-Methods--Protecting-Your-Data-in-the-Cloud-08b12f73c6cc.md
+---
+
+# Cloud Security Methods  Protecting Your Data in the Cloud 08b12f73c6cc
+
 ::: {}
 # Cloud Security Methods: Protecting Your Data in the Cloud {#cloud-security-methods-protecting-your-data-in-the-cloud .p-name}
 :::

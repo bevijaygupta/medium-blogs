@@ -1,3 +1,11 @@
+---
+title: "Everyone Wants AI  Almost No One Knows Why  511c0c8d7aab"
+platform: Medium
+original_file: 2026-01-17_Everyone-Wants-AI--Almost-No-One-Knows-Why--511c0c8d7aab.md
+---
+
+# Everyone Wants AI  Almost No One Knows Why  511c0c8d7aab
+
 ::: {}
 # Everyone Wants AI. Almost No One Knows Why. {#everyone-wants-ai.-almost-no-one-knows-why. .p-name}
 :::

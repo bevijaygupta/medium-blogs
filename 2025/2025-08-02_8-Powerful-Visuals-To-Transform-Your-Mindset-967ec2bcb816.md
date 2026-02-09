@@ -1,3 +1,11 @@
+---
+title: "8 Powerful Visuals To Transform Your Mindset 967ec2bcb816"
+platform: Medium
+original_file: 2025-08-02_8-Powerful-Visuals-To-Transform-Your-Mindset-967ec2bcb816.md
+---
+
+# 8 Powerful Visuals To Transform Your Mindset 967ec2bcb816
+
 ::: {}
 # 8 Powerful Visuals To Transform Your Mindset {#powerful-visuals-to-transform-your-mindset .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "PostgreSQL 10 on Kali Linux  A Comprehensive Guide 7aa35dca4745"
+platform: Medium
+original_file: 2024-05-27_PostgreSQL-10-on-Kali-Linux--A-Comprehensive-Guide-7aa35dca4745.md
+---
+
+# PostgreSQL 10 on Kali Linux  A Comprehensive Guide 7aa35dca4745
+
 ::: {}
 # PostgreSQL 10 on Kali Linux: A Comprehensive Guide {#postgresql-10-on-kali-linux-a-comprehensive-guide .p-name}
 :::

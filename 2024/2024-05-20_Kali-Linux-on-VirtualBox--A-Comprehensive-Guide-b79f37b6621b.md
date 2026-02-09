@@ -1,3 +1,11 @@
+---
+title: "Kali Linux on VirtualBox  A Comprehensive Guide b79f37b6621b"
+platform: Medium
+original_file: 2024-05-20_Kali-Linux-on-VirtualBox--A-Comprehensive-Guide-b79f37b6621b.md
+---
+
+# Kali Linux on VirtualBox  A Comprehensive Guide b79f37b6621b
+
 ::: {}
 # Kali Linux on VirtualBox: A Comprehensive Guide {#kali-linux-on-virtualbox-a-comprehensive-guide .p-name}
 :::

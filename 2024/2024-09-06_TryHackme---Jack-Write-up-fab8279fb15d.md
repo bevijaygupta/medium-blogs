@@ -1,3 +1,11 @@
+---
+title: "TryHackme   Jack Write up fab8279fb15d"
+platform: Medium
+original_file: 2024-09-06_TryHackme---Jack-Write-up-fab8279fb15d.md
+---
+
+# TryHackme   Jack Write up fab8279fb15d
+
 ::: {}
 # TryHackme --- Jack Write up {#tryhackme-jack-write-up .p-name}
 :::

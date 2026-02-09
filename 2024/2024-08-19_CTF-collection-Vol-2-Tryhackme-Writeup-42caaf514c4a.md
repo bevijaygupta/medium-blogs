@@ -1,3 +1,11 @@
+---
+title: "CTF collection Vol 2 Tryhackme Writeup 42caaf514c4a"
+platform: Medium
+original_file: 2024-08-19_CTF-collection-Vol-2-Tryhackme-Writeup-42caaf514c4a.md
+---
+
+# CTF collection Vol 2 Tryhackme Writeup 42caaf514c4a
+
 ::: {}
 # CTF collection Vol.2 Tryhackme Writeup {#ctf-collection-vol.2-tryhackme-writeup .p-name}
 :::

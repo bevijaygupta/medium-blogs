@@ -1,3 +1,11 @@
+---
+title: "Agentless vs  Agent Based Security  Which Approach Is Right for Your Cloud Environment  f7f43cdf0494"
+platform: Medium
+original_file: 2024-11-30_Agentless-vs--Agent-Based-Security--Which-Approach-Is-Right-for-Your-Cloud-Environment--f7f43cdf0494.md
+---
+
+# Agentless vs  Agent Based Security  Which Approach Is Right for Your Cloud Environment  f7f43cdf0494
+
 ::: {}
 # Agentless vs. Agent-Based Security: Which Approach Is Right for Your Cloud Environment? {#agentless-vs.-agent-based-security-which-approach-is-right-for-your-cloud-environment .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "When Your Antivirus Starts Acting Like a Virus 6942f5da1d47"
+platform: Medium
+original_file: 2025-04-24_When-Your-Antivirus-Starts-Acting-Like-a-Virus-6942f5da1d47.md
+---
+
+# When Your Antivirus Starts Acting Like a Virus 6942f5da1d47
+
 ::: {}
 # When Your Antivirus Starts Acting Like a Virus {#when-your-antivirus-starts-acting-like-a-virus .p-name}
 :::

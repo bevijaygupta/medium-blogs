@@ -1,3 +1,11 @@
+---
+title: "OSINT in Legal Proceedings  Leveraging Open Source Intelligence in Modern Law ec7d92f87e56"
+platform: Medium
+original_file: 2024-09-24_OSINT-in-Legal-Proceedings--Leveraging-Open-Source-Intelligence-in-Modern-Law-ec7d92f87e56.md
+---
+
+# OSINT in Legal Proceedings  Leveraging Open Source Intelligence in Modern Law ec7d92f87e56
+
 ::: {}
 # OSINT in Legal Proceedings: Leveraging Open Source Intelligence in Modern Law {#osint-in-legal-proceedings-leveraging-open-source-intelligence-in-modern-law .p-name}
 :::

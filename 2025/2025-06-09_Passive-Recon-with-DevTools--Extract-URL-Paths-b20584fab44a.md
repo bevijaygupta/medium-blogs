@@ -1,3 +1,11 @@
+---
+title: "Passive Recon with DevTools  Extract URL Paths b20584fab44a"
+platform: Medium
+original_file: 2025-06-09_Passive-Recon-with-DevTools--Extract-URL-Paths-b20584fab44a.md
+---
+
+# Passive Recon with DevTools  Extract URL Paths b20584fab44a
+
 ::: {}
 # Passive Recon with DevTools: Extract URL Paths {#passive-recon-with-devtools-extract-url-paths .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "ParamScan  The Ultimate Chrome Extension for Finding Reflected Parameters in Webpages cd901cf68012"
+platform: Medium
+original_file: 2025-01-25_ParamScan--The-Ultimate-Chrome-Extension-for-Finding-Reflected-Parameters-in-Webpages-cd901cf68012.md
+---
+
+# ParamScan  The Ultimate Chrome Extension for Finding Reflected Parameters in Webpages cd901cf68012
+
 ::: {}
 # ParamScan: The Ultimate Chrome Extension for Finding Reflected Parameters in Webpages {#paramscan-the-ultimate-chrome-extension-for-finding-reflected-parameters-in-webpages .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Why Build a Hacking Starter Kit  2b9abb09dcf9"
+platform: Medium
+original_file: 2024-10-30_Why-Build-a-Hacking-Starter-Kit--2b9abb09dcf9.md
+---
+
+# Why Build a Hacking Starter Kit  2b9abb09dcf9
+
 ::: {}
 # Why Build a Hacking Starter Kit? {#why-build-a-hacking-starter-kit .p-name}
 :::

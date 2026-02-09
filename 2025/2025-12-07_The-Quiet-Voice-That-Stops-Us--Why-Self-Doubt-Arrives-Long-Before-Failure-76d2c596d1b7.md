@@ -1,3 +1,11 @@
+---
+title: "The Quiet Voice That Stops Us  Why Self Doubt Arrives Long Before Failure 76d2c596d1b7"
+platform: Medium
+original_file: 2025-12-07_The-Quiet-Voice-That-Stops-Us--Why-Self-Doubt-Arrives-Long-Before-Failure-76d2c596d1b7.md
+---
+
+# The Quiet Voice That Stops Us  Why Self Doubt Arrives Long Before Failure 76d2c596d1b7
+
 ::: {}
 # The Quiet Voice That Stops Us: Why Self-Doubt Arrives Long Before Failure {#the-quiet-voice-that-stops-us-why-self-doubt-arrives-long-before-failure .p-name}
 :::

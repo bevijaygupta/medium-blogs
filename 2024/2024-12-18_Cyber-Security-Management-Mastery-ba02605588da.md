@@ -1,3 +1,11 @@
+---
+title: "Cyber Security Management Mastery ba02605588da"
+platform: Medium
+original_file: 2024-12-18_Cyber-Security-Management-Mastery-ba02605588da.md
+---
+
+# Cyber Security Management Mastery ba02605588da
+
 ::: {}
 # Cyber Security Management Mastery {#cyber-security-management-mastery .p-name}
 :::

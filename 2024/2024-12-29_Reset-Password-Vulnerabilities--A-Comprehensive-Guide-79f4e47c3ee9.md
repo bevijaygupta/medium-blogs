@@ -1,3 +1,11 @@
+---
+title: "Reset Password Vulnerabilities  A Comprehensive Guide 79f4e47c3ee9"
+platform: Medium
+original_file: 2024-12-29_Reset-Password-Vulnerabilities--A-Comprehensive-Guide-79f4e47c3ee9.md
+---
+
+# Reset Password Vulnerabilities  A Comprehensive Guide 79f4e47c3ee9
+
 ::: {}
 # Reset Password Vulnerabilities: A Comprehensive Guide {#reset-password-vulnerabilities-a-comprehensive-guide .p-name}
 :::

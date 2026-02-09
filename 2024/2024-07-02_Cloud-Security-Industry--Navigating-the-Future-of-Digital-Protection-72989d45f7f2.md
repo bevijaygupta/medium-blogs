@@ -1,3 +1,11 @@
+---
+title: "Cloud Security Industry  Navigating the Future of Digital Protection 72989d45f7f2"
+platform: Medium
+original_file: 2024-07-02_Cloud-Security-Industry--Navigating-the-Future-of-Digital-Protection-72989d45f7f2.md
+---
+
+# Cloud Security Industry  Navigating the Future of Digital Protection 72989d45f7f2
+
 ::: {}
 # Cloud Security Industry: Navigating the Future of Digital Protection {#cloud-security-industry-navigating-the-future-of-digital-protection .p-name}
 :::

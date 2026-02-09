@@ -1,3 +1,11 @@
+---
+title: "ChatGPT Is Poisoning Your Brain  4a271311e234"
+platform: Medium
+original_file: 2025-06-10_ChatGPT-Is-Poisoning-Your-Brain--4a271311e234.md
+---
+
+# ChatGPT Is Poisoning Your Brain  4a271311e234
+
 ::: {}
 # ChatGPT Is Poisoning Your Brain... {#chatgpt-is-poisoning-your-brain .p-name}
 :::

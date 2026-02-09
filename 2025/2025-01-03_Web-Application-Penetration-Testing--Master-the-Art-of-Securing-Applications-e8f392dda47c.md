@@ -1,3 +1,11 @@
+---
+title: "Web Application Penetration Testing  Master the Art of Securing Applications e8f392dda47c"
+platform: Medium
+original_file: 2025-01-03_Web-Application-Penetration-Testing--Master-the-Art-of-Securing-Applications-e8f392dda47c.md
+---
+
+# Web Application Penetration Testing  Master the Art of Securing Applications e8f392dda47c
+
 ::: {}
 # Web Application Penetration Testing: Master the Art of Securing Applications {#web-application-penetration-testing-master-the-art-of-securing-applications .p-name}
 :::

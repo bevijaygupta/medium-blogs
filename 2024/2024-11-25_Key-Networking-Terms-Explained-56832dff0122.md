@@ -1,3 +1,11 @@
+---
+title: "Key Networking Terms Explained 56832dff0122"
+platform: Medium
+original_file: 2024-11-25_Key-Networking-Terms-Explained-56832dff0122.md
+---
+
+# Key Networking Terms Explained 56832dff0122
+
 ::: {}
 # Key Networking Terms Explained {#key-networking-terms-explained .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Why Nobody Wants to Hire You Anymore 3d6749cb5903"
+platform: Medium
+original_file: 2025-11-22_Why-Nobody-Wants-to-Hire-You-Anymore-3d6749cb5903.md
+---
+
+# Why Nobody Wants to Hire You Anymore 3d6749cb5903
+
 ::: {}
 # Why Nobody Wants to Hire You Anymore {#why-nobody-wants-to-hire-you-anymore .p-name}
 :::

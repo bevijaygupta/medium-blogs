@@ -1,3 +1,11 @@
+---
+title: "Termux Cheat Sheet  Linux Power on Mobile 8c6189ac7688"
+platform: Medium
+original_file: 2024-09-20_Termux-Cheat-Sheet--Linux-Power-on-Mobile-8c6189ac7688.md
+---
+
+# Termux Cheat Sheet  Linux Power on Mobile 8c6189ac7688
+
 ::: {}
 # Termux Cheat Sheet: Linux Power on Mobile {#termux-cheat-sheet-linux-power-on-mobile .p-name}
 :::

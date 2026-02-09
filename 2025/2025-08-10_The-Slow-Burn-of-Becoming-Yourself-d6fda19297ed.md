@@ -1,3 +1,11 @@
+---
+title: "The Slow Burn of Becoming Yourself d6fda19297ed"
+platform: Medium
+original_file: 2025-08-10_The-Slow-Burn-of-Becoming-Yourself-d6fda19297ed.md
+---
+
+# The Slow Burn of Becoming Yourself d6fda19297ed
+
 ::: {}
 # The Slow Burn of Becoming Yourself {#the-slow-burn-of-becoming-yourself .p-name}
 :::

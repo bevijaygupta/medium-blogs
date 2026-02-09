@@ -1,3 +1,11 @@
+---
+title: "CASB for Cloud Security  The Future of Protecting Your Digital Assets 479e2e87b5cc"
+platform: Medium
+original_file: 2024-07-12_CASB-for-Cloud-Security--The-Future-of-Protecting-Your-Digital-Assets-479e2e87b5cc.md
+---
+
+# CASB for Cloud Security  The Future of Protecting Your Digital Assets 479e2e87b5cc
+
 ::: {}
 # CASB for Cloud Security: The Future of Protecting Your Digital Assets {#casb-for-cloud-security-the-future-of-protecting-your-digital-assets .p-name}
 :::

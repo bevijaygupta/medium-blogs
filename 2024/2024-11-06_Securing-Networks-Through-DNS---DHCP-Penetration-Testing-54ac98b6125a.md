@@ -1,3 +1,11 @@
+---
+title: "Securing Networks Through DNS   DHCP Penetration Testing 54ac98b6125a"
+platform: Medium
+original_file: 2024-11-06_Securing-Networks-Through-DNS---DHCP-Penetration-Testing-54ac98b6125a.md
+---
+
+# Securing Networks Through DNS   DHCP Penetration Testing 54ac98b6125a
+
 ::: {}
 # Securing Networks Through DNS & DHCP Penetration Testing {#securing-networks-through-dns-dhcp-penetration-testing .p-name}
 :::

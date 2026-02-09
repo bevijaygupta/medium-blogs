@@ -1,3 +1,11 @@
+---
+title: "40 Life Lessons Everyone Should Know Before They Turn 40 32d39cb95471"
+platform: Medium
+original_file: 2025-08-07_40-Life-Lessons-Everyone-Should-Know-Before-They-Turn-40-32d39cb95471.md
+---
+
+# 40 Life Lessons Everyone Should Know Before They Turn 40 32d39cb95471
+
 ::: {}
 # 40 Life Lessons Everyone Should Know Before They Turn 40 {#life-lessons-everyone-should-know-before-they-turn-40 .p-name}
 :::

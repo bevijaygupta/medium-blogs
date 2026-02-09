@@ -1,3 +1,11 @@
+---
+title: "Attacking Kubernetes  Understanding Security Risks and Defense Strategies 39febd9bbb56"
+platform: Medium
+original_file: 2025-02-06_Attacking-Kubernetes--Understanding-Security-Risks-and-Defense-Strategies-39febd9bbb56.md
+---
+
+# Attacking Kubernetes  Understanding Security Risks and Defense Strategies 39febd9bbb56
+
 ::: {}
 # Attacking Kubernetes: Understanding Security Risks and Defense Strategies {#attacking-kubernetes-understanding-security-risks-and-defense-strategies .p-name}
 :::

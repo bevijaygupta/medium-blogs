@@ -1,3 +1,11 @@
+---
+title: "SOC  Installing and Configuring OpenCTI for Threat Intelligence Management e85af343c46a"
+platform: Medium
+original_file: 2024-08-28_SOC--Installing-and-Configuring-OpenCTI-for-Threat-Intelligence-Management-e85af343c46a.md
+---
+
+# SOC  Installing and Configuring OpenCTI for Threat Intelligence Management e85af343c46a
+
 ::: {}
 # SOC: Installing and Configuring OpenCTI for Threat Intelligence Management {#soc-installing-and-configuring-opencti-for-threat-intelligence-management .p-name}
 :::

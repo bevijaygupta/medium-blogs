@@ -1,3 +1,11 @@
+---
+title: "IoT Analytics  Unlocking the Power of Data in the Connected World 7b908cc30077"
+platform: Medium
+original_file: 2024-08-06_IoT-Analytics--Unlocking-the-Power-of-Data-in-the-Connected-World-7b908cc30077.md
+---
+
+# IoT Analytics  Unlocking the Power of Data in the Connected World 7b908cc30077
+
 ::: {}
 # IoT Analytics: Unlocking the Power of Data in the Connected World {#iot-analytics-unlocking-the-power-of-data-in-the-connected-world .p-name}
 :::

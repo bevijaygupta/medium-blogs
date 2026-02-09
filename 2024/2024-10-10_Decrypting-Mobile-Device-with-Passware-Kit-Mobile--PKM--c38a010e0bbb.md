@@ -1,3 +1,11 @@
+---
+title: "Decrypting Mobile Device with Passware Kit Mobile  PKM  c38a010e0bbb"
+platform: Medium
+original_file: 2024-10-10_Decrypting-Mobile-Device-with-Passware-Kit-Mobile--PKM--c38a010e0bbb.md
+---
+
+# Decrypting Mobile Device with Passware Kit Mobile  PKM  c38a010e0bbb
+
 ::: {}
 # Decrypting Mobile Device with Passware Kit Mobile (PKM) {#decrypting-mobile-device-with-passware-kit-mobile-pkm .p-name}
 :::

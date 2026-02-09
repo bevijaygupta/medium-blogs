@@ -1,3 +1,11 @@
+---
+title: "From Firewalls to SIEM  What Layered Security Looks Like in Real Life 34d4cb5a2f64"
+platform: Medium
+original_file: 2025-11-21_From-Firewalls-to-SIEM--What-Layered-Security-Looks-Like-in-Real-Life-34d4cb5a2f64.md
+---
+
+# From Firewalls to SIEM  What Layered Security Looks Like in Real Life 34d4cb5a2f64
+
 ::: {}
 # From Firewalls to SIEM: What Layered Security Looks Like in Real Life {#from-firewalls-to-siem-what-layered-security-looks-like-in-real-life .p-name}
 :::

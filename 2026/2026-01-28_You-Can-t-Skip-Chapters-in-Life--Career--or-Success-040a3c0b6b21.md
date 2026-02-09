@@ -1,3 +1,11 @@
+---
+title: "You Can t Skip Chapters in Life  Career  or Success 040a3c0b6b21"
+platform: Medium
+original_file: 2026-01-28_You-Can-t-Skip-Chapters-in-Life--Career--or-Success-040a3c0b6b21.md
+---
+
+# You Can t Skip Chapters in Life  Career  or Success 040a3c0b6b21
+
 ::: {}
 # You Can't Skip Chapters in Life, Career, or Success {#you-cant-skip-chapters-in-life-career-or-success .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Hackers Can Access Laptop Webcams Without Activating LED Indicators e3d40b0230fe"
+platform: Medium
+original_file: 2024-12-10_Hackers-Can-Access-Laptop-Webcams-Without-Activating-LED-Indicators-e3d40b0230fe.md
+---
+
+# Hackers Can Access Laptop Webcams Without Activating LED Indicators e3d40b0230fe
+
 ::: {}
 # Hackers Can Access Laptop Webcams Without Activating LED Indicators {#hackers-can-access-laptop-webcams-without-activating-led-indicators .p-name}
 :::

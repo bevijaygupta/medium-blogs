@@ -1,3 +1,11 @@
+---
+title: "Success That Survives You  Why Legacy Matters More Than Visibility b317bb45e37a"
+platform: Medium
+original_file: 2026-01-18_Success-That-Survives-You--Why-Legacy-Matters-More-Than-Visibility-b317bb45e37a.md
+---
+
+# Success That Survives You  Why Legacy Matters More Than Visibility b317bb45e37a
+
 ::: {}
 # Success That Survives You: Why Legacy Matters More Than Visibility {#success-that-survives-you-why-legacy-matters-more-than-visibility .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "IoT Sensors  The Backbone of a Connected World 4b554e3412eb"
+platform: Medium
+original_file: 2024-07-30_IoT-Sensors--The-Backbone-of-a-Connected-World-4b554e3412eb.md
+---
+
+# IoT Sensors  The Backbone of a Connected World 4b554e3412eb
+
 ::: {}
 # IoT Sensors: The Backbone of a Connected World {#iot-sensors-the-backbone-of-a-connected-world .p-name}
 :::

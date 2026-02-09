@@ -1,3 +1,11 @@
+---
+title: "Truth in the Tells  Decoding Involuntary Behavioral Cues During Interrogation 90c62a6dcac3"
+platform: Medium
+original_file: 2025-05-21_Truth-in-the-Tells--Decoding-Involuntary-Behavioral-Cues-During-Interrogation-90c62a6dcac3.md
+---
+
+# Truth in the Tells  Decoding Involuntary Behavioral Cues During Interrogation 90c62a6dcac3
+
 ::: {}
 # Truth in the Tells: Decoding Involuntary Behavioral Cues During Interrogation {#truth-in-the-tells-decoding-involuntary-behavioral-cues-during-interrogation .p-name}
 :::

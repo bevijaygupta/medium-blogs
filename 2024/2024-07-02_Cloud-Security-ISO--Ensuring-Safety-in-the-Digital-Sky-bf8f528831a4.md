@@ -1,3 +1,11 @@
+---
+title: "Cloud Security ISO  Ensuring Safety in the Digital Sky bf8f528831a4"
+platform: Medium
+original_file: 2024-07-02_Cloud-Security-ISO--Ensuring-Safety-in-the-Digital-Sky-bf8f528831a4.md
+---
+
+# Cloud Security ISO  Ensuring Safety in the Digital Sky bf8f528831a4
+
 ::: {}
 # Cloud Security ISO: Ensuring Safety in the Digital Sky {#cloud-security-iso-ensuring-safety-in-the-digital-sky .p-name}
 :::

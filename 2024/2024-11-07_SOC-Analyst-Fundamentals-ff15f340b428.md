@@ -1,3 +1,11 @@
+---
+title: "SOC Analyst Fundamentals ff15f340b428"
+platform: Medium
+original_file: 2024-11-07_SOC-Analyst-Fundamentals-ff15f340b428.md
+---
+
+# SOC Analyst Fundamentals ff15f340b428
+
 ::: {}
 # SOC Analyst Fundamentals {#soc-analyst-fundamentals .p-name}
 :::

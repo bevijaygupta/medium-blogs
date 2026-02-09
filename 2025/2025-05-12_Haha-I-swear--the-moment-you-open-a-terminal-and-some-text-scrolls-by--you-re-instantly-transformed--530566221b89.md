@@ -1,3 +1,11 @@
+---
+title: "Haha I swear  the moment you open a terminal and some text scrolls by  you re instantly transformed  530566221b89"
+platform: Medium
+original_file: 2025-05-12_Haha-I-swear--the-moment-you-open-a-terminal-and-some-text-scrolls-by--you-re-instantly-transformed--530566221b89.md
+---
+
+# Haha I swear  the moment you open a terminal and some text scrolls by  you re instantly transformed  530566221b89
+
 ::: {}
 # Haha I swear, the moment you open a terminal and some text scrolls by, you're instantly transformed... {#haha-i-swear-the-moment-you-open-a-terminal-and-some-text-scrolls-by-youre-instantly-transformed .p-name}
 :::

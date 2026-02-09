@@ -1,3 +1,11 @@
+---
+title: "Understanding Cross Site Request Forgery  CSRF  5de2a88f469f"
+platform: Medium
+original_file: 2024-12-15_Understanding-Cross-Site-Request-Forgery--CSRF--5de2a88f469f.md
+---
+
+# Understanding Cross Site Request Forgery  CSRF  5de2a88f469f
+
 ::: {}
 # Understanding Cross-Site Request Forgery (CSRF) {#understanding-cross-site-request-forgery-csrf .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "How to Create a Life You Love 1a0375e443e4"
+platform: Medium
+original_file: 2025-08-17_How-to-Create-a-Life-You-Love-1a0375e443e4.md
+---
+
+# How to Create a Life You Love 1a0375e443e4
+
 ::: {}
 # How to Create a Life You Love {#how-to-create-a-life-you-love .p-name}
 :::

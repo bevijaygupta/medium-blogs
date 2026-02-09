@@ -1,3 +1,11 @@
+---
+title: "Cloud Security Knowledge  A Comprehensive Guide c68511e9bed9"
+platform: Medium
+original_file: 2024-07-01_Cloud-Security-Knowledge--A-Comprehensive-Guide-c68511e9bed9.md
+---
+
+# Cloud Security Knowledge  A Comprehensive Guide c68511e9bed9
+
 ::: {}
 # Cloud Security Knowledge: A Comprehensive Guide {#cloud-security-knowledge-a-comprehensive-guide .p-name}
 :::

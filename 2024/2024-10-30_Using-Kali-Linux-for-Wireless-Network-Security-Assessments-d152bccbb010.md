@@ -1,3 +1,11 @@
+---
+title: "Using Kali Linux for Wireless Network Security Assessments d152bccbb010"
+platform: Medium
+original_file: 2024-10-30_Using-Kali-Linux-for-Wireless-Network-Security-Assessments-d152bccbb010.md
+---
+
+# Using Kali Linux for Wireless Network Security Assessments d152bccbb010
+
 ::: {}
 # Using Kali Linux for Wireless Network Security Assessments {#using-kali-linux-for-wireless-network-security-assessments .p-name}
 :::

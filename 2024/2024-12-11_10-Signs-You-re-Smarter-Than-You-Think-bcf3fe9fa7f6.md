@@ -1,3 +1,11 @@
+---
+title: "10 Signs You re Smarter Than You Think bcf3fe9fa7f6"
+platform: Medium
+original_file: 2024-12-11_10-Signs-You-re-Smarter-Than-You-Think-bcf3fe9fa7f6.md
+---
+
+# 10 Signs You re Smarter Than You Think bcf3fe9fa7f6
+
 ::: {}
 # 10 Signs You're Smarter Than You Think {#signs-youre-smarter-than-you-think .p-name}
 :::

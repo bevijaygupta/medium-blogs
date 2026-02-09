@@ -1,3 +1,11 @@
+---
+title: "Ethical Hacking with ChatGPT 7a6d3db74222"
+platform: Medium
+original_file: 2024-09-16_Ethical-Hacking-with-ChatGPT-7a6d3db74222.md
+---
+
+# Ethical Hacking with ChatGPT 7a6d3db74222
+
 ::: {}
 # Ethical Hacking with ChatGPT {#ethical-hacking-with-chatgpt .p-name}
 :::

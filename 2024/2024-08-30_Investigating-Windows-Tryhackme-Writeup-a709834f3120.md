@@ -1,3 +1,11 @@
+---
+title: "Investigating Windows Tryhackme Writeup a709834f3120"
+platform: Medium
+original_file: 2024-08-30_Investigating-Windows-Tryhackme-Writeup-a709834f3120.md
+---
+
+# Investigating Windows Tryhackme Writeup a709834f3120
+
 ::: {}
 # Investigating Windows Tryhackme Writeup {#investigating-windows-tryhackme-writeup .p-name}
 :::

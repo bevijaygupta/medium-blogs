@@ -1,3 +1,11 @@
+---
+title: "Which Offensive Security Tool is Your Go To for Cyber Defense  0c2fb6f8a00e"
+platform: Medium
+original_file: 2025-01-29_Which-Offensive-Security-Tool-is-Your-Go-To-for-Cyber-Defense--0c2fb6f8a00e.md
+---
+
+# Which Offensive Security Tool is Your Go To for Cyber Defense  0c2fb6f8a00e
+
 ::: {}
 # Which Offensive Security Tool is Your Go-To for Cyber Defense? {#which-offensive-security-tool-is-your-go-to-for-cyber-defense .p-name}
 :::

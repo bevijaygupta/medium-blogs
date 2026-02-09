@@ -1,3 +1,11 @@
+---
+title: "How to Become a SOC Analyst in a Year 9d438d3a8e64"
+platform: Medium
+original_file: 2024-09-17_How-to-Become-a-SOC-Analyst-in-a-Year-9d438d3a8e64.md
+---
+
+# How to Become a SOC Analyst in a Year 9d438d3a8e64
+
 ::: {}
 # How to Become a SOC Analyst in a Year {#how-to-become-a-soc-analyst-in-a-year .p-name}
 :::

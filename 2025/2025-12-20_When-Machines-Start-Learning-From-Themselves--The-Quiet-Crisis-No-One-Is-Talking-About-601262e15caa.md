@@ -1,3 +1,11 @@
+---
+title: "When Machines Start Learning From Themselves  The Quiet Crisis No One Is Talking About 601262e15caa"
+platform: Medium
+original_file: 2025-12-20_When-Machines-Start-Learning-From-Themselves--The-Quiet-Crisis-No-One-Is-Talking-About-601262e15caa.md
+---
+
+# When Machines Start Learning From Themselves  The Quiet Crisis No One Is Talking About 601262e15caa
+
 ::: {}
 # When Machines Start Learning From Themselves: The Quiet Crisis No One Is Talking About {#when-machines-start-learning-from-themselves-the-quiet-crisis-no-one-is-talking-about .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Python learning platforms 066e986f187e"
+platform: Medium
+original_file: 2024-03-18_Python-learning-platforms-066e986f187e.md
+---
+
+# Python learning platforms 066e986f187e
+
 ::: {}
 # Python learning platforms {#python-learning-platforms .p-name}
 :::

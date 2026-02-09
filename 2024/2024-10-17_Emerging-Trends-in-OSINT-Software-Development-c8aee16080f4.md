@@ -1,3 +1,11 @@
+---
+title: "Emerging Trends in OSINT Software Development c8aee16080f4"
+platform: Medium
+original_file: 2024-10-17_Emerging-Trends-in-OSINT-Software-Development-c8aee16080f4.md
+---
+
+# Emerging Trends in OSINT Software Development c8aee16080f4
+
 ::: {}
 # Emerging Trends in OSINT Software Development {#emerging-trends-in-osint-software-development .p-name}
 :::

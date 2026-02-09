@@ -1,3 +1,11 @@
+---
+title: "Chocolate Factory Tryhackme Writeup 6f7eeb33e8f0"
+platform: Medium
+original_file: 2024-08-24_Chocolate-Factory-Tryhackme-Writeup-6f7eeb33e8f0.md
+---
+
+# Chocolate Factory Tryhackme Writeup 6f7eeb33e8f0
+
 ::: {}
 # Chocolate Factory Tryhackme Writeup {#chocolate-factory-tryhackme-writeup .p-name}
 :::

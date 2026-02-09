@@ -1,3 +1,11 @@
+---
+title: "Common Windows Event IDs 852ae155b58f"
+platform: Medium
+original_file: 2024-11-19_Common-Windows-Event-IDs-852ae155b58f.md
+---
+
+# Common Windows Event IDs 852ae155b58f
+
 ::: {}
 # Common Windows Event IDs {#common-windows-event-ids .p-name}
 :::

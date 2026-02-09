@@ -1,3 +1,11 @@
+---
+title: "The Storm is Coming  Here s Exactly What I m Doing With My Portfolio Right Now eacb0126d3d4"
+platform: Medium
+original_file: 2025-08-29_The-Storm-is-Coming--Here-s-Exactly-What-I-m-Doing-With-My-Portfolio-Right-Now-eacb0126d3d4.md
+---
+
+# The Storm is Coming  Here s Exactly What I m Doing With My Portfolio Right Now eacb0126d3d4
+
 ::: {}
 # The Storm is Coming: Here's Exactly What I'm Doing With My Portfolio Right Now {#the-storm-is-coming-heres-exactly-what-im-doing-with-my-portfolio-right-now .p-name}
 :::

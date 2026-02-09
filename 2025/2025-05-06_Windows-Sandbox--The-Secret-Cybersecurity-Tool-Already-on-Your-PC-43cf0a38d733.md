@@ -1,3 +1,11 @@
+---
+title: "Windows Sandbox  The Secret Cybersecurity Tool Already on Your PC 43cf0a38d733"
+platform: Medium
+original_file: 2025-05-06_Windows-Sandbox--The-Secret-Cybersecurity-Tool-Already-on-Your-PC-43cf0a38d733.md
+---
+
+# Windows Sandbox  The Secret Cybersecurity Tool Already on Your PC 43cf0a38d733
+
 ::: {}
 # Windows Sandbox: The Secret Cybersecurity Tool Already on Your PC {#windows-sandbox-the-secret-cybersecurity-tool-already-on-your-pc .p-name}
 :::

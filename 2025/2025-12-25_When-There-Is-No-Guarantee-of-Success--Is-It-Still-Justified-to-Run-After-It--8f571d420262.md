@@ -1,3 +1,11 @@
+---
+title: "When There Is No Guarantee of Success  Is It Still Justified to Run After It  8f571d420262"
+platform: Medium
+original_file: 2025-12-25_When-There-Is-No-Guarantee-of-Success--Is-It-Still-Justified-to-Run-After-It--8f571d420262.md
+---
+
+# When There Is No Guarantee of Success  Is It Still Justified to Run After It  8f571d420262
+
 ::: {}
 # When There Is No Guarantee of Success, Is It Still Justified to Run After It? {#when-there-is-no-guarantee-of-success-is-it-still-justified-to-run-after-it .p-name}
 :::

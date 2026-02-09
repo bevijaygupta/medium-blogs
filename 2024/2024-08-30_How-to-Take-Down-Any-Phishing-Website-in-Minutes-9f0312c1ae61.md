@@ -1,3 +1,11 @@
+---
+title: "How to Take Down Any Phishing Website in Minutes 9f0312c1ae61"
+platform: Medium
+original_file: 2024-08-30_How-to-Take-Down-Any-Phishing-Website-in-Minutes-9f0312c1ae61.md
+---
+
+# How to Take Down Any Phishing Website in Minutes 9f0312c1ae61
+
 ::: {}
 # How to Take Down Any Phishing Website in Minutes {#how-to-take-down-any-phishing-website-in-minutes .p-name}
 :::

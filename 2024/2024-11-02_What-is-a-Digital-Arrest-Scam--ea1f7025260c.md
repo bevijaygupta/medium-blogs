@@ -1,3 +1,11 @@
+---
+title: "What is a Digital Arrest Scam  ea1f7025260c"
+platform: Medium
+original_file: 2024-11-02_What-is-a-Digital-Arrest-Scam--ea1f7025260c.md
+---
+
+# What is a Digital Arrest Scam  ea1f7025260c
+
 ::: {}
 # What is a Digital Arrest Scam? {#what-is-a-digital-arrest-scam .p-name}
 :::

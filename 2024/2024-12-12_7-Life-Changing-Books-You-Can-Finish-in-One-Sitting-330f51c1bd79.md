@@ -1,3 +1,11 @@
+---
+title: "7 Life Changing Books You Can Finish in One Sitting 330f51c1bd79"
+platform: Medium
+original_file: 2024-12-12_7-Life-Changing-Books-You-Can-Finish-in-One-Sitting-330f51c1bd79.md
+---
+
+# 7 Life Changing Books You Can Finish in One Sitting 330f51c1bd79
+
 ::: {}
 # 7 Life-Changing Books You Can Finish in One Sitting {#life-changing-books-you-can-finish-in-one-sitting .p-name}
 :::

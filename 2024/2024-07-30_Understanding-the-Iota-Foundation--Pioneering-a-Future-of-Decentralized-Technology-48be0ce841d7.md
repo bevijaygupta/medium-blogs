@@ -1,3 +1,11 @@
+---
+title: "Understanding the Iota Foundation  Pioneering a Future of Decentralized Technology 48be0ce841d7"
+platform: Medium
+original_file: 2024-07-30_Understanding-the-Iota-Foundation--Pioneering-a-Future-of-Decentralized-Technology-48be0ce841d7.md
+---
+
+# Understanding the Iota Foundation  Pioneering a Future of Decentralized Technology 48be0ce841d7
+
 ::: {}
 # Understanding the Iota Foundation: Pioneering a Future of Decentralized Technology {#understanding-the-iota-foundation-pioneering-a-future-of-decentralized-technology .p-name}
 :::

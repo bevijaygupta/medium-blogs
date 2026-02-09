@@ -1,3 +1,11 @@
+---
+title: "Training Resources for Aspiring OSINT Analysts 790e9d64faed"
+platform: Medium
+original_file: 2024-10-11_Training-Resources-for-Aspiring-OSINT-Analysts-790e9d64faed.md
+---
+
+# Training Resources for Aspiring OSINT Analysts 790e9d64faed
+
 ::: {}
 # Training Resources for Aspiring OSINT Analysts {#training-resources-for-aspiring-osint-analysts .p-name}
 :::

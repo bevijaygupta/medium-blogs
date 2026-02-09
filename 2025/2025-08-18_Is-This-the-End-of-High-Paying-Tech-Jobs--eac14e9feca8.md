@@ -1,3 +1,11 @@
+---
+title: "Is This the End of High Paying Tech Jobs  eac14e9feca8"
+platform: Medium
+original_file: 2025-08-18_Is-This-the-End-of-High-Paying-Tech-Jobs--eac14e9feca8.md
+---
+
+# Is This the End of High Paying Tech Jobs  eac14e9feca8
+
 ::: {}
 # Is This the End of High-Paying Tech Jobs? {#is-this-the-end-of-high-paying-tech-jobs .p-name}
 :::

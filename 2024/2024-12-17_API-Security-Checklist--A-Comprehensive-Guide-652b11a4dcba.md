@@ -1,3 +1,11 @@
+---
+title: "API Security Checklist  A Comprehensive Guide 652b11a4dcba"
+platform: Medium
+original_file: 2024-12-17_API-Security-Checklist--A-Comprehensive-Guide-652b11a4dcba.md
+---
+
+# API Security Checklist  A Comprehensive Guide 652b11a4dcba
+
 ::: {}
 # API Security Checklist: A Comprehensive Guide {#api-security-checklist-a-comprehensive-guide .p-name}
 :::

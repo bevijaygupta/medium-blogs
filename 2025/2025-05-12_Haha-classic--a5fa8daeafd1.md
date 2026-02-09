@@ -1,3 +1,11 @@
+---
+title: "Haha classic  a5fa8daeafd1"
+platform: Medium
+original_file: 2025-05-12_Haha-classic--a5fa8daeafd1.md
+---
+
+# Haha classic  a5fa8daeafd1
+
 ::: {}
 # Haha classic! {#haha-classic .p-name}
 :::

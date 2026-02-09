@@ -1,3 +1,11 @@
+---
+title: "Your Money Is Their Target  How to Spot   Stop Online Scams Like a Cybersecurity Pro 6a72e415379d"
+platform: Medium
+original_file: 2025-09-19_Your-Money-Is-Their-Target--How-to-Spot---Stop-Online-Scams-Like-a-Cybersecurity-Pro-6a72e415379d.md
+---
+
+# Your Money Is Their Target  How to Spot   Stop Online Scams Like a Cybersecurity Pro 6a72e415379d
+
 ::: {}
 # Your Money Is Their Target: How to Spot & Stop Online Scams Like a Cybersecurity Pro {#your-money-is-their-target-how-to-spot-stop-online-scams-like-a-cybersecurity-pro .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "40 Hours of Fear  A Story with Lessons for All d1edb6ea1501"
+platform: Medium
+original_file: 2025-01-09_40-Hours-of-Fear--A-Story-with-Lessons-for-All-d1edb6ea1501.md
+---
+
+# 40 Hours of Fear  A Story with Lessons for All d1edb6ea1501
+
 ::: {}
 # 40 Hours of Fear: A Story with Lessons for All {#hours-of-fear-a-story-with-lessons-for-all .p-name}
 :::

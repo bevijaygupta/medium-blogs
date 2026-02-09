@@ -1,3 +1,11 @@
+---
+title: "Hi David  Thanks for your response to my cybercrime post  where your website was mentioned   e58de16a8783"
+platform: Medium
+original_file: 2025-05-30_Hi-David--Thanks-for-your-response-to-my-cybercrime-post--where-your-website-was-mentioned---e58de16a8783.md
+---
+
+# Hi David  Thanks for your response to my cybercrime post  where your website was mentioned   e58de16a8783
+
 ::: {}
 # Hi David, Thanks for your response to my cybercrime post (where your website was mentioned). {#hi-david-thanks-for-your-response-to-my-cybercrime-post-where-your-website-was-mentioned. .p-name}
 :::

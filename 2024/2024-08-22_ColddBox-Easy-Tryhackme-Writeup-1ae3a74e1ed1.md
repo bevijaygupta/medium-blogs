@@ -1,3 +1,11 @@
+---
+title: "ColddBox Easy Tryhackme Writeup 1ae3a74e1ed1"
+platform: Medium
+original_file: 2024-08-22_ColddBox-Easy-Tryhackme-Writeup-1ae3a74e1ed1.md
+---
+
+# ColddBox Easy Tryhackme Writeup 1ae3a74e1ed1
+
 ::: {}
 # ColddBox Easy Tryhackme Writeup {#colddbox-easy-tryhackme-writeup .p-name}
 :::

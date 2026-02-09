@@ -1,3 +1,11 @@
+---
+title: "8 Types of Workplace Toxicity That Drain Your Energy 708b2d3ac03b"
+platform: Medium
+original_file: 2025-05-25_8-Types-of-Workplace-Toxicity-That-Drain-Your-Energy-708b2d3ac03b.md
+---
+
+# 8 Types of Workplace Toxicity That Drain Your Energy 708b2d3ac03b
+
 ::: {}
 # 8 Types of Workplace Toxicity That Drain Your Energy {#types-of-workplace-toxicity-that-drain-your-energy .p-name}
 :::

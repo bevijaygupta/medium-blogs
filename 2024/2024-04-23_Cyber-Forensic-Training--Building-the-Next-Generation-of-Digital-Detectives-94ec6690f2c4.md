@@ -1,3 +1,11 @@
+---
+title: "Cyber Forensic Training  Building the Next Generation of Digital Detectives 94ec6690f2c4"
+platform: Medium
+original_file: 2024-04-23_Cyber-Forensic-Training--Building-the-Next-Generation-of-Digital-Detectives-94ec6690f2c4.md
+---
+
+# Cyber Forensic Training  Building the Next Generation of Digital Detectives 94ec6690f2c4
+
 ::: {}
 # Cyber Forensic Training: Building the Next Generation of Digital Detectives {#cyber-forensic-training-building-the-next-generation-of-digital-detectives .p-name}
 :::

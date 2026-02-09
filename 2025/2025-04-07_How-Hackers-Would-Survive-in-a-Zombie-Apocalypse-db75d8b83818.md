@@ -1,3 +1,11 @@
+---
+title: "How Hackers Would Survive in a Zombie Apocalypse db75d8b83818"
+platform: Medium
+original_file: 2025-04-07_How-Hackers-Would-Survive-in-a-Zombie-Apocalypse-db75d8b83818.md
+---
+
+# How Hackers Would Survive in a Zombie Apocalypse db75d8b83818
+
 ::: {}
 # How Hackers Would Survive in a Zombie Apocalypse {#how-hackers-would-survive-in-a-zombie-apocalypse .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "A Wake Up Call for Every Indian ca485daa8112"
+platform: Medium
+original_file: 2026-01-27_A-Wake-Up-Call-for-Every-Indian-ca485daa8112.md
+---
+
+# A Wake Up Call for Every Indian ca485daa8112
+
 ::: {}
 # A Wake-Up Call for Every Indian {#a-wake-up-call-for-every-indian .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Getting Started with Kali Linux for Beginners 9656982684fb"
+platform: Medium
+original_file: 2024-09-22_Getting-Started-with-Kali-Linux-for-Beginners-9656982684fb.md
+---
+
+# Getting Started with Kali Linux for Beginners 9656982684fb
+
 ::: {}
 # Getting Started with Kali Linux for Beginners {#getting-started-with-kali-linux-for-beginners .p-name}
 :::

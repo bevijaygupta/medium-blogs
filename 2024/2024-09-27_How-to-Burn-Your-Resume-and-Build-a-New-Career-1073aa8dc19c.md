@@ -1,3 +1,11 @@
+---
+title: "How to Burn Your Resume and Build a New Career 1073aa8dc19c"
+platform: Medium
+original_file: 2024-09-27_How-to-Burn-Your-Resume-and-Build-a-New-Career-1073aa8dc19c.md
+---
+
+# How to Burn Your Resume and Build a New Career 1073aa8dc19c
+
 ::: {}
 # How to Burn Your Resume and Build a New Career {#how-to-burn-your-resume-and-build-a-new-career .p-name}
 :::

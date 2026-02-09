@@ -1,3 +1,11 @@
+---
+title: "SOC Fundamentals  The Heart of Cybersecurity       a6f4b4cd5b4c"
+platform: Medium
+original_file: 2025-01-23_SOC-Fundamentals--The-Heart-of-Cybersecurity-------a6f4b4cd5b4c.md
+---
+
+# SOC Fundamentals  The Heart of Cybersecurity       a6f4b4cd5b4c
+
 ::: {}
 # SOC Fundamentals: The Heart of Cybersecurity! 🌐🤖 {#soc-fundamentals-the-heart-of-cybersecurity .p-name}
 :::

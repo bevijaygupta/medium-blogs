@@ -1,3 +1,11 @@
+---
+title: "Why Hackers Don t Actually Say  I m In  2084cb892269"
+platform: Medium
+original_file: 2025-04-14_Why-Hackers-Don-t-Actually-Say--I-m-In--2084cb892269.md
+---
+
+# Why Hackers Don t Actually Say  I m In  2084cb892269
+
 ::: {}
 # Why Hackers Don't Actually Say 'I'm In' {#why-hackers-dont-actually-say-im-in .p-name}
 :::

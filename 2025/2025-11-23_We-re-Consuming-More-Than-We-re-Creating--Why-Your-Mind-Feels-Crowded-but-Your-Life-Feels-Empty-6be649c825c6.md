@@ -1,3 +1,11 @@
+---
+title: "We re Consuming More Than We re Creating  Why Your Mind Feels Crowded but Your Life Feels Empty 6be649c825c6"
+platform: Medium
+original_file: 2025-11-23_We-re-Consuming-More-Than-We-re-Creating--Why-Your-Mind-Feels-Crowded-but-Your-Life-Feels-Empty-6be649c825c6.md
+---
+
+# We re Consuming More Than We re Creating  Why Your Mind Feels Crowded but Your Life Feels Empty 6be649c825c6
+
 ::: {}
 # We're Consuming More Than We're Creating: Why Your Mind Feels Crowded but Your Life Feels Empty {#were-consuming-more-than-were-creating-why-your-mind-feels-crowded-but-your-life-feels-empty .p-name}
 :::

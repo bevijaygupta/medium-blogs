@@ -1,3 +1,11 @@
+---
+title: "Did You Know 95  of Cybersecurity Breaches Are Caused by Human Error  e0ae88515c54"
+platform: Medium
+original_file: 2025-01-19_Did-You-Know-95--of-Cybersecurity-Breaches-Are-Caused-by-Human-Error--e0ae88515c54.md
+---
+
+# Did You Know 95  of Cybersecurity Breaches Are Caused by Human Error  e0ae88515c54
+
 ::: {}
 # Did You Know 95% of Cybersecurity Breaches Are Caused by Human Error? {#did-you-know-95-of-cybersecurity-breaches-are-caused-by-human-error .p-name}
 :::

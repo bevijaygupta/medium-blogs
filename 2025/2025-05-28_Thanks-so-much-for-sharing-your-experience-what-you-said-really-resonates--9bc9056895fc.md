@@ -1,3 +1,11 @@
+---
+title: "Thanks so much for sharing your experience what you said really resonates  9bc9056895fc"
+platform: Medium
+original_file: 2025-05-28_Thanks-so-much-for-sharing-your-experience-what-you-said-really-resonates--9bc9056895fc.md
+---
+
+# Thanks so much for sharing your experience what you said really resonates  9bc9056895fc
+
 ::: {}
 # Thanks so much for sharing your experience---what you said really resonates. {#thanks-so-much-for-sharing-your-experiencewhat-you-said-really-resonates. .p-name}
 :::

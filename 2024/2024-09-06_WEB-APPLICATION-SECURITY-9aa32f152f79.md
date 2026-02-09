@@ -1,3 +1,11 @@
+---
+title: "WEB APPLICATION SECURITY 9aa32f152f79"
+platform: Medium
+original_file: 2024-09-06_WEB-APPLICATION-SECURITY-9aa32f152f79.md
+---
+
+# WEB APPLICATION SECURITY 9aa32f152f79
+
 ::: {}
 # WEB APPLICATION SECURITY {#web-application-security .p-name}
 :::

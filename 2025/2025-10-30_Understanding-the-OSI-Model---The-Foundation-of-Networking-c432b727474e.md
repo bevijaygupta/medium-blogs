@@ -1,3 +1,11 @@
+---
+title: "Understanding the OSI Model   The Foundation of Networking c432b727474e"
+platform: Medium
+original_file: 2025-10-30_Understanding-the-OSI-Model---The-Foundation-of-Networking-c432b727474e.md
+---
+
+# Understanding the OSI Model   The Foundation of Networking c432b727474e
+
 ::: {}
 # Understanding the OSI Model --- The Foundation of Networking {#understanding-the-osi-model-the-foundation-of-networking .p-name}
 :::

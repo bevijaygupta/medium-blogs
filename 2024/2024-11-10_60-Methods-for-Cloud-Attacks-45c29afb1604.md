@@ -1,3 +1,11 @@
+---
+title: "60 Methods for Cloud Attacks 45c29afb1604"
+platform: Medium
+original_file: 2024-11-10_60-Methods-for-Cloud-Attacks-45c29afb1604.md
+---
+
+# 60 Methods for Cloud Attacks 45c29afb1604
+
 ::: {}
 # 60 Methods for Cloud Attacks {#methods-for-cloud-attacks .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Kali Linux Course  A Comprehensive Guide 5c34ed39e350"
+platform: Medium
+original_file: 2024-05-26_Kali-Linux-Course--A-Comprehensive-Guide-5c34ed39e350.md
+---
+
+# Kali Linux Course  A Comprehensive Guide 5c34ed39e350
+
 ::: {}
 # Kali Linux Course: A Comprehensive Guide {#kali-linux-course-a-comprehensive-guide .p-name}
 :::

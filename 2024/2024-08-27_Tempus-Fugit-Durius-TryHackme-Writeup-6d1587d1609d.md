@@ -1,3 +1,11 @@
+---
+title: "Tempus Fugit Durius TryHackme Writeup 6d1587d1609d"
+platform: Medium
+original_file: 2024-08-27_Tempus-Fugit-Durius-TryHackme-Writeup-6d1587d1609d.md
+---
+
+# Tempus Fugit Durius TryHackme Writeup 6d1587d1609d
+
 ::: {}
 # Tempus Fugit Durius TryHackme Writeup {#tempus-fugit-durius-tryhackme-writeup .p-name}
 :::

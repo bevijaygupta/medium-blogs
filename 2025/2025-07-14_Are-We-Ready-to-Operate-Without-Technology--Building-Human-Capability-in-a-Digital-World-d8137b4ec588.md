@@ -1,3 +1,11 @@
+---
+title: "Are We Ready to Operate Without Technology  Building Human Capability in a Digital World d8137b4ec588"
+platform: Medium
+original_file: 2025-07-14_Are-We-Ready-to-Operate-Without-Technology--Building-Human-Capability-in-a-Digital-World-d8137b4ec588.md
+---
+
+# Are We Ready to Operate Without Technology  Building Human Capability in a Digital World d8137b4ec588
+
 ::: {}
 # Are We Ready to Operate Without Technology? Building Human Capability in a Digital World {#are-we-ready-to-operate-without-technology-building-human-capability-in-a-digital-world .p-name}
 :::

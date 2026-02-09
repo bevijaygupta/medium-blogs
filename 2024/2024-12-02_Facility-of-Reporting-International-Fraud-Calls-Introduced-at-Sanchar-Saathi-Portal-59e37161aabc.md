@@ -1,3 +1,11 @@
+---
+title: "Facility of Reporting International Fraud Calls Introduced at Sanchar Saathi Portal 59e37161aabc"
+platform: Medium
+original_file: 2024-12-02_Facility-of-Reporting-International-Fraud-Calls-Introduced-at-Sanchar-Saathi-Portal-59e37161aabc.md
+---
+
+# Facility of Reporting International Fraud Calls Introduced at Sanchar Saathi Portal 59e37161aabc
+
 ::: {}
 # Facility of Reporting International Fraud Calls Introduced at Sanchar Saathi Portal {#facility-of-reporting-international-fraud-calls-introduced-at-sanchar-saathi-portal .p-name}
 :::

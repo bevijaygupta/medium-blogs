@@ -1,3 +1,11 @@
+---
+title: "If Hackers Were in a Reality Show   Who Gets Voted Out First  3c5a73fe79d5"
+platform: Medium
+original_file: 2025-05-09_If-Hackers-Were-in-a-Reality-Show---Who-Gets-Voted-Out-First--3c5a73fe79d5.md
+---
+
+# If Hackers Were in a Reality Show   Who Gets Voted Out First  3c5a73fe79d5
+
 ::: {}
 # If Hackers Were in a Reality Show --- Who Gets Voted Out First? {#if-hackers-were-in-a-reality-show-who-gets-voted-out-first .p-name}
 :::

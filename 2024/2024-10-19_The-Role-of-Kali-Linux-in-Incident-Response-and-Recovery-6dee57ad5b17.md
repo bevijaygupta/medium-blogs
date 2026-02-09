@@ -1,3 +1,11 @@
+---
+title: "The Role of Kali Linux in Incident Response and Recovery 6dee57ad5b17"
+platform: Medium
+original_file: 2024-10-19_The-Role-of-Kali-Linux-in-Incident-Response-and-Recovery-6dee57ad5b17.md
+---
+
+# The Role of Kali Linux in Incident Response and Recovery 6dee57ad5b17
+
 ::: {}
 # The Role of Kali Linux in Incident Response and Recovery {#the-role-of-kali-linux-in-incident-response-and-recovery .p-name}
 :::

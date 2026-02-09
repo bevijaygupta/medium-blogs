@@ -1,3 +1,11 @@
+---
+title: "Becoming a Boring Person and Living a Boring Life 0e1f01f1fb46"
+platform: Medium
+original_file: 2025-08-08_Becoming-a-Boring-Person-and-Living-a-Boring-Life-0e1f01f1fb46.md
+---
+
+# Becoming a Boring Person and Living a Boring Life 0e1f01f1fb46
+
 ::: {}
 # Becoming a Boring Person and Living a Boring Life {#becoming-a-boring-person-and-living-a-boring-life .p-name}
 :::

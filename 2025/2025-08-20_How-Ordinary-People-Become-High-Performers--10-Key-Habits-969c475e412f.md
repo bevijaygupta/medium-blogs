@@ -1,3 +1,11 @@
+---
+title: "How Ordinary People Become High Performers  10 Key Habits 969c475e412f"
+platform: Medium
+original_file: 2025-08-20_How-Ordinary-People-Become-High-Performers--10-Key-Habits-969c475e412f.md
+---
+
+# How Ordinary People Become High Performers  10 Key Habits 969c475e412f
+
 ::: {}
 # How Ordinary People Become High Performers: 10 Key Habits {#how-ordinary-people-become-high-performers-10-key-habits .p-name}
 :::

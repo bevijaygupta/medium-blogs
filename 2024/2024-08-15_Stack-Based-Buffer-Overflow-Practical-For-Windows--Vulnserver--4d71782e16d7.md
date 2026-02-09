@@ -1,3 +1,11 @@
+---
+title: "Stack Based Buffer Overflow Practical For Windows  Vulnserver  4d71782e16d7"
+platform: Medium
+original_file: 2024-08-15_Stack-Based-Buffer-Overflow-Practical-For-Windows--Vulnserver--4d71782e16d7.md
+---
+
+# Stack Based Buffer Overflow Practical For Windows  Vulnserver  4d71782e16d7
+
 ::: {}
 # Stack Based Buffer Overflow Practical For Windows (Vulnserver) {#stack-based-buffer-overflow-practical-for-windows-vulnserver .p-name}
 :::

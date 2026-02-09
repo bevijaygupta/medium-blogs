@@ -1,3 +1,11 @@
+---
+title: "The Great Digital Forensic Science Delusion  Exposing the Dark Reality Behind the Dream 88ef2c2dc361"
+platform: Medium
+original_file: 2025-09-26_The-Great-Digital-Forensic-Science-Delusion--Exposing-the-Dark-Reality-Behind-the-Dream-88ef2c2dc361.md
+---
+
+# The Great Digital Forensic Science Delusion  Exposing the Dark Reality Behind the Dream 88ef2c2dc361
+
 ::: {}
 # The Great Digital Forensic Science Delusion: Exposing the Dark Reality Behind the Dream {#the-great-digital-forensic-science-delusion-exposing-the-dark-reality-behind-the-dream .p-name}
 :::

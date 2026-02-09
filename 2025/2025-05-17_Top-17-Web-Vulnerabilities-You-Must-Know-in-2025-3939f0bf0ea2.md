@@ -1,3 +1,11 @@
+---
+title: "Top 17 Web Vulnerabilities You Must Know in 2025 3939f0bf0ea2"
+platform: Medium
+original_file: 2025-05-17_Top-17-Web-Vulnerabilities-You-Must-Know-in-2025-3939f0bf0ea2.md
+---
+
+# Top 17 Web Vulnerabilities You Must Know in 2025 3939f0bf0ea2
+
 ::: {}
 # Top 17 Web Vulnerabilities You Must Know in 2025 {#top-17-web-vulnerabilities-you-must-know-in-2025 .p-name}
 :::

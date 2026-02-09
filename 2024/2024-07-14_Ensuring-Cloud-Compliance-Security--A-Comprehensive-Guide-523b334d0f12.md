@@ -1,3 +1,11 @@
+---
+title: "Ensuring Cloud Compliance Security  A Comprehensive Guide 523b334d0f12"
+platform: Medium
+original_file: 2024-07-14_Ensuring-Cloud-Compliance-Security--A-Comprehensive-Guide-523b334d0f12.md
+---
+
+# Ensuring Cloud Compliance Security  A Comprehensive Guide 523b334d0f12
+
 ::: {}
 # Ensuring Cloud Compliance Security: A Comprehensive Guide {#ensuring-cloud-compliance-security-a-comprehensive-guide .p-name}
 :::

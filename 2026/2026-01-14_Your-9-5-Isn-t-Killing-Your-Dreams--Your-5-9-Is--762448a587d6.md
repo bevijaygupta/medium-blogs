@@ -1,3 +1,11 @@
+---
+title: "Your 9 5 Isn t Killing Your Dreams  Your 5 9 Is  762448a587d6"
+platform: Medium
+original_file: 2026-01-14_Your-9-5-Isn-t-Killing-Your-Dreams--Your-5-9-Is--762448a587d6.md
+---
+
+# Your 9 5 Isn t Killing Your Dreams  Your 5 9 Is  762448a587d6
+
 ::: {}
 # Your 9--5 Isn't Killing Your Dreams. Your 5--9 Is. {#your-95-isnt-killing-your-dreams.-your-59-is. .p-name}
 :::

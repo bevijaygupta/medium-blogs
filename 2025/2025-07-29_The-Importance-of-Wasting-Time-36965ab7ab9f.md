@@ -1,3 +1,11 @@
+---
+title: "The Importance of Wasting Time 36965ab7ab9f"
+platform: Medium
+original_file: 2025-07-29_The-Importance-of-Wasting-Time-36965ab7ab9f.md
+---
+
+# The Importance of Wasting Time 36965ab7ab9f
+
 ::: {}
 # The Importance of Wasting Time {#the-importance-of-wasting-time .p-name}
 :::

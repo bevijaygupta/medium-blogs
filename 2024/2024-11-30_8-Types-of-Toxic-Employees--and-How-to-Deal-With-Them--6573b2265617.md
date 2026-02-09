@@ -1,3 +1,11 @@
+---
+title: "8 Types of Toxic Employees  and How to Deal With Them  6573b2265617"
+platform: Medium
+original_file: 2024-11-30_8-Types-of-Toxic-Employees--and-How-to-Deal-With-Them--6573b2265617.md
+---
+
+# 8 Types of Toxic Employees  and How to Deal With Them  6573b2265617
+
 ::: {}
 # 8 Types of Toxic Employees (and How to Deal With Them) {#types-of-toxic-employees-and-how-to-deal-with-them .p-name}
 :::

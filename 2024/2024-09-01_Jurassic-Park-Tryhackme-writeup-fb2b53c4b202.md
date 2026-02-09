@@ -1,3 +1,11 @@
+---
+title: "Jurassic Park Tryhackme writeup fb2b53c4b202"
+platform: Medium
+original_file: 2024-09-01_Jurassic-Park-Tryhackme-writeup-fb2b53c4b202.md
+---
+
+# Jurassic Park Tryhackme writeup fb2b53c4b202
+
 ::: {}
 # Jurassic Park Tryhackme writeup {#jurassic-park-tryhackme-writeup .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "DNS Manipulation Tryhackme Writeup 425afe31c2c0"
+platform: Medium
+original_file: 2024-08-18_DNS-Manipulation-Tryhackme-Writeup-425afe31c2c0.md
+---
+
+# DNS Manipulation Tryhackme Writeup 425afe31c2c0
+
 ::: {}
 # DNS Manipulation Tryhackme Writeup {#dns-manipulation-tryhackme-writeup .p-name}
 :::

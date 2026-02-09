@@ -1,3 +1,11 @@
+---
+title: "What Are the Risks of Using Outdated Security Protocols in Modern Systems  3f3436de1c5b"
+platform: Medium
+original_file: 2024-09-11_What-Are-the-Risks-of-Using-Outdated-Security-Protocols-in-Modern-Systems--3f3436de1c5b.md
+---
+
+# What Are the Risks of Using Outdated Security Protocols in Modern Systems  3f3436de1c5b
+
 ::: {}
 # What Are the Risks of Using Outdated Security Protocols in Modern Systems? {#what-are-the-risks-of-using-outdated-security-protocols-in-modern-systems .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "8 Signs It s Time to Leave a Job That Doesn t Value You 23545f34bdcb"
+platform: Medium
+original_file: 2024-11-01_8-Signs-It-s-Time-to-Leave-a-Job-That-Doesn-t-Value-You-23545f34bdcb.md
+---
+
+# 8 Signs It s Time to Leave a Job That Doesn t Value You 23545f34bdcb
+
 ::: {}
 # 8 Signs It's Time to Leave a Job That Doesn't Value You {#signs-its-time-to-leave-a-job-that-doesnt-value-you .p-name}
 :::

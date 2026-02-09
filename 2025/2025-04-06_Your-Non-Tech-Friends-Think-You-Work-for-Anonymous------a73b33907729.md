@@ -1,3 +1,11 @@
+---
+title: "Your Non Tech Friends Think You Work for Anonymous      a73b33907729"
+platform: Medium
+original_file: 2025-04-06_Your-Non-Tech-Friends-Think-You-Work-for-Anonymous------a73b33907729.md
+---
+
+# Your Non Tech Friends Think You Work for Anonymous      a73b33907729
+
 ::: {}
 # Your Non-Tech Friends Think You Work for Anonymous 😎💻 {#your-non-tech-friends-think-you-work-for-anonymous .p-name}
 :::

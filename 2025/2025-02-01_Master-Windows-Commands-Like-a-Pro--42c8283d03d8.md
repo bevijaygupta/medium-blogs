@@ -1,3 +1,11 @@
+---
+title: "Master Windows Commands Like a Pro  42c8283d03d8"
+platform: Medium
+original_file: 2025-02-01_Master-Windows-Commands-Like-a-Pro--42c8283d03d8.md
+---
+
+# Master Windows Commands Like a Pro  42c8283d03d8
+
 ::: {}
 # Master Windows Commands Like a Pro! {#master-windows-commands-like-a-pro .p-name}
 :::

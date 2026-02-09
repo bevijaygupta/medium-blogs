@@ -1,3 +1,11 @@
+---
+title: "IoT Devices  Transforming the Modern World cb34e9b8ebed"
+platform: Medium
+original_file: 2024-07-26_IoT-Devices--Transforming-the-Modern-World-cb34e9b8ebed.md
+---
+
+# IoT Devices  Transforming the Modern World cb34e9b8ebed
+
 ::: {}
 # IoT Devices: Transforming the Modern World {#iot-devices-transforming-the-modern-world .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "The Cybersecurity Escape Room  Every Mistake I Made in My First Job edee5430548a"
+platform: Medium
+original_file: 2025-05-12_The-Cybersecurity-Escape-Room--Every-Mistake-I-Made-in-My-First-Job-edee5430548a.md
+---
+
+# The Cybersecurity Escape Room  Every Mistake I Made in My First Job edee5430548a
+
 ::: {}
 # The Cybersecurity Escape Room: Every Mistake I Made in My First Job {#the-cybersecurity-escape-room-every-mistake-i-made-in-my-first-job .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "When Passion Meets Panic  How I m Learning to Navigate Overwhelm While Chasing My Dreams a2c2a068c928"
+platform: Medium
+original_file: 2025-05-20_When-Passion-Meets-Panic--How-I-m-Learning-to-Navigate-Overwhelm-While-Chasing-My-Dreams-a2c2a068c928.md
+---
+
+# When Passion Meets Panic  How I m Learning to Navigate Overwhelm While Chasing My Dreams a2c2a068c928
+
 ::: {}
 # When Passion Meets Panic: How I'm Learning to Navigate Overwhelm While Chasing My Dreams {#when-passion-meets-panic-how-im-learning-to-navigate-overwhelm-while-chasing-my-dreams .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Linux Challenges Tryhackme Writeup 22d8f031b419"
+platform: Medium
+original_file: 2024-08-26_Linux-Challenges-Tryhackme-Writeup-22d8f031b419.md
+---
+
+# Linux Challenges Tryhackme Writeup 22d8f031b419
+
 ::: {}
 # Linux Challenges Tryhackme Writeup {#linux-challenges-tryhackme-writeup .p-name}
 :::

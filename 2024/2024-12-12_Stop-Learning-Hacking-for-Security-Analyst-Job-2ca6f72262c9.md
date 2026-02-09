@@ -1,3 +1,11 @@
+---
+title: "Stop Learning Hacking for Security Analyst Job 2ca6f72262c9"
+platform: Medium
+original_file: 2024-12-12_Stop-Learning-Hacking-for-Security-Analyst-Job-2ca6f72262c9.md
+---
+
+# Stop Learning Hacking for Security Analyst Job 2ca6f72262c9
+
 ::: {}
 # Stop Learning Hacking for Security Analyst Job {#stop-learning-hacking-for-security-analyst-job .p-name}
 :::

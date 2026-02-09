@@ -1,3 +1,11 @@
+---
+title: "50 Ways to Hack a Device   Protect Yourself  e00149a9bf35"
+platform: Medium
+original_file: 2024-11-17_50-Ways-to-Hack-a-Device---Protect-Yourself--e00149a9bf35.md
+---
+
+# 50 Ways to Hack a Device   Protect Yourself  e00149a9bf35
+
 ::: {}
 # 50 Ways to Hack a Device & Protect Yourself! {#ways-to-hack-a-device-protect-yourself .p-name}
 :::

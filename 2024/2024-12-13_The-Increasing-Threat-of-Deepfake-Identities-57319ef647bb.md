@@ -1,3 +1,11 @@
+---
+title: "The Increasing Threat of Deepfake Identities 57319ef647bb"
+platform: Medium
+original_file: 2024-12-13_The-Increasing-Threat-of-Deepfake-Identities-57319ef647bb.md
+---
+
+# The Increasing Threat of Deepfake Identities 57319ef647bb
+
 ::: {}
 # The Increasing Threat of Deepfake Identities {#the-increasing-threat-of-deepfake-identities .p-name}
 :::

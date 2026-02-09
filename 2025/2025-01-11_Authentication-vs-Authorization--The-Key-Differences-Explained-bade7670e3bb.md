@@ -1,3 +1,11 @@
+---
+title: "Authentication vs Authorization  The Key Differences Explained bade7670e3bb"
+platform: Medium
+original_file: 2025-01-11_Authentication-vs-Authorization--The-Key-Differences-Explained-bade7670e3bb.md
+---
+
+# Authentication vs Authorization  The Key Differences Explained bade7670e3bb
+
 ::: {}
 # Authentication vs Authorization: The Key Differences Explained {#authentication-vs-authorization-the-key-differences-explained .p-name}
 :::

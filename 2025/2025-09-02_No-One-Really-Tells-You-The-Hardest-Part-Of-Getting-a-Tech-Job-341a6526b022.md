@@ -1,3 +1,11 @@
+---
+title: "No One Really Tells You The Hardest Part Of Getting a Tech Job 341a6526b022"
+platform: Medium
+original_file: 2025-09-02_No-One-Really-Tells-You-The-Hardest-Part-Of-Getting-a-Tech-Job-341a6526b022.md
+---
+
+# No One Really Tells You The Hardest Part Of Getting a Tech Job 341a6526b022
+
 ::: {}
 # No One Really Tells You The Hardest Part Of Getting a Tech Job {#no-one-really-tells-you-the-hardest-part-of-getting-a-tech-job .p-name}
 :::

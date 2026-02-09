@@ -1,3 +1,11 @@
+---
+title: "AI Automation vs  AI Agents  The REAL Difference and Why the Distinction Matters f0464782caa8"
+platform: Medium
+original_file: 2025-02-17_AI-Automation-vs--AI-Agents--The-REAL-Difference-and-Why-the-Distinction-Matters-f0464782caa8.md
+---
+
+# AI Automation vs  AI Agents  The REAL Difference and Why the Distinction Matters f0464782caa8
+
 ::: {}
 # AI Automation vs. AI Agents: The REAL Difference and Why the Distinction Matters {#ai-automation-vs.-ai-agents-the-real-difference-and-why-the-distinction-matters .p-name}
 :::

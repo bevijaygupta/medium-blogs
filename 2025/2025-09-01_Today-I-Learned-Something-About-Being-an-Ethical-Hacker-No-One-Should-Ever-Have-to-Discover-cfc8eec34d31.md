@@ -1,3 +1,11 @@
+---
+title: "Today I Learned Something About Being an Ethical Hacker No One Should Ever Have to Discover cfc8eec34d31"
+platform: Medium
+original_file: 2025-09-01_Today-I-Learned-Something-About-Being-an-Ethical-Hacker-No-One-Should-Ever-Have-to-Discover-cfc8eec34d31.md
+---
+
+# Today I Learned Something About Being an Ethical Hacker No One Should Ever Have to Discover cfc8eec34d31
+
 ::: {}
 # Today I Learned Something About Being an Ethical Hacker No One Should Ever Have to Discover {#today-i-learned-something-about-being-an-ethical-hacker-no-one-should-ever-have-to-discover .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Hacking the TP Link WR 841N Router  How I Gained Root Access d9177f97e666"
+platform: Medium
+original_file: 2025-01-28_Hacking-the-TP-Link-WR-841N-Router--How-I-Gained-Root-Access-d9177f97e666.md
+---
+
+# Hacking the TP Link WR 841N Router  How I Gained Root Access d9177f97e666
+
 ::: {}
 # Hacking the TP-Link WR-841N Router: How I Gained Root Access {#hacking-the-tp-link-wr-841n-router-how-i-gained-root-access .p-name}
 :::

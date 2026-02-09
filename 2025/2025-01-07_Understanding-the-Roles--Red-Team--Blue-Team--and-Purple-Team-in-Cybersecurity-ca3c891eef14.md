@@ -1,3 +1,11 @@
+---
+title: "Understanding the Roles  Red Team  Blue Team  and Purple Team in Cybersecurity ca3c891eef14"
+platform: Medium
+original_file: 2025-01-07_Understanding-the-Roles--Red-Team--Blue-Team--and-Purple-Team-in-Cybersecurity-ca3c891eef14.md
+---
+
+# Understanding the Roles  Red Team  Blue Team  and Purple Team in Cybersecurity ca3c891eef14
+
 ::: {}
 # Understanding the Roles: Red Team, Blue Team, and Purple Team in Cybersecurity {#understanding-the-roles-red-team-blue-team-and-purple-team-in-cybersecurity .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Upload Vulnerabilities TryHackme Writeup 56729fb3b5d1"
+platform: Medium
+original_file: 2024-08-26_Upload-Vulnerabilities-TryHackme-Writeup-56729fb3b5d1.md
+---
+
+# Upload Vulnerabilities TryHackme Writeup 56729fb3b5d1
+
 ::: {}
 # Upload Vulnerabilities TryHackme Writeup {#upload-vulnerabilities-tryhackme-writeup .p-name}
 :::

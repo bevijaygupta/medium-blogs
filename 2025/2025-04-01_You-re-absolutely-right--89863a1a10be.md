@@ -1,3 +1,11 @@
+---
+title: "You re absolutely right  89863a1a10be"
+platform: Medium
+original_file: 2025-04-01_You-re-absolutely-right--89863a1a10be.md
+---
+
+# You re absolutely right  89863a1a10be
+
 ::: {}
 # You\'re absolutely right! {#youre-absolutely-right .p-name}
 :::

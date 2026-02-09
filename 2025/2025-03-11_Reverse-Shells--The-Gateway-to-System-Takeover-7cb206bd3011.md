@@ -1,3 +1,11 @@
+---
+title: "Reverse Shells  The Gateway to System Takeover 7cb206bd3011"
+platform: Medium
+original_file: 2025-03-11_Reverse-Shells--The-Gateway-to-System-Takeover-7cb206bd3011.md
+---
+
+# Reverse Shells  The Gateway to System Takeover 7cb206bd3011
+
 ::: {}
 # Reverse Shells: The Gateway to System Takeover {#reverse-shells-the-gateway-to-system-takeover .p-name}
 :::

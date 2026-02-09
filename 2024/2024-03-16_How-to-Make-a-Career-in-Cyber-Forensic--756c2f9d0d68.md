@@ -1,3 +1,11 @@
+---
+title: "How to Make a Career in Cyber Forensic  756c2f9d0d68"
+platform: Medium
+original_file: 2024-03-16_How-to-Make-a-Career-in-Cyber-Forensic--756c2f9d0d68.md
+---
+
+# How to Make a Career in Cyber Forensic  756c2f9d0d68
+
 ::: {}
 # How to Make a Career in Cyber Forensic? {#how-to-make-a-career-in-cyber-forensic .p-name}
 :::

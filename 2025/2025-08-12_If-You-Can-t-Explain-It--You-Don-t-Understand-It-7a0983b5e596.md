@@ -1,3 +1,11 @@
+---
+title: "If You Can t Explain It  You Don t Understand It 7a0983b5e596"
+platform: Medium
+original_file: 2025-08-12_If-You-Can-t-Explain-It--You-Don-t-Understand-It-7a0983b5e596.md
+---
+
+# If You Can t Explain It  You Don t Understand It 7a0983b5e596
+
 ::: {}
 # If You Can't Explain It, You Don't Understand It {#if-you-cant-explain-it-you-dont-understand-it .p-name}
 :::

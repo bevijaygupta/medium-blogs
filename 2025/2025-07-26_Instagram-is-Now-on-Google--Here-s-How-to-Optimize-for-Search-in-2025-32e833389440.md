@@ -1,3 +1,11 @@
+---
+title: "Instagram is Now on Google  Here s How to Optimize for Search in 2025 32e833389440"
+platform: Medium
+original_file: 2025-07-26_Instagram-is-Now-on-Google--Here-s-How-to-Optimize-for-Search-in-2025-32e833389440.md
+---
+
+# Instagram is Now on Google  Here s How to Optimize for Search in 2025 32e833389440
+
 ::: {}
 # Instagram is Now on Google: Here's How to Optimize for Search in 2025 {#instagram-is-now-on-google-heres-how-to-optimize-for-search-in-2025 .p-name}
 :::

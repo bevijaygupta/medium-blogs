@@ -1,3 +1,11 @@
+---
+title: "How Does HTTPS Work  39f22c90d3cd"
+platform: Medium
+original_file: 2025-03-05_How-Does-HTTPS-Work--39f22c90d3cd.md
+---
+
+# How Does HTTPS Work  39f22c90d3cd
+
 ::: {}
 # How Does HTTPS Work? {#how-does-https-work .p-name}
 :::

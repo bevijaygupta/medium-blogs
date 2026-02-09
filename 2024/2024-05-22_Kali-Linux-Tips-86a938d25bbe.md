@@ -1,3 +1,11 @@
+---
+title: "Kali Linux Tips 86a938d25bbe"
+platform: Medium
+original_file: 2024-05-22_Kali-Linux-Tips-86a938d25bbe.md
+---
+
+# Kali Linux Tips 86a938d25bbe
+
 ::: {}
 # Kali Linux Tips {#kali-linux-tips .p-name}
 :::

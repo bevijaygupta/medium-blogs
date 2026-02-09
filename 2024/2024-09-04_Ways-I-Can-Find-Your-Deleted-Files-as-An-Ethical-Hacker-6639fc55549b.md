@@ -1,3 +1,11 @@
+---
+title: "Ways I Can Find Your Deleted Files as An Ethical Hacker 6639fc55549b"
+platform: Medium
+original_file: 2024-09-04_Ways-I-Can-Find-Your-Deleted-Files-as-An-Ethical-Hacker-6639fc55549b.md
+---
+
+# Ways I Can Find Your Deleted Files as An Ethical Hacker 6639fc55549b
+
 ::: {}
 # Ways I Can Find Your Deleted Files as An Ethical Hacker {#ways-i-can-find-your-deleted-files-as-an-ethical-hacker .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Challenging the  Desperation  Stigma in Hiring  Why Passion and Determination Should Never Be  d384bd2b1343"
+platform: Medium
+original_file: 2024-10-12_Challenging-the--Desperation--Stigma-in-Hiring--Why-Passion-and-Determination-Should-Never-Be--d384bd2b1343.md
+---
+
+# Challenging the  Desperation  Stigma in Hiring  Why Passion and Determination Should Never Be  d384bd2b1343
+
 ::: {}
 # Challenging the "Desperation" Stigma in Hiring: Why Passion and Determination Should Never Be... {#challenging-the-desperation-stigma-in-hiring-why-passion-and-determination-should-never-be .p-name}
 :::

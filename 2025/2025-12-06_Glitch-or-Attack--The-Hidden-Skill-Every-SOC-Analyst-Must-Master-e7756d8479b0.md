@@ -1,3 +1,11 @@
+---
+title: "Glitch or Attack  The Hidden Skill Every SOC Analyst Must Master e7756d8479b0"
+platform: Medium
+original_file: 2025-12-06_Glitch-or-Attack--The-Hidden-Skill-Every-SOC-Analyst-Must-Master-e7756d8479b0.md
+---
+
+# Glitch or Attack  The Hidden Skill Every SOC Analyst Must Master e7756d8479b0
+
 ::: {}
 # Glitch or Attack? The Hidden Skill Every SOC Analyst Must Master {#glitch-or-attack-the-hidden-skill-every-soc-analyst-must-master .p-name}
 :::

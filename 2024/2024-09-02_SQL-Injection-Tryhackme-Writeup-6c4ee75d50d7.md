@@ -1,3 +1,11 @@
+---
+title: "SQL Injection Tryhackme Writeup 6c4ee75d50d7"
+platform: Medium
+original_file: 2024-09-02_SQL-Injection-Tryhackme-Writeup-6c4ee75d50d7.md
+---
+
+# SQL Injection Tryhackme Writeup 6c4ee75d50d7
+
 ::: {}
 # SQL Injection Tryhackme Writeup {#sql-injection-tryhackme-writeup .p-name}
 :::

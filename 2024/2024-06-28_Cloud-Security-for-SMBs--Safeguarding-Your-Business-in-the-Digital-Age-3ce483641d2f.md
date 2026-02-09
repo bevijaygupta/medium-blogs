@@ -1,3 +1,11 @@
+---
+title: "Cloud Security for SMBs  Safeguarding Your Business in the Digital Age 3ce483641d2f"
+platform: Medium
+original_file: 2024-06-28_Cloud-Security-for-SMBs--Safeguarding-Your-Business-in-the-Digital-Age-3ce483641d2f.md
+---
+
+# Cloud Security for SMBs  Safeguarding Your Business in the Digital Age 3ce483641d2f
+
 ::: {}
 # Cloud Security for SMBs: Safeguarding Your Business in the Digital Age {#cloud-security-for-smbs-safeguarding-your-business-in-the-digital-age .p-name}
 :::

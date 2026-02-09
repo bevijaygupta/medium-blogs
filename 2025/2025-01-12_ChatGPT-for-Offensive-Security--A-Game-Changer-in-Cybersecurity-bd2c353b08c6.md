@@ -1,3 +1,11 @@
+---
+title: "ChatGPT for Offensive Security  A Game Changer in Cybersecurity bd2c353b08c6"
+platform: Medium
+original_file: 2025-01-12_ChatGPT-for-Offensive-Security--A-Game-Changer-in-Cybersecurity-bd2c353b08c6.md
+---
+
+# ChatGPT for Offensive Security  A Game Changer in Cybersecurity bd2c353b08c6
+
 ::: {}
 # ChatGPT for Offensive Security: A Game-Changer in Cybersecurity {#chatgpt-for-offensive-security-a-game-changer-in-cybersecurity .p-name}
 :::

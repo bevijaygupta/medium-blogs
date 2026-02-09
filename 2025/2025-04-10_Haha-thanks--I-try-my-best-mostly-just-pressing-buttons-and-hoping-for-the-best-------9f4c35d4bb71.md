@@ -1,3 +1,11 @@
+---
+title: "Haha thanks  I try my best mostly just pressing buttons and hoping for the best       9f4c35d4bb71"
+platform: Medium
+original_file: 2025-04-10_Haha-thanks--I-try-my-best-mostly-just-pressing-buttons-and-hoping-for-the-best-------9f4c35d4bb71.md
+---
+
+# Haha thanks  I try my best mostly just pressing buttons and hoping for the best       9f4c35d4bb71
+
 ::: {}
 # Haha thanks! I try my best---mostly just pressing buttons and hoping for the best. 😎💻 {#haha-thanks-i-try-my-bestmostly-just-pressing-buttons-and-hoping-for-the-best. .p-name}
 :::

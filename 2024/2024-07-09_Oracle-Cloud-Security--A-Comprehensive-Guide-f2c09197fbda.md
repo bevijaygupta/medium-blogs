@@ -1,3 +1,11 @@
+---
+title: "Oracle Cloud Security  A Comprehensive Guide f2c09197fbda"
+platform: Medium
+original_file: 2024-07-09_Oracle-Cloud-Security--A-Comprehensive-Guide-f2c09197fbda.md
+---
+
+# Oracle Cloud Security  A Comprehensive Guide f2c09197fbda
+
 ::: {}
 # Oracle Cloud Security: A Comprehensive Guide {#oracle-cloud-security-a-comprehensive-guide .p-name}
 :::

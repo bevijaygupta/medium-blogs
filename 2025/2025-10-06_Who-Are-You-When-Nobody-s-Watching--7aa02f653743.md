@@ -1,3 +1,11 @@
+---
+title: "Who Are You When Nobody s Watching  7aa02f653743"
+platform: Medium
+original_file: 2025-10-06_Who-Are-You-When-Nobody-s-Watching--7aa02f653743.md
+---
+
+# Who Are You When Nobody s Watching  7aa02f653743
+
 ::: {}
 # Who Are You When Nobody's Watching? {#who-are-you-when-nobodys-watching .p-name}
 :::

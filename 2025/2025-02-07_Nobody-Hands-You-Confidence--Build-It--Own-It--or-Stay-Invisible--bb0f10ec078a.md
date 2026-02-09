@@ -1,3 +1,11 @@
+---
+title: "Nobody Hands You Confidence  Build It  Own It  or Stay Invisible  bb0f10ec078a"
+platform: Medium
+original_file: 2025-02-07_Nobody-Hands-You-Confidence--Build-It--Own-It--or-Stay-Invisible--bb0f10ec078a.md
+---
+
+# Nobody Hands You Confidence  Build It  Own It  or Stay Invisible  bb0f10ec078a
+
 ::: {}
 # Nobody Hands You Confidence. Build It, Own It, or Stay Invisible. {#nobody-hands-you-confidence.-build-it-own-it-or-stay-invisible. .p-name}
 :::

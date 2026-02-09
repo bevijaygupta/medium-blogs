@@ -1,3 +1,11 @@
+---
+title: "Operating Systems for Ethical Hackers  A Comprehensive Guide 82a9873aa3e5"
+platform: Medium
+original_file: 2024-10-01_Operating-Systems-for-Ethical-Hackers--A-Comprehensive-Guide-82a9873aa3e5.md
+---
+
+# Operating Systems for Ethical Hackers  A Comprehensive Guide 82a9873aa3e5
+
 ::: {}
 # Operating Systems for Ethical Hackers: A Comprehensive Guide {#operating-systems-for-ethical-hackers-a-comprehensive-guide .p-name}
 :::

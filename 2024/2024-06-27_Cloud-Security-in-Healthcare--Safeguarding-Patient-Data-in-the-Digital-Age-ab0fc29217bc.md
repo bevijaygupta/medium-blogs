@@ -1,3 +1,11 @@
+---
+title: "Cloud Security in Healthcare  Safeguarding Patient Data in the Digital Age ab0fc29217bc"
+platform: Medium
+original_file: 2024-06-27_Cloud-Security-in-Healthcare--Safeguarding-Patient-Data-in-the-Digital-Age-ab0fc29217bc.md
+---
+
+# Cloud Security in Healthcare  Safeguarding Patient Data in the Digital Age ab0fc29217bc
+
 ::: {}
 # Cloud Security in Healthcare: Safeguarding Patient Data in the Digital Age {#cloud-security-in-healthcare-safeguarding-patient-data-in-the-digital-age .p-name}
 :::

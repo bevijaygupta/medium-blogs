@@ -1,3 +1,11 @@
+---
+title: "IoT Applications  Transforming Industries and Daily Life ce353b354d78"
+platform: Medium
+original_file: 2024-07-27_IoT-Applications--Transforming-Industries-and-Daily-Life-ce353b354d78.md
+---
+
+# IoT Applications  Transforming Industries and Daily Life ce353b354d78
+
 ::: {}
 # IoT Applications: Transforming Industries and Daily Life {#iot-applications-transforming-industries-and-daily-life .p-name}
 :::

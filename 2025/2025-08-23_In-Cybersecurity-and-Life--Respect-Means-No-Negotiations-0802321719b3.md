@@ -1,3 +1,11 @@
+---
+title: "In Cybersecurity and Life  Respect Means No Negotiations 0802321719b3"
+platform: Medium
+original_file: 2025-08-23_In-Cybersecurity-and-Life--Respect-Means-No-Negotiations-0802321719b3.md
+---
+
+# In Cybersecurity and Life  Respect Means No Negotiations 0802321719b3
+
 ::: {}
 # In Cybersecurity and Life, Respect Means No Negotiations {#in-cybersecurity-and-life-respect-means-no-negotiations .p-name}
 :::

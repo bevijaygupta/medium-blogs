@@ -1,3 +1,11 @@
+---
+title: "Azure Cloud Security  Comprehensive Guide cd61d72edff7"
+platform: Medium
+original_file: 2024-07-08_Azure-Cloud-Security--Comprehensive-Guide-cd61d72edff7.md
+---
+
+# Azure Cloud Security  Comprehensive Guide cd61d72edff7
+
 ::: {}
 # Azure Cloud Security: Comprehensive Guide {#azure-cloud-security-comprehensive-guide .p-name}
 :::

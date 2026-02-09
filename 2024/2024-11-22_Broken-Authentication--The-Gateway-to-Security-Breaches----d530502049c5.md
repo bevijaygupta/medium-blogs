@@ -1,3 +1,11 @@
+---
+title: "Broken Authentication  The Gateway to Security Breaches    d530502049c5"
+platform: Medium
+original_file: 2024-11-22_Broken-Authentication--The-Gateway-to-Security-Breaches----d530502049c5.md
+---
+
+# Broken Authentication  The Gateway to Security Breaches    d530502049c5
+
 ::: {}
 # Broken Authentication: The Gateway to Security Breaches 🔓 {#broken-authentication-the-gateway-to-security-breaches .p-name}
 :::

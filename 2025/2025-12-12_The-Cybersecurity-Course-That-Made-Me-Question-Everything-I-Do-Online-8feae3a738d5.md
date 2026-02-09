@@ -1,3 +1,11 @@
+---
+title: "The Cybersecurity Course That Made Me Question Everything I Do Online 8feae3a738d5"
+platform: Medium
+original_file: 2025-12-12_The-Cybersecurity-Course-That-Made-Me-Question-Everything-I-Do-Online-8feae3a738d5.md
+---
+
+# The Cybersecurity Course That Made Me Question Everything I Do Online 8feae3a738d5
+
 ::: {}
 # The Cybersecurity Course That Made Me Question Everything I Do Online {#the-cybersecurity-course-that-made-me-question-everything-i-do-online .p-name}
 :::

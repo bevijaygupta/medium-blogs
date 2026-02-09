@@ -1,3 +1,11 @@
+---
+title: "The Illusion of Safety  Why Your  Zero Incidents  Report Might Be Lying to You de34a2ef7f0f"
+platform: Medium
+original_file: 2025-11-29_The-Illusion-of-Safety--Why-Your--Zero-Incidents--Report-Might-Be-Lying-to-You-de34a2ef7f0f.md
+---
+
+# The Illusion of Safety  Why Your  Zero Incidents  Report Might Be Lying to You de34a2ef7f0f
+
 ::: {}
 # The Illusion of Safety: Why Your "Zero Incidents" Report Might Be Lying to You {#the-illusion-of-safety-why-your-zero-incidents-report-might-be-lying-to-you .p-name}
 :::

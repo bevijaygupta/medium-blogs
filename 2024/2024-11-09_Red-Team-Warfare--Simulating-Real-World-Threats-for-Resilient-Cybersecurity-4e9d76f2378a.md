@@ -1,3 +1,11 @@
+---
+title: "Red Team Warfare  Simulating Real World Threats for Resilient Cybersecurity 4e9d76f2378a"
+platform: Medium
+original_file: 2024-11-09_Red-Team-Warfare--Simulating-Real-World-Threats-for-Resilient-Cybersecurity-4e9d76f2378a.md
+---
+
+# Red Team Warfare  Simulating Real World Threats for Resilient Cybersecurity 4e9d76f2378a
+
 ::: {}
 # Red Team Warfare: Simulating Real-World Threats for Resilient Cybersecurity {#red-team-warfare-simulating-real-world-threats-for-resilient-cybersecurity .p-name}
 :::

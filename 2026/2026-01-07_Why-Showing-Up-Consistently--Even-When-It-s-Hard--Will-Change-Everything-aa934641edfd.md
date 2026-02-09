@@ -1,3 +1,11 @@
+---
+title: "Why Showing Up Consistently  Even When It s Hard  Will Change Everything aa934641edfd"
+platform: Medium
+original_file: 2026-01-07_Why-Showing-Up-Consistently--Even-When-It-s-Hard--Will-Change-Everything-aa934641edfd.md
+---
+
+# Why Showing Up Consistently  Even When It s Hard  Will Change Everything aa934641edfd
+
 ::: {}
 # Why Showing Up Consistently, Even When It's Hard, Will Change Everything {#why-showing-up-consistently-even-when-its-hard-will-change-everything .p-name}
 :::

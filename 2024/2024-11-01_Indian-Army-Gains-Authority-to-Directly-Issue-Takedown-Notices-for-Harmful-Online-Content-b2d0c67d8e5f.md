@@ -1,3 +1,11 @@
+---
+title: "Indian Army Gains Authority to Directly Issue Takedown Notices for Harmful Online Content b2d0c67d8e5f"
+platform: Medium
+original_file: 2024-11-01_Indian-Army-Gains-Authority-to-Directly-Issue-Takedown-Notices-for-Harmful-Online-Content-b2d0c67d8e5f.md
+---
+
+# Indian Army Gains Authority to Directly Issue Takedown Notices for Harmful Online Content b2d0c67d8e5f
+
 ::: {}
 # Indian Army Gains Authority to Directly Issue Takedown Notices for Harmful Online Content {#indian-army-gains-authority-to-directly-issue-takedown-notices-for-harmful-online-content .p-name}
 :::

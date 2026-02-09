@@ -1,3 +1,11 @@
+---
+title: "Tokyo Ghoul Tryhackme Writeup 910bf8a9d785"
+platform: Medium
+original_file: 2024-08-16_Tokyo-Ghoul-Tryhackme-Writeup-910bf8a9d785.md
+---
+
+# Tokyo Ghoul Tryhackme Writeup 910bf8a9d785
+
 ::: {}
 # Tokyo Ghoul Tryhackme Writeup {#tokyo-ghoul-tryhackme-writeup .p-name}
 :::

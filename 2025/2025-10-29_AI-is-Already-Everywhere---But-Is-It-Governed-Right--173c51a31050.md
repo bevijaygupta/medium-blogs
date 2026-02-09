@@ -1,3 +1,11 @@
+---
+title: "AI is Already Everywhere   But Is It Governed Right  173c51a31050"
+platform: Medium
+original_file: 2025-10-29_AI-is-Already-Everywhere---But-Is-It-Governed-Right--173c51a31050.md
+---
+
+# AI is Already Everywhere   But Is It Governed Right  173c51a31050
+
 ::: {}
 # AI is Already Everywhere --- But Is It Governed Right? {#ai-is-already-everywhere-but-is-it-governed-right .p-name}
 :::

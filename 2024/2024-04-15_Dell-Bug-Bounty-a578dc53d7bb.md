@@ -1,3 +1,11 @@
+---
+title: "Dell Bug Bounty a578dc53d7bb"
+platform: Medium
+original_file: 2024-04-15_Dell-Bug-Bounty-a578dc53d7bb.md
+---
+
+# Dell Bug Bounty a578dc53d7bb
+
 ::: {}
 # Dell Bug Bounty {#dell-bug-bounty .p-name}
 :::

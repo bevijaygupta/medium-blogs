@@ -1,3 +1,11 @@
+---
+title: "The Hidden Side of Continuous Learning 1b254f54a302"
+platform: Medium
+original_file: 2025-10-23_The-Hidden-Side-of-Continuous-Learning-1b254f54a302.md
+---
+
+# The Hidden Side of Continuous Learning 1b254f54a302
+
 ::: {}
 # The Hidden Side of Continuous Learning {#the-hidden-side-of-continuous-learning .p-name}
 :::

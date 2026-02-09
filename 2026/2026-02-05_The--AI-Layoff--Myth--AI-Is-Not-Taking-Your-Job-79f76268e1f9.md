@@ -1,3 +1,11 @@
+---
+title: "The  AI Layoff  Myth  AI Is Not Taking Your Job 79f76268e1f9"
+platform: Medium
+original_file: 2026-02-05_The--AI-Layoff--Myth--AI-Is-Not-Taking-Your-Job-79f76268e1f9.md
+---
+
+# The  AI Layoff  Myth  AI Is Not Taking Your Job 79f76268e1f9
+
 ::: {}
 # The "AI Layoff" Myth: AI Is Not Taking Your Job {#the-ai-layoff-myth-ai-is-not-taking-your-job .p-name}
 :::

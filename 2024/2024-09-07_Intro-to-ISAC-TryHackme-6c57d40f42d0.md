@@ -1,3 +1,11 @@
+---
+title: "Intro to ISAC TryHackme 6c57d40f42d0"
+platform: Medium
+original_file: 2024-09-07_Intro-to-ISAC-TryHackme-6c57d40f42d0.md
+---
+
+# Intro to ISAC TryHackme 6c57d40f42d0
+
 ::: {}
 # Intro to ISAC TryHackme {#intro-to-isac-tryhackme .p-name}
 :::

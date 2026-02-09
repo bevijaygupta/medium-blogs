@@ -1,3 +1,11 @@
+---
+title: "Jumpstart Your Cybersecurity Career with Free Certifications  859c4c483824"
+platform: Medium
+original_file: 2024-10-17_Jumpstart-Your-Cybersecurity-Career-with-Free-Certifications--859c4c483824.md
+---
+
+# Jumpstart Your Cybersecurity Career with Free Certifications  859c4c483824
+
 ::: {}
 # Jumpstart Your Cybersecurity Career with Free Certifications! {#jumpstart-your-cybersecurity-career-with-free-certifications .p-name}
 :::

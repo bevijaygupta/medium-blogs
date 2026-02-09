@@ -1,3 +1,11 @@
+---
+title: "The  Cybersecurity Starter Pack  Meme   But It s Too Real b3de027eea4e"
+platform: Medium
+original_file: 2025-04-25_The--Cybersecurity-Starter-Pack--Meme---But-It-s-Too-Real-b3de027eea4e.md
+---
+
+# The  Cybersecurity Starter Pack  Meme   But It s Too Real b3de027eea4e
+
 ::: {}
 # The 'Cybersecurity Starter Pack' Meme --- But It's Too Real {#the-cybersecurity-starter-pack-meme-but-its-too-real .p-name}
 :::

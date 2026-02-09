@@ -1,3 +1,11 @@
+---
+title: "Career in Field Investigation  A Comprehensive Guide 74bee1a348c1"
+platform: Medium
+original_file: 2024-12-17_Career-in-Field-Investigation--A-Comprehensive-Guide-74bee1a348c1.md
+---
+
+# Career in Field Investigation  A Comprehensive Guide 74bee1a348c1
+
 ::: {}
 # Career in Field Investigation: A Comprehensive Guide {#career-in-field-investigation-a-comprehensive-guide .p-name}
 :::

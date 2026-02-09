@@ -1,3 +1,11 @@
+---
+title: "What is the Scope of Cybersecurity as a Career Option  646dad0da319"
+platform: Medium
+original_file: 2024-03-22_What-is-the-Scope-of-Cybersecurity-as-a-Career-Option--646dad0da319.md
+---
+
+# What is the Scope of Cybersecurity as a Career Option  646dad0da319
+
 ::: {}
 # What is the Scope of Cybersecurity as a Career Option? {#what-is-the-scope-of-cybersecurity-as-a-career-option .p-name}
 :::

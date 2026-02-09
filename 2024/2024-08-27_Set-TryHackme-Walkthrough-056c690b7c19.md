@@ -1,3 +1,11 @@
+---
+title: "Set TryHackme Walkthrough 056c690b7c19"
+platform: Medium
+original_file: 2024-08-27_Set-TryHackme-Walkthrough-056c690b7c19.md
+---
+
+# Set TryHackme Walkthrough 056c690b7c19
+
 ::: {}
 # Set TryHackme Walkthrough {#set-tryhackme-walkthrough .p-name}
 :::

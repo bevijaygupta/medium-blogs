@@ -1,3 +1,11 @@
+---
+title: "Not Every Table Deserves You   But You Deserve to Be Heard at the One That Does a91a801fcebb"
+platform: Medium
+original_file: 2025-10-17_Not-Every-Table-Deserves-You---But-You-Deserve-to-Be-Heard-at-the-One-That-Does-a91a801fcebb.md
+---
+
+# Not Every Table Deserves You   But You Deserve to Be Heard at the One That Does a91a801fcebb
+
 ::: {}
 # Not Every Table Deserves You --- But You Deserve to Be Heard at the One That Does {#not-every-table-deserves-you-but-you-deserve-to-be-heard-at-the-one-that-does .p-name}
 :::

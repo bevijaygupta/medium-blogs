@@ -1,3 +1,11 @@
+---
+title: "If Life Won t Be Gentle With You  Then At Least Be Gentle With Yourself d5a550f88a2c"
+platform: Medium
+original_file: 2025-10-07_If-Life-Won-t-Be-Gentle-With-You--Then-At-Least-Be-Gentle-With-Yourself-d5a550f88a2c.md
+---
+
+# If Life Won t Be Gentle With You  Then At Least Be Gentle With Yourself d5a550f88a2c
+
 ::: {}
 # If Life Won't Be Gentle With You, Then At Least Be Gentle With Yourself {#if-life-wont-be-gentle-with-you-then-at-least-be-gentle-with-yourself .p-name}
 :::

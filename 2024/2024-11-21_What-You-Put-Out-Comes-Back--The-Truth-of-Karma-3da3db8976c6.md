@@ -1,3 +1,11 @@
+---
+title: "What You Put Out Comes Back  The Truth of Karma 3da3db8976c6"
+platform: Medium
+original_file: 2024-11-21_What-You-Put-Out-Comes-Back--The-Truth-of-Karma-3da3db8976c6.md
+---
+
+# What You Put Out Comes Back  The Truth of Karma 3da3db8976c6
+
 ::: {}
 # What You Put Out Comes Back: The Truth of Karma {#what-you-put-out-comes-back-the-truth-of-karma .p-name}
 :::

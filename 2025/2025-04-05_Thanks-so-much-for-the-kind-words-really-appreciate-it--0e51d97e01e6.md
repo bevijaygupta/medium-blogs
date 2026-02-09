@@ -1,3 +1,11 @@
+---
+title: "Thanks so much for the kind words really appreciate it  0e51d97e01e6"
+platform: Medium
+original_file: 2025-04-05_Thanks-so-much-for-the-kind-words-really-appreciate-it--0e51d97e01e6.md
+---
+
+# Thanks so much for the kind words really appreciate it  0e51d97e01e6
+
 ::: {}
 # Thanks so much for the kind words---really appreciate it! {#thanks-so-much-for-the-kind-wordsreally-appreciate-it .p-name}
 :::

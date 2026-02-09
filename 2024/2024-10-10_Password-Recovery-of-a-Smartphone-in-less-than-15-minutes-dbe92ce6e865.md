@@ -1,3 +1,11 @@
+---
+title: "Password Recovery of a Smartphone in less than 15 minutes dbe92ce6e865"
+platform: Medium
+original_file: 2024-10-10_Password-Recovery-of-a-Smartphone-in-less-than-15-minutes-dbe92ce6e865.md
+---
+
+# Password Recovery of a Smartphone in less than 15 minutes dbe92ce6e865
+
 ::: {}
 # Password Recovery of a Smartphone in less than 15 minutes {#password-recovery-of-a-smartphone-in-less-than-15-minutes .p-name}
 :::

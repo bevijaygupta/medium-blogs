@@ -1,3 +1,11 @@
+---
+title: "Saying Yes to Everything Taught Me This  Not Every Opportunity is the Right One 2548c9cf8902"
+platform: Medium
+original_file: 2025-05-16_Saying-Yes-to-Everything-Taught-Me-This--Not-Every-Opportunity-is-the-Right-One-2548c9cf8902.md
+---
+
+# Saying Yes to Everything Taught Me This  Not Every Opportunity is the Right One 2548c9cf8902
+
 ::: {}
 # Saying Yes to Everything Taught Me This: Not Every Opportunity is the Right One {#saying-yes-to-everything-taught-me-this-not-every-opportunity-is-the-right-one .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Responsibilities of an Ethical Hacker in an Organization ad573b94089a"
+platform: Medium
+original_file: 2024-04-07_Responsibilities-of-an-Ethical-Hacker-in-an-Organization-ad573b94089a.md
+---
+
+# Responsibilities of an Ethical Hacker in an Organization ad573b94089a
+
 ::: {}
 # Responsibilities of an Ethical Hacker in an Organization {#responsibilities-of-an-ethical-hacker-in-an-organization .p-name}
 :::

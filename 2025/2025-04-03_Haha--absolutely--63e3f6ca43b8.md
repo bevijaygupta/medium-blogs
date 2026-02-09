@@ -1,3 +1,11 @@
+---
+title: "Haha  absolutely  63e3f6ca43b8"
+platform: Medium
+original_file: 2025-04-03_Haha--absolutely--63e3f6ca43b8.md
+---
+
+# Haha  absolutely  63e3f6ca43b8
+
 ::: {}
 # Haha, absolutely! {#haha-absolutely .p-name}
 :::

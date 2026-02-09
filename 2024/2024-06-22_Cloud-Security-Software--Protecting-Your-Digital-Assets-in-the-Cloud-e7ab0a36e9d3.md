@@ -1,3 +1,11 @@
+---
+title: "Cloud Security Software  Protecting Your Digital Assets in the Cloud e7ab0a36e9d3"
+platform: Medium
+original_file: 2024-06-22_Cloud-Security-Software--Protecting-Your-Digital-Assets-in-the-Cloud-e7ab0a36e9d3.md
+---
+
+# Cloud Security Software  Protecting Your Digital Assets in the Cloud e7ab0a36e9d3
+
 ::: {}
 # Cloud Security Software: Protecting Your Digital Assets in the Cloud {#cloud-security-software-protecting-your-digital-assets-in-the-cloud .p-name}
 :::

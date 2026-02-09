@@ -1,3 +1,11 @@
+---
+title: "Why Being Wrong in Public Changes Everything 859cfdccf921"
+platform: Medium
+original_file: 2026-01-22_Why-Being-Wrong-in-Public-Changes-Everything-859cfdccf921.md
+---
+
+# Why Being Wrong in Public Changes Everything 859cfdccf921
+
 ::: {}
 # Why Being Wrong in Public Changes Everything {#why-being-wrong-in-public-changes-everything .p-name}
 :::

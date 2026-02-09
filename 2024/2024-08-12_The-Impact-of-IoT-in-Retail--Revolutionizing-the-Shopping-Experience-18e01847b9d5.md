@@ -1,3 +1,11 @@
+---
+title: "The Impact of IoT in Retail  Revolutionizing the Shopping Experience 18e01847b9d5"
+platform: Medium
+original_file: 2024-08-12_The-Impact-of-IoT-in-Retail--Revolutionizing-the-Shopping-Experience-18e01847b9d5.md
+---
+
+# The Impact of IoT in Retail  Revolutionizing the Shopping Experience 18e01847b9d5
+
 ::: {}
 # The Impact of IoT in Retail: Revolutionizing the Shopping Experience {#the-impact-of-iot-in-retail-revolutionizing-the-shopping-experience .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Watcher Tryhackme Writeup 136579abd428"
+platform: Medium
+original_file: 2024-08-25_Watcher-Tryhackme-Writeup-136579abd428.md
+---
+
+# Watcher Tryhackme Writeup 136579abd428
+
 ::: {}
 # Watcher Tryhackme Writeup {#watcher-tryhackme-writeup .p-name}
 :::

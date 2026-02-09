@@ -1,3 +1,11 @@
+---
+title: "90  of Successful Cyberattacks Originate at the Endpoint c3dbd598208b"
+platform: Medium
+original_file: 2024-12-28_90--of-Successful-Cyberattacks-Originate-at-the-Endpoint-c3dbd598208b.md
+---
+
+# 90  of Successful Cyberattacks Originate at the Endpoint c3dbd598208b
+
 ::: {}
 # 90% of Successful Cyberattacks Originate at the Endpoint {#of-successful-cyberattacks-originate-at-the-endpoint .p-name}
 :::

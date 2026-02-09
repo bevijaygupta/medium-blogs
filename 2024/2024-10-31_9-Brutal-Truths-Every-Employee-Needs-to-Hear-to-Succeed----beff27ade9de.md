@@ -1,3 +1,11 @@
+---
+title: "9 Brutal Truths Every Employee Needs to Hear to Succeed    beff27ade9de"
+platform: Medium
+original_file: 2024-10-31_9-Brutal-Truths-Every-Employee-Needs-to-Hear-to-Succeed----beff27ade9de.md
+---
+
+# 9 Brutal Truths Every Employee Needs to Hear to Succeed    beff27ade9de
+
 ::: {}
 # 9 Brutal Truths Every Employee Needs to Hear to Succeed 🚨 {#brutal-truths-every-employee-needs-to-hear-to-succeed .p-name}
 :::

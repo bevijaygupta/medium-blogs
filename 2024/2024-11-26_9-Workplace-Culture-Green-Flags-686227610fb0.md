@@ -1,3 +1,11 @@
+---
+title: "9 Workplace Culture Green Flags 686227610fb0"
+platform: Medium
+original_file: 2024-11-26_9-Workplace-Culture-Green-Flags-686227610fb0.md
+---
+
+# 9 Workplace Culture Green Flags 686227610fb0
+
 ::: {}
 # 9 Workplace Culture Green Flags {#workplace-culture-green-flags .p-name}
 :::

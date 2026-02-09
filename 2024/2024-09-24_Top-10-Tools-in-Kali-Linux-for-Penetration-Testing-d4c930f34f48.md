@@ -1,3 +1,11 @@
+---
+title: "Top 10 Tools in Kali Linux for Penetration Testing d4c930f34f48"
+platform: Medium
+original_file: 2024-09-24_Top-10-Tools-in-Kali-Linux-for-Penetration-Testing-d4c930f34f48.md
+---
+
+# Top 10 Tools in Kali Linux for Penetration Testing d4c930f34f48
+
 ::: {}
 # Top 10 Tools in Kali Linux for Penetration Testing {#top-10-tools-in-kali-linux-for-penetration-testing .p-name}
 :::

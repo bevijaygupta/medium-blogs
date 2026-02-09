@@ -1,3 +1,11 @@
+---
+title: "Persistence TryHackme Writeup 276165b948ec"
+platform: Medium
+original_file: 2024-09-01_Persistence-TryHackme-Writeup-276165b948ec.md
+---
+
+# Persistence TryHackme Writeup 276165b948ec
+
 ::: {}
 # Persistence TryHackme Writeup {#persistence-tryhackme-writeup .p-name}
 :::

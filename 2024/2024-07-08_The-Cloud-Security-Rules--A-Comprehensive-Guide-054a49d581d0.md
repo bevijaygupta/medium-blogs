@@ -1,3 +1,11 @@
+---
+title: "The Cloud Security Rules  A Comprehensive Guide 054a49d581d0"
+platform: Medium
+original_file: 2024-07-08_The-Cloud-Security-Rules--A-Comprehensive-Guide-054a49d581d0.md
+---
+
+# The Cloud Security Rules  A Comprehensive Guide 054a49d581d0
+
 ::: {}
 # The Cloud Security Rules: A Comprehensive Guide {#the-cloud-security-rules-a-comprehensive-guide .p-name}
 :::

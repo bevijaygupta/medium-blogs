@@ -1,3 +1,11 @@
+---
+title: "You Can Be the Hardest Worker in the Room and Still Get Overlooked   Here s Why ef6c9bc2c11d"
+platform: Medium
+original_file: 2024-12-16_You-Can-Be-the-Hardest-Worker-in-the-Room-and-Still-Get-Overlooked---Here-s-Why-ef6c9bc2c11d.md
+---
+
+# You Can Be the Hardest Worker in the Room and Still Get Overlooked   Here s Why ef6c9bc2c11d
+
 ::: {}
 # You Can Be the Hardest Worker in the Room and Still Get Overlooked --- Here's Why {#you-can-be-the-hardest-worker-in-the-room-and-still-get-overlooked-heres-why .p-name}
 :::

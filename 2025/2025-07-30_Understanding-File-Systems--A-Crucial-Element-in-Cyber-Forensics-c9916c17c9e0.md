@@ -1,3 +1,11 @@
+---
+title: "Understanding File Systems  A Crucial Element in Cyber Forensics c9916c17c9e0"
+platform: Medium
+original_file: 2025-07-30_Understanding-File-Systems--A-Crucial-Element-in-Cyber-Forensics-c9916c17c9e0.md
+---
+
+# Understanding File Systems  A Crucial Element in Cyber Forensics c9916c17c9e0
+
 ::: {}
 # Understanding File Systems: A Crucial Element in Cyber Forensics {#understanding-file-systems-a-crucial-element-in-cyber-forensics .p-name}
 :::

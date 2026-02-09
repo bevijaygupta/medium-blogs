@@ -1,3 +1,11 @@
+---
+title: "The Price of Ego  Rediscovering Life Through Humility 1e2f07af22dd"
+platform: Medium
+original_file: 2024-11-22_The-Price-of-Ego--Rediscovering-Life-Through-Humility-1e2f07af22dd.md
+---
+
+# The Price of Ego  Rediscovering Life Through Humility 1e2f07af22dd
+
 ::: {}
 # The Price of Ego: Rediscovering Life Through Humility {#the-price-of-ego-rediscovering-life-through-humility .p-name}
 :::

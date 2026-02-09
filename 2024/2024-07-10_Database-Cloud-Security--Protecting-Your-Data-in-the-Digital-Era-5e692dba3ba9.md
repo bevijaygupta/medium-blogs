@@ -1,3 +1,11 @@
+---
+title: "Database Cloud Security  Protecting Your Data in the Digital Era 5e692dba3ba9"
+platform: Medium
+original_file: 2024-07-10_Database-Cloud-Security--Protecting-Your-Data-in-the-Digital-Era-5e692dba3ba9.md
+---
+
+# Database Cloud Security  Protecting Your Data in the Digital Era 5e692dba3ba9
+
 ::: {}
 # Database Cloud Security: Protecting Your Data in the Digital Era {#database-cloud-security-protecting-your-data-in-the-digital-era .p-name}
 :::

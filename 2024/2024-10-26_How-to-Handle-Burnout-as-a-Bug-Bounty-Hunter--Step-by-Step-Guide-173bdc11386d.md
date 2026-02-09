@@ -1,3 +1,11 @@
+---
+title: "How to Handle Burnout as a Bug Bounty Hunter  Step by Step Guide 173bdc11386d"
+platform: Medium
+original_file: 2024-10-26_How-to-Handle-Burnout-as-a-Bug-Bounty-Hunter--Step-by-Step-Guide-173bdc11386d.md
+---
+
+# How to Handle Burnout as a Bug Bounty Hunter  Step by Step Guide 173bdc11386d
+
 ::: {}
 # How to Handle Burnout as a Bug Bounty Hunter: Step-by-Step Guide {#how-to-handle-burnout-as-a-bug-bounty-hunter-step-by-step-guide .p-name}
 :::

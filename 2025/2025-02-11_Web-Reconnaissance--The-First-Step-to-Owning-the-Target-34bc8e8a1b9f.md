@@ -1,3 +1,11 @@
+---
+title: "Web Reconnaissance  The First Step to Owning the Target 34bc8e8a1b9f"
+platform: Medium
+original_file: 2025-02-11_Web-Reconnaissance--The-First-Step-to-Owning-the-Target-34bc8e8a1b9f.md
+---
+
+# Web Reconnaissance  The First Step to Owning the Target 34bc8e8a1b9f
+
 ::: {}
 # Web Reconnaissance: The First Step to Owning the Target {#web-reconnaissance-the-first-step-to-owning-the-target .p-name}
 :::

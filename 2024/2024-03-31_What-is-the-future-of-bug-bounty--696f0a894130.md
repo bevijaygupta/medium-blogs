@@ -1,3 +1,11 @@
+---
+title: "What is the future of bug bounty  696f0a894130"
+platform: Medium
+original_file: 2024-03-31_What-is-the-future-of-bug-bounty--696f0a894130.md
+---
+
+# What is the future of bug bounty  696f0a894130
+
 ::: {}
 # What is the future of bug bounty? {#what-is-the-future-of-bug-bounty .p-name}
 :::

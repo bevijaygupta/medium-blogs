@@ -1,3 +1,11 @@
+---
+title: "Understanding IoT Platforms  The Backbone of the Internet of Things 9a91392c86df"
+platform: Medium
+original_file: 2024-07-25_Understanding-IoT-Platforms--The-Backbone-of-the-Internet-of-Things-9a91392c86df.md
+---
+
+# Understanding IoT Platforms  The Backbone of the Internet of Things 9a91392c86df
+
 ::: {}
 # Understanding IoT Platforms: The Backbone of the Internet of Things {#understanding-iot-platforms-the-backbone-of-the-internet-of-things .p-name}
 :::

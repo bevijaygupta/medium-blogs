@@ -1,3 +1,11 @@
+---
+title: "Backup Vulnerabilities in Android Mobile Applications fd1e7f79617c"
+platform: Medium
+original_file: 2024-09-17_Backup-Vulnerabilities-in-Android-Mobile-Applications-fd1e7f79617c.md
+---
+
+# Backup Vulnerabilities in Android Mobile Applications fd1e7f79617c
+
 ::: {}
 # Backup Vulnerabilities in Android Mobile Applications {#backup-vulnerabilities-in-android-mobile-applications .p-name}
 :::

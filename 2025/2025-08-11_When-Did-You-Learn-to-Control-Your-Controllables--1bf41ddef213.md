@@ -1,3 +1,11 @@
+---
+title: "When Did You Learn to Control Your Controllables  1bf41ddef213"
+platform: Medium
+original_file: 2025-08-11_When-Did-You-Learn-to-Control-Your-Controllables--1bf41ddef213.md
+---
+
+# When Did You Learn to Control Your Controllables  1bf41ddef213
+
 ::: {}
 # When Did You Learn to Control Your Controllables? {#when-did-you-learn-to-control-your-controllables .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Why Are So Many People Trying to Find Purpose by Quitting Their Jobs  1e407ca6d91c"
+platform: Medium
+original_file: 2024-09-07_Why-Are-So-Many-People-Trying-to-Find-Purpose-by-Quitting-Their-Jobs--1e407ca6d91c.md
+---
+
+# Why Are So Many People Trying to Find Purpose by Quitting Their Jobs  1e407ca6d91c
+
 ::: {}
 # Why Are So Many People Trying to Find Purpose by Quitting Their Jobs? {#why-are-so-many-people-trying-to-find-purpose-by-quitting-their-jobs .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Wow  that s quite a story thanks for sharing it  0dfcb7407d75"
+platform: Medium
+original_file: 2025-04-05_Wow--that-s-quite-a-story-thanks-for-sharing-it--0dfcb7407d75.md
+---
+
+# Wow  that s quite a story thanks for sharing it  0dfcb7407d75
+
 ::: {}
 # Wow, that's quite a story---thanks for sharing it. {#wow-thats-quite-a-storythanks-for-sharing-it. .p-name}
 :::

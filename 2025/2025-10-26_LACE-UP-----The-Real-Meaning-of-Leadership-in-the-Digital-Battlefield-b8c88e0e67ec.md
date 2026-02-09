@@ -1,3 +1,11 @@
+---
+title: "LACE UP     The Real Meaning of Leadership in the Digital Battlefield b8c88e0e67ec"
+platform: Medium
+original_file: 2025-10-26_LACE-UP-----The-Real-Meaning-of-Leadership-in-the-Digital-Battlefield-b8c88e0e67ec.md
+---
+
+# LACE UP     The Real Meaning of Leadership in the Digital Battlefield b8c88e0e67ec
+
 ::: {}
 # LACE UP!! --- The Real Meaning of Leadership in the Digital Battlefield {#lace-up-the-real-meaning-of-leadership-in-the-digital-battlefield .p-name}
 :::

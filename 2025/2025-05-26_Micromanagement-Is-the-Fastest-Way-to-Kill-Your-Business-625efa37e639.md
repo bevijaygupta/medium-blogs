@@ -1,3 +1,11 @@
+---
+title: "Micromanagement Is the Fastest Way to Kill Your Business 625efa37e639"
+platform: Medium
+original_file: 2025-05-26_Micromanagement-Is-the-Fastest-Way-to-Kill-Your-Business-625efa37e639.md
+---
+
+# Micromanagement Is the Fastest Way to Kill Your Business 625efa37e639
+
 ::: {}
 # Micromanagement Is the Fastest Way to Kill Your Business {#micromanagement-is-the-fastest-way-to-kill-your-business .p-name}
 :::

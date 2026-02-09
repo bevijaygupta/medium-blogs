@@ -1,3 +1,11 @@
+---
+title: "Team Tryhackme Writeup c0ced18b505e"
+platform: Medium
+original_file: 2024-08-18_Team-Tryhackme-Writeup-c0ced18b505e.md
+---
+
+# Team Tryhackme Writeup c0ced18b505e
+
 ::: {}
 # Team Tryhackme Writeup {#team-tryhackme-writeup .p-name}
 :::

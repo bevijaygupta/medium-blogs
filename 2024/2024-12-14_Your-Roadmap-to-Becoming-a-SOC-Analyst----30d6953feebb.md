@@ -1,3 +1,11 @@
+---
+title: "Your Roadmap to Becoming a SOC Analyst    30d6953feebb"
+platform: Medium
+original_file: 2024-12-14_Your-Roadmap-to-Becoming-a-SOC-Analyst----30d6953feebb.md
+---
+
+# Your Roadmap to Becoming a SOC Analyst    30d6953feebb
+
 ::: {}
 # Your Roadmap to Becoming a SOC Analyst 🔒 {#your-roadmap-to-becoming-a-soc-analyst .p-name}
 :::

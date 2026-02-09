@@ -1,3 +1,11 @@
+---
+title: "Safeguarding the Internet of Things  Understanding IoT Security e137ea4f5c85"
+platform: Medium
+original_file: 2024-04-02_Safeguarding-the-Internet-of-Things--Understanding-IoT-Security-e137ea4f5c85.md
+---
+
+# Safeguarding the Internet of Things  Understanding IoT Security e137ea4f5c85
+
 ::: {}
 # Safeguarding the Internet of Things: Understanding IoT Security {#safeguarding-the-internet-of-things-understanding-iot-security .p-name}
 :::

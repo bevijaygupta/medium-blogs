@@ -1,3 +1,11 @@
+---
+title: "Use Git Like a Senior Engineer  Mastering Version Control f0899d4c946f"
+platform: Medium
+original_file: 2024-08-24_Use-Git-Like-a-Senior-Engineer--Mastering-Version-Control-f0899d4c946f.md
+---
+
+# Use Git Like a Senior Engineer  Mastering Version Control f0899d4c946f
+
 ::: {}
 # Use Git Like a Senior Engineer: Mastering Version Control {#use-git-like-a-senior-engineer-mastering-version-control .p-name}
 :::

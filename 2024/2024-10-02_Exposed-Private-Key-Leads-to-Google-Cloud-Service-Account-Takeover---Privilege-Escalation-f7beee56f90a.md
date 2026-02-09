@@ -1,3 +1,11 @@
+---
+title: "Exposed Private Key Leads to Google Cloud Service Account Takeover   Privilege Escalation f7beee56f90a"
+platform: Medium
+original_file: 2024-10-02_Exposed-Private-Key-Leads-to-Google-Cloud-Service-Account-Takeover---Privilege-Escalation-f7beee56f90a.md
+---
+
+# Exposed Private Key Leads to Google Cloud Service Account Takeover   Privilege Escalation f7beee56f90a
+
 ::: {}
 # Exposed Private Key Leads to Google Cloud Service Account Takeover --- Privilege Escalation {#exposed-private-key-leads-to-google-cloud-service-account-takeover-privilege-escalation .p-name}
 :::

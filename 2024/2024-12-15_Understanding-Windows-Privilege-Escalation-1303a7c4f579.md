@@ -1,3 +1,11 @@
+---
+title: "Understanding Windows Privilege Escalation 1303a7c4f579"
+platform: Medium
+original_file: 2024-12-15_Understanding-Windows-Privilege-Escalation-1303a7c4f579.md
+---
+
+# Understanding Windows Privilege Escalation 1303a7c4f579
+
 ::: {}
 # Understanding Windows Privilege Escalation {#understanding-windows-privilege-escalation .p-name}
 :::

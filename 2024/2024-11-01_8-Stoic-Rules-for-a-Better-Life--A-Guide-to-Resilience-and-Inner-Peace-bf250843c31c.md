@@ -1,3 +1,11 @@
+---
+title: "8 Stoic Rules for a Better Life  A Guide to Resilience and Inner Peace bf250843c31c"
+platform: Medium
+original_file: 2024-11-01_8-Stoic-Rules-for-a-Better-Life--A-Guide-to-Resilience-and-Inner-Peace-bf250843c31c.md
+---
+
+# 8 Stoic Rules for a Better Life  A Guide to Resilience and Inner Peace bf250843c31c
+
 ::: {}
 # 8 Stoic Rules for a Better Life: A Guide to Resilience and Inner Peace {#stoic-rules-for-a-better-life-a-guide-to-resilience-and-inner-peace .p-name}
 :::

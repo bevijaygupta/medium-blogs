@@ -1,3 +1,11 @@
+---
+title: "Building My First Home Server 6f475284d885"
+platform: Medium
+original_file: 2024-11-04_Building-My-First-Home-Server-6f475284d885.md
+---
+
+# Building My First Home Server 6f475284d885
+
 ::: {}
 # Building My First Home Server {#building-my-first-home-server .p-name}
 :::

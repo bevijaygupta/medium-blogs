@@ -1,3 +1,11 @@
+---
+title: "Networking Basics in Linux cdc1b049f5ca"
+platform: Medium
+original_file: 2024-10-05_Networking-Basics-in-Linux-cdc1b049f5ca.md
+---
+
+# Networking Basics in Linux cdc1b049f5ca
+
 ::: {}
 # Networking Basics in Linux {#networking-basics-in-linux .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Don t Hand Over Your Life   Use  Repair Mode  Before Giving Your Phone for Repairs edf01955ef00"
+platform: Medium
+original_file: 2025-07-20_Don-t-Hand-Over-Your-Life---Use--Repair-Mode--Before-Giving-Your-Phone-for-Repairs-edf01955ef00.md
+---
+
+# Don t Hand Over Your Life   Use  Repair Mode  Before Giving Your Phone for Repairs edf01955ef00
+
 ::: {}
 # Don't Hand Over Your Life --- Use "Repair Mode" Before Giving Your Phone for Repairs {#dont-hand-over-your-life-use-repair-mode-before-giving-your-phone-for-repairs .p-name}
 :::

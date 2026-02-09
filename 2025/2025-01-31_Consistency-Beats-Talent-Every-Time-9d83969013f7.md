@@ -1,3 +1,11 @@
+---
+title: "Consistency Beats Talent Every Time 9d83969013f7"
+platform: Medium
+original_file: 2025-01-31_Consistency-Beats-Talent-Every-Time-9d83969013f7.md
+---
+
+# Consistency Beats Talent Every Time 9d83969013f7
+
 ::: {}
 # Consistency Beats Talent Every Time {#consistency-beats-talent-every-time .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Cloud Security in the UK  A Comprehensive Overview 612d845360e3"
+platform: Medium
+original_file: 2024-07-05_Cloud-Security-in-the-UK--A-Comprehensive-Overview-612d845360e3.md
+---
+
+# Cloud Security in the UK  A Comprehensive Overview 612d845360e3
+
 ::: {}
 # Cloud Security in the UK: A Comprehensive Overview {#cloud-security-in-the-uk-a-comprehensive-overview .p-name}
 :::

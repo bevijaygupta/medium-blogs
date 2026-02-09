@@ -1,3 +1,11 @@
+---
+title: "En pass Tryhackme Writeup 07eb8c7b71f0"
+platform: Medium
+original_file: 2024-08-28_En-pass-Tryhackme-Writeup-07eb8c7b71f0.md
+---
+
+# En pass Tryhackme Writeup 07eb8c7b71f0
+
 ::: {}
 # En-pass Tryhackme Writeup {#en-pass-tryhackme-writeup .p-name}
 :::

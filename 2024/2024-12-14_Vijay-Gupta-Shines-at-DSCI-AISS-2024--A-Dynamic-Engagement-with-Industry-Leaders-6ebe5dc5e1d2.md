@@ -1,3 +1,11 @@
+---
+title: "Vijay Gupta Shines at DSCI AISS 2024  A Dynamic Engagement with Industry Leaders 6ebe5dc5e1d2"
+platform: Medium
+original_file: 2024-12-14_Vijay-Gupta-Shines-at-DSCI-AISS-2024--A-Dynamic-Engagement-with-Industry-Leaders-6ebe5dc5e1d2.md
+---
+
+# Vijay Gupta Shines at DSCI AISS 2024  A Dynamic Engagement with Industry Leaders 6ebe5dc5e1d2
+
 ::: {}
 # Vijay Gupta Shines at DSCI AISS 2024: A Dynamic Engagement with Industry Leaders {#vijay-gupta-shines-at-dsci-aiss-2024-a-dynamic-engagement-with-industry-leaders .p-name}
 :::

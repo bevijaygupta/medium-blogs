@@ -1,3 +1,11 @@
+---
+title: "How Can Deepfake Technology Be Used for Social Engineering Attacks  98052aba50ab"
+platform: Medium
+original_file: 2024-09-10_How-Can-Deepfake-Technology-Be-Used-for-Social-Engineering-Attacks--98052aba50ab.md
+---
+
+# How Can Deepfake Technology Be Used for Social Engineering Attacks  98052aba50ab
+
 ::: {}
 # How Can Deepfake Technology Be Used for Social Engineering Attacks? {#how-can-deepfake-technology-be-used-for-social-engineering-attacks .p-name}
 :::

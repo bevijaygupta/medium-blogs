@@ -1,3 +1,11 @@
+---
+title: "I Asked AI to Hack Me  The Results Were Terrifying  and Useful  30f0a141dbe9"
+platform: Medium
+original_file: 2025-08-25_I-Asked-AI-to-Hack-Me--The-Results-Were-Terrifying--and-Useful--30f0a141dbe9.md
+---
+
+# I Asked AI to Hack Me  The Results Were Terrifying  and Useful  30f0a141dbe9
+
 ::: {}
 # I Asked AI to Hack Me. The Results Were Terrifying (and Useful) {#i-asked-ai-to-hack-me.-the-results-were-terrifying-and-useful .p-name}
 :::

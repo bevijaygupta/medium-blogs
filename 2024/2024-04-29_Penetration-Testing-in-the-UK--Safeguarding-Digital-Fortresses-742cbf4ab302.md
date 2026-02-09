@@ -1,3 +1,11 @@
+---
+title: "Penetration Testing in the UK  Safeguarding Digital Fortresses 742cbf4ab302"
+platform: Medium
+original_file: 2024-04-29_Penetration-Testing-in-the-UK--Safeguarding-Digital-Fortresses-742cbf4ab302.md
+---
+
+# Penetration Testing in the UK  Safeguarding Digital Fortresses 742cbf4ab302
+
 ::: {}
 # Penetration Testing in the UK: Safeguarding Digital Fortresses {#penetration-testing-in-the-uk-safeguarding-digital-fortresses .p-name}
 :::

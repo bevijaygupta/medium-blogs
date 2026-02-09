@@ -1,3 +1,11 @@
+---
+title: "Infrastructure Penetration Testing Course 24d475aeff3b"
+platform: Medium
+original_file: 2024-11-10_Infrastructure-Penetration-Testing-Course-24d475aeff3b.md
+---
+
+# Infrastructure Penetration Testing Course 24d475aeff3b
+
 ::: {}
 # Infrastructure Penetration Testing Course {#infrastructure-penetration-testing-course .p-name}
 :::

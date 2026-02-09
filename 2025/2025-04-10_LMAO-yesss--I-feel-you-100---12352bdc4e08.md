@@ -1,3 +1,11 @@
+---
+title: "LMAO yesss  I feel you 100   12352bdc4e08"
+platform: Medium
+original_file: 2025-04-10_LMAO-yesss--I-feel-you-100---12352bdc4e08.md
+---
+
+# LMAO yesss  I feel you 100   12352bdc4e08
+
 ::: {}
 # LMAO yesss, I feel you 100%! {#lmao-yesss-i-feel-you-100 .p-name}
 :::

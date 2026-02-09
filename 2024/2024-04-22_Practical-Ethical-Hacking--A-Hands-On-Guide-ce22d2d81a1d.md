@@ -1,3 +1,11 @@
+---
+title: "Practical Ethical Hacking  A Hands On Guide ce22d2d81a1d"
+platform: Medium
+original_file: 2024-04-22_Practical-Ethical-Hacking--A-Hands-On-Guide-ce22d2d81a1d.md
+---
+
+# Practical Ethical Hacking  A Hands On Guide ce22d2d81a1d
+
 ::: {}
 # Practical Ethical Hacking: A Hands-On Guide {#practical-ethical-hacking-a-hands-on-guide .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Cloud Security Alliance 150410b9df65"
+platform: Medium
+original_file: 2024-06-18_Cloud-Security-Alliance-150410b9df65.md
+---
+
+# Cloud Security Alliance 150410b9df65
+
 ::: {}
 # Cloud Security Alliance {#cloud-security-alliance .p-name}
 :::

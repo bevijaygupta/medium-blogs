@@ -1,3 +1,11 @@
+---
+title: "21 Lessons I Learned in My Twenties 4d08567a497b"
+platform: Medium
+original_file: 2025-07-05_21-Lessons-I-Learned-in-My-Twenties-4d08567a497b.md
+---
+
+# 21 Lessons I Learned in My Twenties 4d08567a497b
+
 ::: {}
 # 21 Lessons I Learned in My Twenties {#lessons-i-learned-in-my-twenties .p-name}
 :::

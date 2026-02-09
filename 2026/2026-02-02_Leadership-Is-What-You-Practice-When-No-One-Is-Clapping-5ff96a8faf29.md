@@ -1,3 +1,11 @@
+---
+title: "Leadership Is What You Practice When No One Is Clapping 5ff96a8faf29"
+platform: Medium
+original_file: 2026-02-02_Leadership-Is-What-You-Practice-When-No-One-Is-Clapping-5ff96a8faf29.md
+---
+
+# Leadership Is What You Practice When No One Is Clapping 5ff96a8faf29
+
 ::: {}
 # Leadership Is What You Practice When No One Is Clapping {#leadership-is-what-you-practice-when-no-one-is-clapping .p-name}
 :::

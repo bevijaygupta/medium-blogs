@@ -1,3 +1,11 @@
+---
+title: "NIS Linux Part I Tryhackme Writeup 63451b1a720a"
+platform: Medium
+original_file: 2024-09-03_NIS-Linux-Part-I-Tryhackme-Writeup-63451b1a720a.md
+---
+
+# NIS Linux Part I Tryhackme Writeup 63451b1a720a
+
 ::: {}
 # NIS Linux Part I Tryhackme Writeup {#nis-linux-part-i-tryhackme-writeup .p-name}
 :::

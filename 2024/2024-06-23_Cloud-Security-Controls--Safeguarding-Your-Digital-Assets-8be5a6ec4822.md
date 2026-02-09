@@ -1,3 +1,11 @@
+---
+title: "Cloud Security Controls  Safeguarding Your Digital Assets 8be5a6ec4822"
+platform: Medium
+original_file: 2024-06-23_Cloud-Security-Controls--Safeguarding-Your-Digital-Assets-8be5a6ec4822.md
+---
+
+# Cloud Security Controls  Safeguarding Your Digital Assets 8be5a6ec4822
+
 ::: {}
 # Cloud Security Controls: Safeguarding Your Digital Assets {#cloud-security-controls-safeguarding-your-digital-assets .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "The Great Escape Tryhackme Writeup 0dd289a1ae17"
+platform: Medium
+original_file: 2024-08-24_The-Great-Escape-Tryhackme-Writeup-0dd289a1ae17.md
+---
+
+# The Great Escape Tryhackme Writeup 0dd289a1ae17
+
 ::: {}
 # The Great Escape Tryhackme Writeup {#the-great-escape-tryhackme-writeup .p-name}
 :::

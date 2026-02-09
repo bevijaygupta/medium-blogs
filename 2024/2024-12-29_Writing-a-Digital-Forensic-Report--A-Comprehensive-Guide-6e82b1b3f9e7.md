@@ -1,3 +1,11 @@
+---
+title: "Writing a Digital Forensic Report  A Comprehensive Guide 6e82b1b3f9e7"
+platform: Medium
+original_file: 2024-12-29_Writing-a-Digital-Forensic-Report--A-Comprehensive-Guide-6e82b1b3f9e7.md
+---
+
+# Writing a Digital Forensic Report  A Comprehensive Guide 6e82b1b3f9e7
+
 ::: {}
 # Writing a Digital Forensic Report: A Comprehensive Guide {#writing-a-digital-forensic-report-a-comprehensive-guide .p-name}
 :::

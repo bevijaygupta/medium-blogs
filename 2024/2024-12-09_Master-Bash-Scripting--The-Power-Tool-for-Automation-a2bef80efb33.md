@@ -1,3 +1,11 @@
+---
+title: "Master Bash Scripting  The Power Tool for Automation a2bef80efb33"
+platform: Medium
+original_file: 2024-12-09_Master-Bash-Scripting--The-Power-Tool-for-Automation-a2bef80efb33.md
+---
+
+# Master Bash Scripting  The Power Tool for Automation a2bef80efb33
+
 ::: {}
 # Master Bash Scripting: The Power Tool for Automation {#master-bash-scripting-the-power-tool-for-automation .p-name}
 :::

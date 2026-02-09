@@ -1,3 +1,11 @@
+---
+title: "When You Google  How to Hack Wi Fi  and the FBI Shows Up 40031d25be5d"
+platform: Medium
+original_file: 2025-04-08_When-You-Google--How-to-Hack-Wi-Fi--and-the-FBI-Shows-Up-40031d25be5d.md
+---
+
+# When You Google  How to Hack Wi Fi  and the FBI Shows Up 40031d25be5d
+
 ::: {}
 # When You Google 'How to Hack Wi-Fi' and the FBI Shows Up {#when-you-google-how-to-hack-wi-fi-and-the-fbi-shows-up .p-name}
 :::

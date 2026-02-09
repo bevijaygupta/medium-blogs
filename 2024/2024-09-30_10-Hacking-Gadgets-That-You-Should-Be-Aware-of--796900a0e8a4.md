@@ -1,3 +1,11 @@
+---
+title: "10 Hacking Gadgets That You Should Be Aware of  796900a0e8a4"
+platform: Medium
+original_file: 2024-09-30_10-Hacking-Gadgets-That-You-Should-Be-Aware-of--796900a0e8a4.md
+---
+
+# 10 Hacking Gadgets That You Should Be Aware of  796900a0e8a4
+
 ::: {}
 # 10 Hacking Gadgets That You Should Be Aware of! {#hacking-gadgets-that-you-should-be-aware-of .p-name}
 :::

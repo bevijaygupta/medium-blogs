@@ -1,3 +1,11 @@
+---
+title: "Linux PrivEsc Tryhackme Writeup 224b48e7d168"
+platform: Medium
+original_file: 2024-08-17_Linux-PrivEsc-Tryhackme-Writeup-224b48e7d168.md
+---
+
+# Linux PrivEsc Tryhackme Writeup 224b48e7d168
+
 ::: {}
 # Linux PrivEsc Tryhackme Writeup {#linux-privesc-tryhackme-writeup .p-name}
 :::

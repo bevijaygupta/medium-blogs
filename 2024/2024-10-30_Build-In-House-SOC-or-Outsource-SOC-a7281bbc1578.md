@@ -1,3 +1,11 @@
+---
+title: "Build In House SOC or Outsource SOC a7281bbc1578"
+platform: Medium
+original_file: 2024-10-30_Build-In-House-SOC-or-Outsource-SOC-a7281bbc1578.md
+---
+
+# Build In House SOC or Outsource SOC a7281bbc1578
+
 ::: {}
 # Build In-House SOC or Outsource SOC {#build-in-house-soc-or-outsource-soc .p-name}
 :::

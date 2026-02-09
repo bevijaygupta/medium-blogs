@@ -1,3 +1,11 @@
+---
+title: "Top 5 Pitfalls Keeping You from Landing Your First Cybersecurity Job d96dc251258e"
+platform: Medium
+original_file: 2024-08-22_Top-5-Pitfalls-Keeping-You-from-Landing-Your-First-Cybersecurity-Job-d96dc251258e.md
+---
+
+# Top 5 Pitfalls Keeping You from Landing Your First Cybersecurity Job d96dc251258e
+
 ::: {}
 # Top 5 Pitfalls Keeping You from Landing Your First Cybersecurity Job {#top-5-pitfalls-keeping-you-from-landing-your-first-cybersecurity-job .p-name}
 :::

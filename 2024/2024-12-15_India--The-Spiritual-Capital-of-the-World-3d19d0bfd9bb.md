@@ -1,3 +1,11 @@
+---
+title: "India  The Spiritual Capital of the World 3d19d0bfd9bb"
+platform: Medium
+original_file: 2024-12-15_India--The-Spiritual-Capital-of-the-World-3d19d0bfd9bb.md
+---
+
+# India  The Spiritual Capital of the World 3d19d0bfd9bb
+
 ::: {}
 # India: The Spiritual Capital of the World {#india-the-spiritual-capital-of-the-world .p-name}
 :::

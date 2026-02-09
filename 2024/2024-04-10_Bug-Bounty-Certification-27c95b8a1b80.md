@@ -1,3 +1,11 @@
+---
+title: "Bug Bounty Certification 27c95b8a1b80"
+platform: Medium
+original_file: 2024-04-10_Bug-Bounty-Certification-27c95b8a1b80.md
+---
+
+# Bug Bounty Certification 27c95b8a1b80
+
 ::: {}
 # Bug Bounty Certification {#bug-bounty-certification .p-name}
 :::

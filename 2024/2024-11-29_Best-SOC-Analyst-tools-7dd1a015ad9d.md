@@ -1,3 +1,11 @@
+---
+title: "Best SOC Analyst tools 7dd1a015ad9d"
+platform: Medium
+original_file: 2024-11-29_Best-SOC-Analyst-tools-7dd1a015ad9d.md
+---
+
+# Best SOC Analyst tools 7dd1a015ad9d
+
 ::: {}
 # Best SOC Analyst tools {#best-soc-analyst-tools .p-name}
 :::

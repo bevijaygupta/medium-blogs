@@ -1,3 +1,11 @@
+---
+title: "CC  Radare2 Tryhackme Writeup 41f05bb590e6"
+platform: Medium
+original_file: 2024-08-22_CC--Radare2-Tryhackme-Writeup-41f05bb590e6.md
+---
+
+# CC  Radare2 Tryhackme Writeup 41f05bb590e6
+
 ::: {}
 # CC: Radare2 Tryhackme Writeup {#cc-radare2-tryhackme-writeup .p-name}
 :::

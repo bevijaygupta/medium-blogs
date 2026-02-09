@@ -1,3 +1,11 @@
+---
+title: "Google Has Finally Dethroned ChatGPT a4cb53dbdc7a"
+platform: Medium
+original_file: 2024-09-20_Google-Has-Finally-Dethroned-ChatGPT-a4cb53dbdc7a.md
+---
+
+# Google Has Finally Dethroned ChatGPT a4cb53dbdc7a
+
 ::: {}
 # Google Has Finally Dethroned ChatGPT {#google-has-finally-dethroned-chatgpt .p-name}
 :::

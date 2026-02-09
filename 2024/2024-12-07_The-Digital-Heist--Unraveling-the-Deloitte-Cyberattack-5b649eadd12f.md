@@ -1,3 +1,11 @@
+---
+title: "The Digital Heist  Unraveling the Deloitte Cyberattack 5b649eadd12f"
+platform: Medium
+original_file: 2024-12-07_The-Digital-Heist--Unraveling-the-Deloitte-Cyberattack-5b649eadd12f.md
+---
+
+# The Digital Heist  Unraveling the Deloitte Cyberattack 5b649eadd12f
+
 ::: {}
 # The Digital Heist: Unraveling the Deloitte Cyberattack {#the-digital-heist-unraveling-the-deloitte-cyberattack .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "AI Won t Replace You  But If You Don t Evolve  Someone Who Knows AI Will  e5053ced8fea"
+platform: Medium
+original_file: 2025-09-20_AI-Won-t-Replace-You--But-If-You-Don-t-Evolve--Someone-Who-Knows-AI-Will--e5053ced8fea.md
+---
+
+# AI Won t Replace You  But If You Don t Evolve  Someone Who Knows AI Will  e5053ced8fea
+
 ::: {}
 # AI Won't Replace You. But If You Don't Evolve, Someone Who Knows AI Will. {#ai-wont-replace-you.-but-if-you-dont-evolve-someone-who-knows-ai-will. .p-name}
 :::

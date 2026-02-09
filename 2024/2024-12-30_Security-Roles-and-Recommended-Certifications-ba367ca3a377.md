@@ -1,3 +1,11 @@
+---
+title: "Security Roles and Recommended Certifications ba367ca3a377"
+platform: Medium
+original_file: 2024-12-30_Security-Roles-and-Recommended-Certifications-ba367ca3a377.md
+---
+
+# Security Roles and Recommended Certifications ba367ca3a377
+
 ::: {}
 # Security Roles and Recommended Certifications {#security-roles-and-recommended-certifications .p-name}
 :::

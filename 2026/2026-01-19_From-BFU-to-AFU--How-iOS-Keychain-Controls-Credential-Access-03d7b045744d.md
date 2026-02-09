@@ -1,3 +1,11 @@
+---
+title: "From BFU to AFU  How iOS Keychain Controls Credential Access 03d7b045744d"
+platform: Medium
+original_file: 2026-01-19_From-BFU-to-AFU--How-iOS-Keychain-Controls-Credential-Access-03d7b045744d.md
+---
+
+# From BFU to AFU  How iOS Keychain Controls Credential Access 03d7b045744d
+
 ::: {}
 # From BFU to AFU: How iOS Keychain Controls Credential Access {#from-bfu-to-afu-how-ios-keychain-controls-credential-access .p-name}
 :::

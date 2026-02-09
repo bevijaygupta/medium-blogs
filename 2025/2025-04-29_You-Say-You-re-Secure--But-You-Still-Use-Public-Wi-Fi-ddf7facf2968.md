@@ -1,3 +1,11 @@
+---
+title: "You Say You re Secure  But You Still Use Public Wi Fi ddf7facf2968"
+platform: Medium
+original_file: 2025-04-29_You-Say-You-re-Secure--But-You-Still-Use-Public-Wi-Fi-ddf7facf2968.md
+---
+
+# You Say You re Secure  But You Still Use Public Wi Fi ddf7facf2968
+
 ::: {}
 # You Say You're Secure... But You Still Use Public Wi-Fi {#you-say-youre-secure-but-you-still-use-public-wi-fi .p-name}
 :::

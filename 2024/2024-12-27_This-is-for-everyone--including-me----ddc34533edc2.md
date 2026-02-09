@@ -1,3 +1,11 @@
+---
+title: "This is for everyone  including me    ddc34533edc2"
+platform: Medium
+original_file: 2024-12-27_This-is-for-everyone--including-me----ddc34533edc2.md
+---
+
+# This is for everyone  including me    ddc34533edc2
+
 ::: {}
 # This is for everyone, including me.💫 {#this-is-for-everyone-including-me. .p-name}
 :::

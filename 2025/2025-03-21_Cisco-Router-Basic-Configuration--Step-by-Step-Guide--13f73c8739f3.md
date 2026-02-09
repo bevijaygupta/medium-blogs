@@ -1,3 +1,11 @@
+---
+title: "Cisco Router Basic Configuration  Step by Step Guide  13f73c8739f3"
+platform: Medium
+original_file: 2025-03-21_Cisco-Router-Basic-Configuration--Step-by-Step-Guide--13f73c8739f3.md
+---
+
+# Cisco Router Basic Configuration  Step by Step Guide  13f73c8739f3
+
 ::: {}
 # Cisco Router Basic Configuration (Step by Step Guide) {#cisco-router-basic-configuration-step-by-step-guide .p-name}
 :::

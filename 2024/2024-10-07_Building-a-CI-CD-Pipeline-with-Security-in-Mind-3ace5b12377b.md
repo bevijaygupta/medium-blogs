@@ -1,3 +1,11 @@
+---
+title: "Building a CI CD Pipeline with Security in Mind 3ace5b12377b"
+platform: Medium
+original_file: 2024-10-07_Building-a-CI-CD-Pipeline-with-Security-in-Mind-3ace5b12377b.md
+---
+
+# Building a CI CD Pipeline with Security in Mind 3ace5b12377b
+
 ::: {}
 # Building a CI/CD Pipeline with Security in Mind {#building-a-cicd-pipeline-with-security-in-mind .p-name}
 :::

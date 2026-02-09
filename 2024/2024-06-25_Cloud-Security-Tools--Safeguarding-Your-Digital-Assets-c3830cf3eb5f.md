@@ -1,3 +1,11 @@
+---
+title: "Cloud Security Tools  Safeguarding Your Digital Assets c3830cf3eb5f"
+platform: Medium
+original_file: 2024-06-25_Cloud-Security-Tools--Safeguarding-Your-Digital-Assets-c3830cf3eb5f.md
+---
+
+# Cloud Security Tools  Safeguarding Your Digital Assets c3830cf3eb5f
+
 ::: {}
 # Cloud Security Tools: Safeguarding Your Digital Assets {#cloud-security-tools-safeguarding-your-digital-assets .p-name}
 :::

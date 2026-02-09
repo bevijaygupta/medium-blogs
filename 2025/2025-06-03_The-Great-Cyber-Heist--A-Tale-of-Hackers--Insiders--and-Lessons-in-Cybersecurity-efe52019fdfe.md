@@ -1,3 +1,11 @@
+---
+title: "The Great Cyber Heist  A Tale of Hackers  Insiders  and Lessons in Cybersecurity efe52019fdfe"
+platform: Medium
+original_file: 2025-06-03_The-Great-Cyber-Heist--A-Tale-of-Hackers--Insiders--and-Lessons-in-Cybersecurity-efe52019fdfe.md
+---
+
+# The Great Cyber Heist  A Tale of Hackers  Insiders  and Lessons in Cybersecurity efe52019fdfe
+
 ::: {}
 # The Great Cyber Heist: A Tale of Hackers, Insiders, and Lessons in Cybersecurity {#the-great-cyber-heist-a-tale-of-hackers-insiders-and-lessons-in-cybersecurity .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "The Betrayal Was So Loud  But The Apology Didn t Make A Sound af2d8fa859db"
+platform: Medium
+original_file: 2025-10-13_The-Betrayal-Was-So-Loud--But-The-Apology-Didn-t-Make-A-Sound-af2d8fa859db.md
+---
+
+# The Betrayal Was So Loud  But The Apology Didn t Make A Sound af2d8fa859db
+
 ::: {}
 # The Betrayal Was So Loud, But The Apology Didn't Make A Sound {#the-betrayal-was-so-loud-but-the-apology-didnt-make-a-sound .p-name}
 :::

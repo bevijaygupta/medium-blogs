@@ -1,3 +1,11 @@
+---
+title: "Networking Basics with Kali Linux  Tools and Techniques 7c55c6bd24cd"
+platform: Medium
+original_file: 2024-10-20_Networking-Basics-with-Kali-Linux--Tools-and-Techniques-7c55c6bd24cd.md
+---
+
+# Networking Basics with Kali Linux  Tools and Techniques 7c55c6bd24cd
+
 ::: {}
 # Networking Basics with Kali Linux: Tools and Techniques {#networking-basics-with-kali-linux-tools-and-techniques .p-name}
 :::

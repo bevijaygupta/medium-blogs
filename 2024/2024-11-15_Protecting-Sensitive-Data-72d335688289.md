@@ -1,3 +1,11 @@
+---
+title: "Protecting Sensitive Data 72d335688289"
+platform: Medium
+original_file: 2024-11-15_Protecting-Sensitive-Data-72d335688289.md
+---
+
+# Protecting Sensitive Data 72d335688289
+
 ::: {}
 # Protecting Sensitive Data {#protecting-sensitive-data .p-name}
 :::

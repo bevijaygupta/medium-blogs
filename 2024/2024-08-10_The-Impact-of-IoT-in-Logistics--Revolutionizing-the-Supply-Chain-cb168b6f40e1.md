@@ -1,3 +1,11 @@
+---
+title: "The Impact of IoT in Logistics  Revolutionizing the Supply Chain cb168b6f40e1"
+platform: Medium
+original_file: 2024-08-10_The-Impact-of-IoT-in-Logistics--Revolutionizing-the-Supply-Chain-cb168b6f40e1.md
+---
+
+# The Impact of IoT in Logistics  Revolutionizing the Supply Chain cb168b6f40e1
+
 ::: {}
 # The Impact of IoT in Logistics: Revolutionizing the Supply Chain {#the-impact-of-iot-in-logistics-revolutionizing-the-supply-chain .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Upgrade Your SMB Share Exploration with smbclient ng  d2ab3c54a186"
+platform: Medium
+original_file: 2025-03-16_Upgrade-Your-SMB-Share-Exploration-with-smbclient-ng--d2ab3c54a186.md
+---
+
+# Upgrade Your SMB Share Exploration with smbclient ng  d2ab3c54a186
+
 ::: {}
 # Upgrade Your SMB Share Exploration with smbclient-ng! {#upgrade-your-smb-share-exploration-with-smbclient-ng .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Stop Nodding Along in Meetings 30ea8a8dfd62"
+platform: Medium
+original_file: 2024-12-14_Stop-Nodding-Along-in-Meetings-30ea8a8dfd62.md
+---
+
+# Stop Nodding Along in Meetings 30ea8a8dfd62
+
 ::: {}
 # Stop Nodding Along in Meetings {#stop-nodding-along-in-meetings .p-name}
 :::

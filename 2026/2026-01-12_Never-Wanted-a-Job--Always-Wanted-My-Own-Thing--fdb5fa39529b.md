@@ -1,3 +1,11 @@
+---
+title: "Never Wanted a Job  Always Wanted My Own Thing  fdb5fa39529b"
+platform: Medium
+original_file: 2026-01-12_Never-Wanted-a-Job--Always-Wanted-My-Own-Thing--fdb5fa39529b.md
+---
+
+# Never Wanted a Job  Always Wanted My Own Thing  fdb5fa39529b
+
 ::: {}
 # Never Wanted a Job. Always Wanted My Own Thing. {#never-wanted-a-job.-always-wanted-my-own-thing. .p-name}
 :::

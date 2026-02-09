@@ -1,3 +1,11 @@
+---
+title: "Toxic Jobs  The Silent Killers of Your Career 99f3d5190113"
+platform: Medium
+original_file: 2024-12-26_Toxic-Jobs--The-Silent-Killers-of-Your-Career-99f3d5190113.md
+---
+
+# Toxic Jobs  The Silent Killers of Your Career 99f3d5190113
+
 ::: {}
 # Toxic Jobs: The Silent Killers of Your Career {#toxic-jobs-the-silent-killers-of-your-career .p-name}
 :::

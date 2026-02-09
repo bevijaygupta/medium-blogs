@@ -1,3 +1,11 @@
+---
+title: "The Power of Words  10 Things Great Leaders Say ea3627203249"
+platform: Medium
+original_file: 2025-09-28_The-Power-of-Words--10-Things-Great-Leaders-Say-ea3627203249.md
+---
+
+# The Power of Words  10 Things Great Leaders Say ea3627203249
+
 ::: {}
 # The Power of Words: 10 Things Great Leaders Say {#the-power-of-words-10-things-great-leaders-say .p-name}
 :::

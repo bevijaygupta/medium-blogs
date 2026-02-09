@@ -1,3 +1,11 @@
+---
+title: "12 Phrases to Avoid in the Workplace 623f17dad005"
+platform: Medium
+original_file: 2024-11-02_12-Phrases-to-Avoid-in-the-Workplace-623f17dad005.md
+---
+
+# 12 Phrases to Avoid in the Workplace 623f17dad005
+
 ::: {}
 # 12 Phrases to Avoid in the Workplace {#phrases-to-avoid-in-the-workplace .p-name}
 :::

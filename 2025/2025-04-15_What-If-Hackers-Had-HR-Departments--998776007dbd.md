@@ -1,3 +1,11 @@
+---
+title: "What If Hackers Had HR Departments  998776007dbd"
+platform: Medium
+original_file: 2025-04-15_What-If-Hackers-Had-HR-Departments--998776007dbd.md
+---
+
+# What If Hackers Had HR Departments  998776007dbd
+
 ::: {}
 # What If Hackers Had HR Departments? {#what-if-hackers-had-hr-departments .p-name}
 :::

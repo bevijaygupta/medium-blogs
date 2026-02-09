@@ -1,3 +1,11 @@
+---
+title: "The Role of a Cloud Security Engineer in Today s Digital Landscape 510e126c8b3a"
+platform: Medium
+original_file: 2024-06-21_The-Role-of-a-Cloud-Security-Engineer-in-Today-s-Digital-Landscape-510e126c8b3a.md
+---
+
+# The Role of a Cloud Security Engineer in Today s Digital Landscape 510e126c8b3a
+
 ::: {}
 # The Role of a Cloud Security Engineer in Today's Digital Landscape {#the-role-of-a-cloud-security-engineer-in-todays-digital-landscape .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Common Linux Privesc TryHackme Writeup e3de54dde9df"
+platform: Medium
+original_file: 2024-08-27_Common-Linux-Privesc-TryHackme-Writeup-e3de54dde9df.md
+---
+
+# Common Linux Privesc TryHackme Writeup e3de54dde9df
+
 ::: {}
 # Common Linux Privesc TryHackme Writeup {#common-linux-privesc-tryhackme-writeup .p-name}
 :::

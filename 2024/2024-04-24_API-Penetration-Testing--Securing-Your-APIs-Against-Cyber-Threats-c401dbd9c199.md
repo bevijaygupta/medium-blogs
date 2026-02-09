@@ -1,3 +1,11 @@
+---
+title: "API Penetration Testing  Securing Your APIs Against Cyber Threats c401dbd9c199"
+platform: Medium
+original_file: 2024-04-24_API-Penetration-Testing--Securing-Your-APIs-Against-Cyber-Threats-c401dbd9c199.md
+---
+
+# API Penetration Testing  Securing Your APIs Against Cyber Threats c401dbd9c199
+
 ::: {}
 # API Penetration Testing: Securing Your APIs Against Cyber Threats {#api-penetration-testing-securing-your-apis-against-cyber-threats .p-name}
 :::

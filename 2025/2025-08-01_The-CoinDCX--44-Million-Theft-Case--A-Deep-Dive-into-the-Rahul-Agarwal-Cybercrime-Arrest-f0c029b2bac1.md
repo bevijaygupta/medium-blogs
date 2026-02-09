@@ -1,3 +1,11 @@
+---
+title: "The CoinDCX  44 Million Theft Case  A Deep Dive into the Rahul Agarwal Cybercrime Arrest f0c029b2bac1"
+platform: Medium
+original_file: 2025-08-01_The-CoinDCX--44-Million-Theft-Case--A-Deep-Dive-into-the-Rahul-Agarwal-Cybercrime-Arrest-f0c029b2bac1.md
+---
+
+# The CoinDCX  44 Million Theft Case  A Deep Dive into the Rahul Agarwal Cybercrime Arrest f0c029b2bac1
+
 ::: {}
 # The CoinDCX \$44 Million Theft Case: A Deep Dive into the Rahul Agarwal Cybercrime Arrest {#the-coindcx-44-million-theft-case-a-deep-dive-into-the-rahul-agarwal-cybercrime-arrest .p-name}
 :::

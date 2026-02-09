@@ -1,3 +1,11 @@
+---
+title: "Why Are IoT Devices Often Targeted in Cyberattacks  458fc400277d"
+platform: Medium
+original_file: 2024-09-11_Why-Are-IoT-Devices-Often-Targeted-in-Cyberattacks--458fc400277d.md
+---
+
+# Why Are IoT Devices Often Targeted in Cyberattacks  458fc400277d
+
 ::: {}
 # Why Are IoT Devices Often Targeted in Cyberattacks? {#why-are-iot-devices-often-targeted-in-cyberattacks .p-name}
 :::

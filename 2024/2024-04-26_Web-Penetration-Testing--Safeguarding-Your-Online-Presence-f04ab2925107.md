@@ -1,3 +1,11 @@
+---
+title: "Web Penetration Testing  Safeguarding Your Online Presence f04ab2925107"
+platform: Medium
+original_file: 2024-04-26_Web-Penetration-Testing--Safeguarding-Your-Online-Presence-f04ab2925107.md
+---
+
+# Web Penetration Testing  Safeguarding Your Online Presence f04ab2925107
+
 ::: {}
 # Web Penetration Testing: Safeguarding Your Online Presence {#web-penetration-testing-safeguarding-your-online-presence .p-name}
 :::

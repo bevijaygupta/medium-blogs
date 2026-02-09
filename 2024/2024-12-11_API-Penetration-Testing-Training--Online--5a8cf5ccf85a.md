@@ -1,3 +1,11 @@
+---
+title: "API Penetration Testing Training  Online  5a8cf5ccf85a"
+platform: Medium
+original_file: 2024-12-11_API-Penetration-Testing-Training--Online--5a8cf5ccf85a.md
+---
+
+# API Penetration Testing Training  Online  5a8cf5ccf85a
+
 ::: {}
 # API Penetration Testing Training (Online) {#api-penetration-testing-training-online .p-name}
 :::

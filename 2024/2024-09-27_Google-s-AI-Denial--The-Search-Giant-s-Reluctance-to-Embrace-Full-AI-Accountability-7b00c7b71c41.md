@@ -1,3 +1,11 @@
+---
+title: "Google s AI Denial  The Search Giant s Reluctance to Embrace Full AI Accountability 7b00c7b71c41"
+platform: Medium
+original_file: 2024-09-27_Google-s-AI-Denial--The-Search-Giant-s-Reluctance-to-Embrace-Full-AI-Accountability-7b00c7b71c41.md
+---
+
+# Google s AI Denial  The Search Giant s Reluctance to Embrace Full AI Accountability 7b00c7b71c41
+
 ::: {}
 # Google's AI Denial: The Search Giant's Reluctance to Embrace Full AI Accountability {#googles-ai-denial-the-search-giants-reluctance-to-embrace-full-ai-accountability .p-name}
 :::

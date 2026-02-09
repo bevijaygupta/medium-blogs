@@ -1,3 +1,11 @@
+---
+title: "10 Free Cybersecurity Certifications to Boost Your Resume      4368e406f2d5"
+platform: Medium
+original_file: 2024-12-15_10-Free-Cybersecurity-Certifications-to-Boost-Your-Resume------4368e406f2d5.md
+---
+
+# 10 Free Cybersecurity Certifications to Boost Your Resume      4368e406f2d5
+
 ::: {}
 # 10 Free Cybersecurity Certifications to Boost Your Resume 🥇🏆 {#free-cybersecurity-certifications-to-boost-your-resume .p-name}
 :::

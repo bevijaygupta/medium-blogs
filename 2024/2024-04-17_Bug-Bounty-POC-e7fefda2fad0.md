@@ -1,3 +1,11 @@
+---
+title: "Bug Bounty POC e7fefda2fad0"
+platform: Medium
+original_file: 2024-04-17_Bug-Bounty-POC-e7fefda2fad0.md
+---
+
+# Bug Bounty POC e7fefda2fad0
+
 ::: {}
 # Bug Bounty POC {#bug-bounty-poc .p-name}
 :::

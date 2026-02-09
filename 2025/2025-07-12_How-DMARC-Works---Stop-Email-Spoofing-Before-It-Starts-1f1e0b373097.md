@@ -1,3 +1,11 @@
+---
+title: "How DMARC Works   Stop Email Spoofing Before It Starts 1f1e0b373097"
+platform: Medium
+original_file: 2025-07-12_How-DMARC-Works---Stop-Email-Spoofing-Before-It-Starts-1f1e0b373097.md
+---
+
+# How DMARC Works   Stop Email Spoofing Before It Starts 1f1e0b373097
+
 ::: {}
 # How DMARC Works --- Stop Email Spoofing Before It Starts {#how-dmarc-works-stop-email-spoofing-before-it-starts .p-name}
 :::

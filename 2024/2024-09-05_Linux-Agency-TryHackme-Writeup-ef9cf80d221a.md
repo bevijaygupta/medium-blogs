@@ -1,3 +1,11 @@
+---
+title: "Linux Agency TryHackme Writeup ef9cf80d221a"
+platform: Medium
+original_file: 2024-09-05_Linux-Agency-TryHackme-Writeup-ef9cf80d221a.md
+---
+
+# Linux Agency TryHackme Writeup ef9cf80d221a
+
 ::: {}
 # Linux Agency TryHackme Writeup {#linux-agency-tryhackme-writeup .p-name}
 :::

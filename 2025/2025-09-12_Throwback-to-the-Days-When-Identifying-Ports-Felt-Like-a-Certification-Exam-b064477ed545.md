@@ -1,3 +1,11 @@
+---
+title: "Throwback to the Days When Identifying Ports Felt Like a Certification Exam b064477ed545"
+platform: Medium
+original_file: 2025-09-12_Throwback-to-the-Days-When-Identifying-Ports-Felt-Like-a-Certification-Exam-b064477ed545.md
+---
+
+# Throwback to the Days When Identifying Ports Felt Like a Certification Exam b064477ed545
+
 ::: {}
 # Throwback to the Days When Identifying Ports Felt Like a Certification Exam {#throwback-to-the-days-when-identifying-ports-felt-like-a-certification-exam .p-name}
 :::

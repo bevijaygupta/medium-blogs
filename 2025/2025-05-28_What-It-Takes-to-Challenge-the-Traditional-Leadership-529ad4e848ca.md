@@ -1,3 +1,11 @@
+---
+title: "What It Takes to Challenge the Traditional Leadership 529ad4e848ca"
+platform: Medium
+original_file: 2025-05-28_What-It-Takes-to-Challenge-the-Traditional-Leadership-529ad4e848ca.md
+---
+
+# What It Takes to Challenge the Traditional Leadership 529ad4e848ca
+
 ::: {}
 # What It Takes to Challenge the Traditional Leadership {#what-it-takes-to-challenge-the-traditional-leadership .p-name}
 :::

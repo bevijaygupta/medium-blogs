@@ -1,3 +1,11 @@
+---
+title: "Linux Reverse Shell that  Almost  Always Works af5fbe214b9f"
+platform: Medium
+original_file: 2024-09-16_Linux-Reverse-Shell-that--Almost--Always-Works-af5fbe214b9f.md
+---
+
+# Linux Reverse Shell that  Almost  Always Works af5fbe214b9f
+
 ::: {}
 # Linux Reverse Shell that (Almost) Always Works {#linux-reverse-shell-that-almost-always-works .p-name}
 :::

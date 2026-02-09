@@ -1,3 +1,11 @@
+---
+title: "Doing Hard Things Is Overrated   Here s Why the World Needs a New Playbook 61339f79548a"
+platform: Medium
+original_file: 2025-11-13_Doing-Hard-Things-Is-Overrated---Here-s-Why-the-World-Needs-a-New-Playbook-61339f79548a.md
+---
+
+# Doing Hard Things Is Overrated   Here s Why the World Needs a New Playbook 61339f79548a
+
 ::: {}
 # Doing Hard Things Is Overrated --- Here's Why the World Needs a New Playbook {#doing-hard-things-is-overrated-heres-why-the-world-needs-a-new-playbook .p-name}
 :::

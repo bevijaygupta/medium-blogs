@@ -1,3 +1,11 @@
+---
+title: "How Hackers Can Extract Data from a Locked Phone in Repair Shops c9083353b9c7"
+platform: Medium
+original_file: 2025-07-21_How-Hackers-Can-Extract-Data-from-a-Locked-Phone-in-Repair-Shops-c9083353b9c7.md
+---
+
+# How Hackers Can Extract Data from a Locked Phone in Repair Shops c9083353b9c7
+
 ::: {}
 # How Hackers Can Extract Data from a Locked Phone in Repair Shops {#how-hackers-can-extract-data-from-a-locked-phone-in-repair-shops .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "The Power of Network Security Groups 84a7cc242364"
+platform: Medium
+original_file: 2024-05-16_The-Power-of-Network-Security-Groups-84a7cc242364.md
+---
+
+# The Power of Network Security Groups 84a7cc242364
+
 ::: {}
 # The Power of Network Security Groups {#the-power-of-network-security-groups .p-name}
 :::

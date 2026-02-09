@@ -1,3 +1,11 @@
+---
+title: "How Does NAT Work  Simplifying Network Connectivity 7ae445a2ac4d"
+platform: Medium
+original_file: 2025-03-22_How-Does-NAT-Work--Simplifying-Network-Connectivity-7ae445a2ac4d.md
+---
+
+# How Does NAT Work  Simplifying Network Connectivity 7ae445a2ac4d
+
 ::: {}
 # How Does NAT Work? Simplifying Network Connectivity {#how-does-nat-work-simplifying-network-connectivity .p-name}
 :::

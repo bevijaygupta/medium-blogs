@@ -1,3 +1,11 @@
+---
+title: "The Ultimate Guide to 22 Essential Web Application Security Tools ef00c8a4ffb9"
+platform: Medium
+original_file: 2024-10-22_The-Ultimate-Guide-to-22-Essential-Web-Application-Security-Tools-ef00c8a4ffb9.md
+---
+
+# The Ultimate Guide to 22 Essential Web Application Security Tools ef00c8a4ffb9
+
 ::: {}
 # The Ultimate Guide to 22 Essential Web Application Security Tools {#the-ultimate-guide-to-22-essential-web-application-security-tools .p-name}
 :::

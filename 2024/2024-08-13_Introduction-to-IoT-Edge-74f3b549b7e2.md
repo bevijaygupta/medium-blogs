@@ -1,3 +1,11 @@
+---
+title: "Introduction to IoT Edge 74f3b549b7e2"
+platform: Medium
+original_file: 2024-08-13_Introduction-to-IoT-Edge-74f3b549b7e2.md
+---
+
+# Introduction to IoT Edge 74f3b549b7e2
+
 ::: {}
 # Introduction to IoT Edge {#introduction-to-iot-edge .p-name}
 :::

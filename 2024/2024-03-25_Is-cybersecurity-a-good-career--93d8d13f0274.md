@@ -1,3 +1,11 @@
+---
+title: "Is cybersecurity a good career  93d8d13f0274"
+platform: Medium
+original_file: 2024-03-25_Is-cybersecurity-a-good-career--93d8d13f0274.md
+---
+
+# Is cybersecurity a good career  93d8d13f0274
+
 ::: {}
 # Is cybersecurity a good career? {#is-cybersecurity-a-good-career .p-name}
 :::

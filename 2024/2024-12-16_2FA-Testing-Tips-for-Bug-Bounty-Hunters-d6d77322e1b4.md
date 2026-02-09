@@ -1,3 +1,11 @@
+---
+title: "2FA Testing Tips for Bug Bounty Hunters d6d77322e1b4"
+platform: Medium
+original_file: 2024-12-16_2FA-Testing-Tips-for-Bug-Bounty-Hunters-d6d77322e1b4.md
+---
+
+# 2FA Testing Tips for Bug Bounty Hunters d6d77322e1b4
+
 ::: {}
 # 2FA Testing Tips for Bug Bounty Hunters {#fa-testing-tips-for-bug-bounty-hunters .p-name}
 :::

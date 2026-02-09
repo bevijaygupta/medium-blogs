@@ -1,3 +1,11 @@
+---
+title: "The ChatGPT Hype Is Over   Now Watch How Google Will Kill ChatGPT 8d26824ac732"
+platform: Medium
+original_file: 2024-09-19_The-ChatGPT-Hype-Is-Over---Now-Watch-How-Google-Will-Kill-ChatGPT-8d26824ac732.md
+---
+
+# The ChatGPT Hype Is Over   Now Watch How Google Will Kill ChatGPT 8d26824ac732
+
 ::: {}
 # The ChatGPT Hype Is Over --- Now Watch How Google Will Kill ChatGPT {#the-chatgpt-hype-is-over-now-watch-how-google-will-kill-chatgpt .p-name}
 :::

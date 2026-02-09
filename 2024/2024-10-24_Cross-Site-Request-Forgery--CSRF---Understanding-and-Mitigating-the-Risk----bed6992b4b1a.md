@@ -1,3 +1,11 @@
+---
+title: "Cross Site Request Forgery  CSRF   Understanding and Mitigating the Risk    bed6992b4b1a"
+platform: Medium
+original_file: 2024-10-24_Cross-Site-Request-Forgery--CSRF---Understanding-and-Mitigating-the-Risk----bed6992b4b1a.md
+---
+
+# Cross Site Request Forgery  CSRF   Understanding and Mitigating the Risk    bed6992b4b1a
+
 ::: {}
 # Cross-Site Request Forgery (CSRF): Understanding and Mitigating the Risk 🔒 {#cross-site-request-forgery-csrf-understanding-and-mitigating-the-risk .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "How Do Cybersecurity Breaches Affect Public Trust in Technology  1d82afe60934"
+platform: Medium
+original_file: 2024-09-12_How-Do-Cybersecurity-Breaches-Affect-Public-Trust-in-Technology--1d82afe60934.md
+---
+
+# How Do Cybersecurity Breaches Affect Public Trust in Technology  1d82afe60934
+
 ::: {}
 # How Do Cybersecurity Breaches Affect Public Trust in Technology? {#how-do-cybersecurity-breaches-affect-public-trust-in-technology .p-name}
 :::

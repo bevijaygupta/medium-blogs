@@ -1,3 +1,11 @@
+---
+title: "SQL Injection Lab Tryhackme Writeup 7e4d90562991"
+platform: Medium
+original_file: 2024-08-17_SQL-Injection-Lab-Tryhackme-Writeup-7e4d90562991.md
+---
+
+# SQL Injection Lab Tryhackme Writeup 7e4d90562991
+
 ::: {}
 # SQL Injection Lab Tryhackme Writeup {#sql-injection-lab-tryhackme-writeup .p-name}
 :::

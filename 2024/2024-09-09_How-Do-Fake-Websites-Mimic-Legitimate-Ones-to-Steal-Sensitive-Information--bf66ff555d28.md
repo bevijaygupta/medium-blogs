@@ -1,3 +1,11 @@
+---
+title: "How Do Fake Websites Mimic Legitimate Ones to Steal Sensitive Information  bf66ff555d28"
+platform: Medium
+original_file: 2024-09-09_How-Do-Fake-Websites-Mimic-Legitimate-Ones-to-Steal-Sensitive-Information--bf66ff555d28.md
+---
+
+# How Do Fake Websites Mimic Legitimate Ones to Steal Sensitive Information  bf66ff555d28
+
 ::: {}
 # How Do Fake Websites Mimic Legitimate Ones to Steal Sensitive Information? {#how-do-fake-websites-mimic-legitimate-ones-to-steal-sensitive-information .p-name}
 :::

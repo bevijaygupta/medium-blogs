@@ -1,3 +1,11 @@
+---
+title: "Basic Penetration Testing  A Red Team Primer for Beginners and Pros 754cab27f199"
+platform: Medium
+original_file: 2025-01-26_Basic-Penetration-Testing--A-Red-Team-Primer-for-Beginners-and-Pros-754cab27f199.md
+---
+
+# Basic Penetration Testing  A Red Team Primer for Beginners and Pros 754cab27f199
+
 ::: {}
 # Basic Penetration Testing: A Red Team Primer for Beginners and Pros {#basic-penetration-testing-a-red-team-primer-for-beginners-and-pros .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "How to Create Your Own Encrypted VPN Server in 15 Minutes 482e1c227862"
+platform: Medium
+original_file: 2024-11-04_How-to-Create-Your-Own-Encrypted-VPN-Server-in-15-Minutes-482e1c227862.md
+---
+
+# How to Create Your Own Encrypted VPN Server in 15 Minutes 482e1c227862
+
 ::: {}
 # How to Create Your Own Encrypted VPN Server in 15 Minutes {#how-to-create-your-own-encrypted-vpn-server-in-15-minutes .p-name}
 :::

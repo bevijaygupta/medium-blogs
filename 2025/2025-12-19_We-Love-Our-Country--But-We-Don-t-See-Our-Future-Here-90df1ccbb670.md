@@ -1,3 +1,11 @@
+---
+title: "We Love Our Country  But We Don t See Our Future Here 90df1ccbb670"
+platform: Medium
+original_file: 2025-12-19_We-Love-Our-Country--But-We-Don-t-See-Our-Future-Here-90df1ccbb670.md
+---
+
+# We Love Our Country  But We Don t See Our Future Here 90df1ccbb670
+
 ::: {}
 # We Love Our Country, But We Don't See Our Future Here {#we-love-our-country-but-we-dont-see-our-future-here .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Don t leave your coffee for too long  then ask why it s cold  d1f0f7f8719f"
+platform: Medium
+original_file: 2025-10-12_Don-t-leave-your-coffee-for-too-long--then-ask-why-it-s-cold--d1f0f7f8719f.md
+---
+
+# Don t leave your coffee for too long  then ask why it s cold  d1f0f7f8719f
+
 ::: {}
 # Don't leave your coffee for too long, then ask why it's cold. {#dont-leave-your-coffee-for-too-long-then-ask-why-its-cold. .p-name}
 :::

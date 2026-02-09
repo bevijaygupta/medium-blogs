@@ -1,3 +1,11 @@
+---
+title: "How to Actually Learn Hacking in 2024 25  A Practical Guide e6436d85b62a"
+platform: Medium
+original_file: 2024-09-26_How-to-Actually-Learn-Hacking-in-2024-25--A-Practical-Guide-e6436d85b62a.md
+---
+
+# How to Actually Learn Hacking in 2024 25  A Practical Guide e6436d85b62a
+
 ::: {}
 # How to Actually Learn Hacking in 2024--25: A Practical Guide {#how-to-actually-learn-hacking-in-202425-a-practical-guide .p-name}
 :::

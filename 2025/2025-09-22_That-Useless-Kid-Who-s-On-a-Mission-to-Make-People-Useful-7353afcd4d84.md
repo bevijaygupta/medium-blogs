@@ -1,3 +1,11 @@
+---
+title: "That Useless Kid Who s On a Mission to Make People Useful 7353afcd4d84"
+platform: Medium
+original_file: 2025-09-22_That-Useless-Kid-Who-s-On-a-Mission-to-Make-People-Useful-7353afcd4d84.md
+---
+
+# That Useless Kid Who s On a Mission to Make People Useful 7353afcd4d84
+
 ::: {}
 # That Useless Kid Who's On a Mission to Make People Useful {#that-useless-kid-whos-on-a-mission-to-make-people-useful .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Why You  Why Not You  5a096048c0aa"
+platform: Medium
+original_file: 2026-01-09_Why-You--Why-Not-You--5a096048c0aa.md
+---
+
+# Why You  Why Not You  5a096048c0aa
+
 ::: {}
 # Why You? Why Not You? {#why-you-why-not-you .p-name}
 :::

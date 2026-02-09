@@ -1,3 +1,11 @@
+---
+title: "Kali Linux for Digital Forensics c833c3edc892"
+platform: Medium
+original_file: 2024-10-13_Kali-Linux-for-Digital-Forensics-c833c3edc892.md
+---
+
+# Kali Linux for Digital Forensics c833c3edc892
+
 ::: {}
 # Kali Linux for Digital Forensics {#kali-linux-for-digital-forensics .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Cloud Security Issues  Understanding and Mitigating Risks in the Cloud ec9f8d7e80b7"
+platform: Medium
+original_file: 2024-06-20_Cloud-Security-Issues--Understanding-and-Mitigating-Risks-in-the-Cloud-ec9f8d7e80b7.md
+---
+
+# Cloud Security Issues  Understanding and Mitigating Risks in the Cloud ec9f8d7e80b7
+
 ::: {}
 # Cloud Security Issues: Understanding and Mitigating Risks in the Cloud {#cloud-security-issues-understanding-and-mitigating-risks-in-the-cloud .p-name}
 :::

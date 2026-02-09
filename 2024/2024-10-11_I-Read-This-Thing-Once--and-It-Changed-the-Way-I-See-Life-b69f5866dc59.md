@@ -1,3 +1,11 @@
+---
+title: "I Read This Thing Once  and It Changed the Way I See Life b69f5866dc59"
+platform: Medium
+original_file: 2024-10-11_I-Read-This-Thing-Once--and-It-Changed-the-Way-I-See-Life-b69f5866dc59.md
+---
+
+# I Read This Thing Once  and It Changed the Way I See Life b69f5866dc59
+
 ::: {}
 # I Read This Thing Once, and It Changed the Way I See Life {#i-read-this-thing-once-and-it-changed-the-way-i-see-life .p-name}
 :::

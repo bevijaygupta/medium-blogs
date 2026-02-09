@@ -1,3 +1,11 @@
+---
+title: "The Art of Not Making a Decision db7232f04d1f"
+platform: Medium
+original_file: 2025-09-21_The-Art-of-Not-Making-a-Decision-db7232f04d1f.md
+---
+
+# The Art of Not Making a Decision db7232f04d1f
+
 ::: {}
 # The Art of Not Making a Decision {#the-art-of-not-making-a-decision .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Truth Bomb  Productivity Without Peace Is a Lie 453d8cadf08c"
+platform: Medium
+original_file: 2025-10-01_Truth-Bomb--Productivity-Without-Peace-Is-a-Lie-453d8cadf08c.md
+---
+
+# Truth Bomb  Productivity Without Peace Is a Lie 453d8cadf08c
+
 ::: {}
 # Truth Bomb: Productivity Without Peace Is a Lie {#truth-bomb-productivity-without-peace-is-a-lie .p-name}
 :::

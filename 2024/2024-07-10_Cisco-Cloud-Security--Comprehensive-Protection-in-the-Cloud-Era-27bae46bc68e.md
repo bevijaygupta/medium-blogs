@@ -1,3 +1,11 @@
+---
+title: "Cisco Cloud Security  Comprehensive Protection in the Cloud Era 27bae46bc68e"
+platform: Medium
+original_file: 2024-07-10_Cisco-Cloud-Security--Comprehensive-Protection-in-the-Cloud-Era-27bae46bc68e.md
+---
+
+# Cisco Cloud Security  Comprehensive Protection in the Cloud Era 27bae46bc68e
+
 ::: {}
 # Cisco Cloud Security: Comprehensive Protection in the Cloud Era {#cisco-cloud-security-comprehensive-protection-in-the-cloud-era .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "What if You Never Get a Life You Want  fda9e87c066e"
+platform: Medium
+original_file: 2025-09-30_What-if-You-Never-Get-a-Life-You-Want--fda9e87c066e.md
+---
+
+# What if You Never Get a Life You Want  fda9e87c066e
+
 ::: {}
 # What if You Never Get a Life You Want? {#what-if-you-never-get-a-life-you-want .p-name}
 :::

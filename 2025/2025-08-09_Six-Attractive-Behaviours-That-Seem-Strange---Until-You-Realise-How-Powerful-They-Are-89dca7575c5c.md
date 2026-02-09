@@ -1,3 +1,11 @@
+---
+title: "Six Attractive Behaviours That Seem Strange   Until You Realise How Powerful They Are 89dca7575c5c"
+platform: Medium
+original_file: 2025-08-09_Six-Attractive-Behaviours-That-Seem-Strange---Until-You-Realise-How-Powerful-They-Are-89dca7575c5c.md
+---
+
+# Six Attractive Behaviours That Seem Strange   Until You Realise How Powerful They Are 89dca7575c5c
+
 ::: {}
 # Six Attractive Behaviours That Seem Strange --- Until You Realise How Powerful They Are {#six-attractive-behaviours-that-seem-strange-until-you-realise-how-powerful-they-are .p-name}
 :::

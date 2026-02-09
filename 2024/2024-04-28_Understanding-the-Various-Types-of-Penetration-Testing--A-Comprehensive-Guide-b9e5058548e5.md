@@ -1,3 +1,11 @@
+---
+title: "Understanding the Various Types of Penetration Testing  A Comprehensive Guide b9e5058548e5"
+platform: Medium
+original_file: 2024-04-28_Understanding-the-Various-Types-of-Penetration-Testing--A-Comprehensive-Guide-b9e5058548e5.md
+---
+
+# Understanding the Various Types of Penetration Testing  A Comprehensive Guide b9e5058548e5
+
 ::: {}
 # Understanding the Various Types of Penetration Testing: A Comprehensive Guide {#understanding-the-various-types-of-penetration-testing-a-comprehensive-guide .p-name}
 :::

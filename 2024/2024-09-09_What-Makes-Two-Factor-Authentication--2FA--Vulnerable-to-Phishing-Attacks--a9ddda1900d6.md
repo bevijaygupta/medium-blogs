@@ -1,3 +1,11 @@
+---
+title: "What Makes Two Factor Authentication  2FA  Vulnerable to Phishing Attacks  a9ddda1900d6"
+platform: Medium
+original_file: 2024-09-09_What-Makes-Two-Factor-Authentication--2FA--Vulnerable-to-Phishing-Attacks--a9ddda1900d6.md
+---
+
+# What Makes Two Factor Authentication  2FA  Vulnerable to Phishing Attacks  a9ddda1900d6
+
 ::: {}
 # What Makes Two-Factor Authentication (2FA) Vulnerable to Phishing Attacks? {#what-makes-two-factor-authentication-2fa-vulnerable-to-phishing-attacks .p-name}
 :::

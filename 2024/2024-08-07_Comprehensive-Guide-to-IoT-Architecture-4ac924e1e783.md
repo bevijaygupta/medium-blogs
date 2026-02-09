@@ -1,3 +1,11 @@
+---
+title: "Comprehensive Guide to IoT Architecture 4ac924e1e783"
+platform: Medium
+original_file: 2024-08-07_Comprehensive-Guide-to-IoT-Architecture-4ac924e1e783.md
+---
+
+# Comprehensive Guide to IoT Architecture 4ac924e1e783
+
 ::: {}
 # Comprehensive Guide to IoT Architecture {#comprehensive-guide-to-iot-architecture .p-name}
 :::

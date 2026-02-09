@@ -1,3 +1,11 @@
+---
+title: "How to Spot a Liar in 3 Questions  Without Them Knowing  f776d03d3bea"
+platform: Medium
+original_file: 2026-01-20_How-to-Spot-a-Liar-in-3-Questions--Without-Them-Knowing--f776d03d3bea.md
+---
+
+# How to Spot a Liar in 3 Questions  Without Them Knowing  f776d03d3bea
+
 ::: {}
 # How to Spot a Liar in 3 Questions (Without Them Knowing) {#how-to-spot-a-liar-in-3-questions-without-them-knowing .p-name}
 :::

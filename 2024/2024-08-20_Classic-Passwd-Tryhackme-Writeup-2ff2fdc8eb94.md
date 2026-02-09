@@ -1,3 +1,11 @@
+---
+title: "Classic Passwd Tryhackme Writeup 2ff2fdc8eb94"
+platform: Medium
+original_file: 2024-08-20_Classic-Passwd-Tryhackme-Writeup-2ff2fdc8eb94.md
+---
+
+# Classic Passwd Tryhackme Writeup 2ff2fdc8eb94
+
 ::: {}
 # Classic Passwd Tryhackme Writeup {#classic-passwd-tryhackme-writeup .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "A Memorable Experience at the 21st Annual IFIP WG 11 9 9f882c73ac29"
+platform: Medium
+original_file: 2025-01-14_A-Memorable-Experience-at-the-21st-Annual-IFIP-WG-11-9-9f882c73ac29.md
+---
+
+# A Memorable Experience at the 21st Annual IFIP WG 11 9 9f882c73ac29
+
 ::: {}
 # A Memorable Experience at the 21st Annual IFIP WG 11.9 {#a-memorable-experience-at-the-21st-annual-ifip-wg-11.9 .p-name}
 :::

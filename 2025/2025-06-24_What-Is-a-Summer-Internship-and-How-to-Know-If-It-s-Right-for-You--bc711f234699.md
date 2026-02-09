@@ -1,3 +1,11 @@
+---
+title: "What Is a Summer Internship and How to Know If It s Right for You  bc711f234699"
+platform: Medium
+original_file: 2025-06-24_What-Is-a-Summer-Internship-and-How-to-Know-If-It-s-Right-for-You--bc711f234699.md
+---
+
+# What Is a Summer Internship and How to Know If It s Right for You  bc711f234699
+
 ::: {}
 # What Is a Summer Internship and How to Know If It's Right for You? {#what-is-a-summer-internship-and-how-to-know-if-its-right-for-you .p-name}
 :::

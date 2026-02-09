@@ -1,3 +1,11 @@
+---
+title: "Get Rich with OSINT  A Step by Step Guide for Gen Z 6639d063dcb4"
+platform: Medium
+original_file: 2024-10-14_Get-Rich-with-OSINT--A-Step-by-Step-Guide-for-Gen-Z-6639d063dcb4.md
+---
+
+# Get Rich with OSINT  A Step by Step Guide for Gen Z 6639d063dcb4
+
 ::: {}
 # Get Rich with OSINT: A Step-by-Step Guide for Gen Z {#get-rich-with-osint-a-step-by-step-guide-for-gen-z .p-name}
 :::

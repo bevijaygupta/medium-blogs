@@ -1,3 +1,11 @@
+---
+title: "Where Do You Go When You re Tired of Being You  a6a7c0c641a8"
+platform: Medium
+original_file: 2025-10-31_Where-Do-You-Go-When-You-re-Tired-of-Being-You--a6a7c0c641a8.md
+---
+
+# Where Do You Go When You re Tired of Being You  a6a7c0c641a8
+
 ::: {}
 # Where Do You Go When You're Tired of Being You? {#where-do-you-go-when-youre-tired-of-being-you .p-name}
 :::

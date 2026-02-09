@@ -1,3 +1,11 @@
+---
+title: "CSA STAR Cloud Security  Elevating Trust in the Cloud 6578e5f3a644"
+platform: Medium
+original_file: 2024-07-12_CSA-STAR-Cloud-Security--Elevating-Trust-in-the-Cloud-6578e5f3a644.md
+---
+
+# CSA STAR Cloud Security  Elevating Trust in the Cloud 6578e5f3a644
+
 ::: {}
 # CSA STAR Cloud Security: Elevating Trust in the Cloud {#csa-star-cloud-security-elevating-trust-in-the-cloud .p-name}
 :::

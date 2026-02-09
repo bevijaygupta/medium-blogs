@@ -1,3 +1,11 @@
+---
+title: "Explaining Cybersecurity to Boomers Be Like  7ef5824cebca"
+platform: Medium
+original_file: 2025-04-09_Explaining-Cybersecurity-to-Boomers-Be-Like--7ef5824cebca.md
+---
+
+# Explaining Cybersecurity to Boomers Be Like  7ef5824cebca
+
 ::: {}
 # Explaining Cybersecurity to Boomers Be Like... {#explaining-cybersecurity-to-boomers-be-like .p-name}
 :::

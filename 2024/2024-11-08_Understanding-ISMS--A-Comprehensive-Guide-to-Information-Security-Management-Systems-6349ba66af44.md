@@ -1,3 +1,11 @@
+---
+title: "Understanding ISMS  A Comprehensive Guide to Information Security Management Systems 6349ba66af44"
+platform: Medium
+original_file: 2024-11-08_Understanding-ISMS--A-Comprehensive-Guide-to-Information-Security-Management-Systems-6349ba66af44.md
+---
+
+# Understanding ISMS  A Comprehensive Guide to Information Security Management Systems 6349ba66af44
+
 ::: {}
 # Understanding ISMS: A Comprehensive Guide to Information Security Management Systems {#understanding-isms-a-comprehensive-guide-to-information-security-management-systems .p-name}
 :::

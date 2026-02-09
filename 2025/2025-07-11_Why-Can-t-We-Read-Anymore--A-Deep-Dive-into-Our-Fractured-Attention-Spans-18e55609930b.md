@@ -1,3 +1,11 @@
+---
+title: "Why Can t We Read Anymore  A Deep Dive into Our Fractured Attention Spans 18e55609930b"
+platform: Medium
+original_file: 2025-07-11_Why-Can-t-We-Read-Anymore--A-Deep-Dive-into-Our-Fractured-Attention-Spans-18e55609930b.md
+---
+
+# Why Can t We Read Anymore  A Deep Dive into Our Fractured Attention Spans 18e55609930b
+
 ::: {}
 # Why Can't We Read Anymore? A Deep Dive into Our Fractured Attention Spans {#why-cant-we-read-anymore-a-deep-dive-into-our-fractured-attention-spans .p-name}
 :::

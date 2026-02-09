@@ -1,3 +1,11 @@
+---
+title: "IoT Protocols  The Backbone of Connectivity in the Internet of Things df5a1ec0a8f2"
+platform: Medium
+original_file: 2024-08-05_IoT-Protocols--The-Backbone-of-Connectivity-in-the-Internet-of-Things-df5a1ec0a8f2.md
+---
+
+# IoT Protocols  The Backbone of Connectivity in the Internet of Things df5a1ec0a8f2
+
 ::: {}
 # IoT Protocols: The Backbone of Connectivity in the Internet of Things {#iot-protocols-the-backbone-of-connectivity-in-the-internet-of-things .p-name}
 :::

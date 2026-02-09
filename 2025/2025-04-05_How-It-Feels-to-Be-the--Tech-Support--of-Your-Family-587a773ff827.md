@@ -1,3 +1,11 @@
+---
+title: "How It Feels to Be the  Tech Support  of Your Family 587a773ff827"
+platform: Medium
+original_file: 2025-04-05_How-It-Feels-to-Be-the--Tech-Support--of-Your-Family-587a773ff827.md
+---
+
+# How It Feels to Be the  Tech Support  of Your Family 587a773ff827
+
 ::: {}
 # How It Feels to Be the 'Tech Support' of Your Family {#how-it-feels-to-be-the-tech-support-of-your-family .p-name}
 :::

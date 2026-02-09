@@ -1,3 +1,11 @@
+---
+title: "The Truth About Energy  Why Some Places and People Drain You d879d73f6b49"
+platform: Medium
+original_file: 2025-08-22_The-Truth-About-Energy--Why-Some-Places-and-People-Drain-You-d879d73f6b49.md
+---
+
+# The Truth About Energy  Why Some Places and People Drain You d879d73f6b49
+
 ::: {}
 # The Truth About Energy: Why Some Places and People Drain You {#the-truth-about-energy-why-some-places-and-people-drain-you .p-name}
 :::

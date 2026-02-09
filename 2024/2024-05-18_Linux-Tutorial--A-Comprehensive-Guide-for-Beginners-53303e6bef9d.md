@@ -1,3 +1,11 @@
+---
+title: "Linux Tutorial  A Comprehensive Guide for Beginners 53303e6bef9d"
+platform: Medium
+original_file: 2024-05-18_Linux-Tutorial--A-Comprehensive-Guide-for-Beginners-53303e6bef9d.md
+---
+
+# Linux Tutorial  A Comprehensive Guide for Beginners 53303e6bef9d
+
 ::: {}
 # Linux Tutorial: A Comprehensive Guide for Beginners {#linux-tutorial-a-comprehensive-guide-for-beginners .p-name}
 :::

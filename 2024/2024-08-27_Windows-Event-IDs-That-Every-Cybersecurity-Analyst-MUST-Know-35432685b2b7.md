@@ -1,3 +1,11 @@
+---
+title: "Windows Event IDs That Every Cybersecurity Analyst MUST Know 35432685b2b7"
+platform: Medium
+original_file: 2024-08-27_Windows-Event-IDs-That-Every-Cybersecurity-Analyst-MUST-Know-35432685b2b7.md
+---
+
+# Windows Event IDs That Every Cybersecurity Analyst MUST Know 35432685b2b7
+
 ::: {}
 # Windows Event IDs That Every Cybersecurity Analyst MUST Know {#windows-event-ids-that-every-cybersecurity-analyst-must-know .p-name}
 :::

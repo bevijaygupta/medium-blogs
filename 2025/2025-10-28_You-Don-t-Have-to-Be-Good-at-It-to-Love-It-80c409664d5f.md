@@ -1,3 +1,11 @@
+---
+title: "You Don t Have to Be Good at It to Love It 80c409664d5f"
+platform: Medium
+original_file: 2025-10-28_You-Don-t-Have-to-Be-Good-at-It-to-Love-It-80c409664d5f.md
+---
+
+# You Don t Have to Be Good at It to Love It 80c409664d5f
+
 ::: {}
 # You Don't Have to Be Good at It to Love It {#you-dont-have-to-be-good-at-it-to-love-it .p-name}
 :::

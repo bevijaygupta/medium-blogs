@@ -1,3 +1,11 @@
+---
+title: "Rethinking the 9 to 5  How Your Day Job Might Be the Hidden Superpower You re Ignoring 50dc48a54c55"
+platform: Medium
+original_file: 2025-07-08_Rethinking-the-9-to-5--How-Your-Day-Job-Might-Be-the-Hidden-Superpower-You-re-Ignoring-50dc48a54c55.md
+---
+
+# Rethinking the 9 to 5  How Your Day Job Might Be the Hidden Superpower You re Ignoring 50dc48a54c55
+
 ::: {}
 # Rethinking the 9-to-5: How Your Day Job Might Be the Hidden Superpower You're Ignoring {#rethinking-the-9-to-5-how-your-day-job-might-be-the-hidden-superpower-youre-ignoring .p-name}
 :::

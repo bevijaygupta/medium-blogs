@@ -1,3 +1,11 @@
+---
+title: "How to Stop Caring About What People Think 15c5feac93fc"
+platform: Medium
+original_file: 2026-01-10_How-to-Stop-Caring-About-What-People-Think-15c5feac93fc.md
+---
+
+# How to Stop Caring About What People Think 15c5feac93fc
+
 ::: {}
 # How to Stop Caring About What People Think {#how-to-stop-caring-about-what-people-think .p-name}
 :::

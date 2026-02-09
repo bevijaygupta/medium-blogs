@@ -1,3 +1,11 @@
+---
+title: "Cybersecurity Analyst by Day  Google Researcher by Night 8e933fa10a42"
+platform: Medium
+original_file: 2025-04-27_Cybersecurity-Analyst-by-Day--Google-Researcher-by-Night-8e933fa10a42.md
+---
+
+# Cybersecurity Analyst by Day  Google Researcher by Night 8e933fa10a42
+
 ::: {}
 # Cybersecurity Analyst by Day, Google Researcher by Night {#cybersecurity-analyst-by-day-google-researcher-by-night .p-name}
 :::

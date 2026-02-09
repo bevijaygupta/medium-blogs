@@ -1,3 +1,11 @@
+---
+title: "10 Powerful Visuals to Transform Your Thinking d71f105d4bd7"
+platform: Medium
+original_file: 2024-12-01_10-Powerful-Visuals-to-Transform-Your-Thinking-d71f105d4bd7.md
+---
+
+# 10 Powerful Visuals to Transform Your Thinking d71f105d4bd7
+
 ::: {}
 # 10 Powerful Visuals to Transform Your Thinking {#powerful-visuals-to-transform-your-thinking .p-name}
 :::

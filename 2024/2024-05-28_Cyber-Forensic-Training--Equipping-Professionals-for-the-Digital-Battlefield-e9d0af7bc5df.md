@@ -1,3 +1,11 @@
+---
+title: "Cyber Forensic Training  Equipping Professionals for the Digital Battlefield e9d0af7bc5df"
+platform: Medium
+original_file: 2024-05-28_Cyber-Forensic-Training--Equipping-Professionals-for-the-Digital-Battlefield-e9d0af7bc5df.md
+---
+
+# Cyber Forensic Training  Equipping Professionals for the Digital Battlefield e9d0af7bc5df
+
 ::: {}
 # Cyber Forensic Training: Equipping Professionals for the Digital Battlefield {#cyber-forensic-training-equipping-professionals-for-the-digital-battlefield .p-name}
 :::

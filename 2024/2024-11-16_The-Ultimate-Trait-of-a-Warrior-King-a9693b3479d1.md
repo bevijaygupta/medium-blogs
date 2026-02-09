@@ -1,3 +1,11 @@
+---
+title: "The Ultimate Trait of a Warrior King a9693b3479d1"
+platform: Medium
+original_file: 2024-11-16_The-Ultimate-Trait-of-a-Warrior-King-a9693b3479d1.md
+---
+
+# The Ultimate Trait of a Warrior King a9693b3479d1
+
 ::: {}
 # The Ultimate Trait of a Warrior King {#the-ultimate-trait-of-a-warrior-king .p-name}
 :::

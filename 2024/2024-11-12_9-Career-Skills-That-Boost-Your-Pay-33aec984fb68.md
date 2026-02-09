@@ -1,3 +1,11 @@
+---
+title: "9 Career Skills That Boost Your Pay 33aec984fb68"
+platform: Medium
+original_file: 2024-11-12_9-Career-Skills-That-Boost-Your-Pay-33aec984fb68.md
+---
+
+# 9 Career Skills That Boost Your Pay 33aec984fb68
+
 ::: {}
 # 9 Career Skills That Boost Your Pay {#career-skills-that-boost-your-pay .p-name}
 :::

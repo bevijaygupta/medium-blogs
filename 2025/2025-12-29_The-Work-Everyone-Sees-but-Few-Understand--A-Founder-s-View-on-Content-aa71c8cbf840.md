@@ -1,3 +1,11 @@
+---
+title: "The Work Everyone Sees but Few Understand  A Founder s View on Content aa71c8cbf840"
+platform: Medium
+original_file: 2025-12-29_The-Work-Everyone-Sees-but-Few-Understand--A-Founder-s-View-on-Content-aa71c8cbf840.md
+---
+
+# The Work Everyone Sees but Few Understand  A Founder s View on Content aa71c8cbf840
+
 ::: {}
 # The Work Everyone Sees but Few Understand: A Founder's View on Content {#the-work-everyone-sees-but-few-understand-a-founders-view-on-content .p-name}
 :::

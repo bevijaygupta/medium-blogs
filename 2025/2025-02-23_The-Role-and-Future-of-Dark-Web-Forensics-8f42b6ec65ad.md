@@ -1,3 +1,11 @@
+---
+title: "The Role and Future of Dark Web Forensics 8f42b6ec65ad"
+platform: Medium
+original_file: 2025-02-23_The-Role-and-Future-of-Dark-Web-Forensics-8f42b6ec65ad.md
+---
+
+# The Role and Future of Dark Web Forensics 8f42b6ec65ad
+
 ::: {}
 # The Role and Future of Dark Web Forensics {#the-role-and-future-of-dark-web-forensics .p-name}
 :::

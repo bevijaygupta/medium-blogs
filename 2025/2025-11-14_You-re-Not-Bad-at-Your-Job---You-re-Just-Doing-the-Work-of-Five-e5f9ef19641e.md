@@ -1,3 +1,11 @@
+---
+title: "You re Not Bad at Your Job   You re Just Doing the Work of Five e5f9ef19641e"
+platform: Medium
+original_file: 2025-11-14_You-re-Not-Bad-at-Your-Job---You-re-Just-Doing-the-Work-of-Five-e5f9ef19641e.md
+---
+
+# You re Not Bad at Your Job   You re Just Doing the Work of Five e5f9ef19641e
+
 ::: {}
 # You're Not Bad at Your Job --- You're Just Doing the Work of Five {#youre-not-bad-at-your-job-youre-just-doing-the-work-of-five .p-name}
 :::

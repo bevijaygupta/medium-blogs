@@ -1,3 +1,11 @@
+---
+title: "Cloud Security Humour  A Light Hearted Look at Cybersecurity abc44a37e25d"
+platform: Medium
+original_file: 2024-07-03_Cloud-Security-Humour--A-Light-Hearted-Look-at-Cybersecurity-abc44a37e25d.md
+---
+
+# Cloud Security Humour  A Light Hearted Look at Cybersecurity abc44a37e25d
+
 ::: {}
 # Cloud Security Humour: A Light-Hearted Look at Cybersecurity {#cloud-security-humour-a-light-hearted-look-at-cybersecurity .p-name}
 :::

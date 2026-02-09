@@ -1,3 +1,11 @@
+---
+title: "Are You a Real Hacker If You ve Never Broken a Virtual Machine  bb909dc5a622"
+platform: Medium
+original_file: 2025-04-22_Are-You-a-Real-Hacker-If-You-ve-Never-Broken-a-Virtual-Machine--bb909dc5a622.md
+---
+
+# Are You a Real Hacker If You ve Never Broken a Virtual Machine  bb909dc5a622
+
 ::: {}
 # Are You a Real Hacker If You've Never Broken a Virtual Machine? {#are-you-a-real-hacker-if-youve-never-broken-a-virtual-machine .p-name}
 :::

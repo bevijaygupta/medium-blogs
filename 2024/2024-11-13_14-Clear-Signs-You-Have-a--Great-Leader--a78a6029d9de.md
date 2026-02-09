@@ -1,3 +1,11 @@
+---
+title: "14 Clear Signs You Have a  Great Leader  a78a6029d9de"
+platform: Medium
+original_file: 2024-11-13_14-Clear-Signs-You-Have-a--Great-Leader--a78a6029d9de.md
+---
+
+# 14 Clear Signs You Have a  Great Leader  a78a6029d9de
+
 ::: {}
 # 14 Clear Signs You Have a "Great Leader" {#clear-signs-you-have-a-great-leader .p-name}
 :::

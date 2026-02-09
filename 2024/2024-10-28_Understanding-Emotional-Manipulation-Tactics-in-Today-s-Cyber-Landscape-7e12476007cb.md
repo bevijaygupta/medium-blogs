@@ -1,3 +1,11 @@
+---
+title: "Understanding Emotional Manipulation Tactics in Today s Cyber Landscape 7e12476007cb"
+platform: Medium
+original_file: 2024-10-28_Understanding-Emotional-Manipulation-Tactics-in-Today-s-Cyber-Landscape-7e12476007cb.md
+---
+
+# Understanding Emotional Manipulation Tactics in Today s Cyber Landscape 7e12476007cb
+
 ::: {}
 # Understanding Emotional Manipulation Tactics in Today's Cyber Landscape {#understanding-emotional-manipulation-tactics-in-todays-cyber-landscape .p-name}
 :::

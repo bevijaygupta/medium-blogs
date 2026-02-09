@@ -1,3 +1,11 @@
+---
+title: "Cybersecurity Mistakes That Can Ruin Your Life 582a8d648afb"
+platform: Medium
+original_file: 2025-04-12_Cybersecurity-Mistakes-That-Can-Ruin-Your-Life-582a8d648afb.md
+---
+
+# Cybersecurity Mistakes That Can Ruin Your Life 582a8d648afb
+
 ::: {}
 # Cybersecurity Mistakes That Can Ruin Your Life {#cybersecurity-mistakes-that-can-ruin-your-life .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "If You Don t Spend Enough Time Getting to Know Yourself  You ll End Up Absorbing Everyone Else s  c0bee9270298"
+platform: Medium
+original_file: 2025-10-09_If-You-Don-t-Spend-Enough-Time-Getting-to-Know-Yourself--You-ll-End-Up-Absorbing-Everyone-Else-s--c0bee9270298.md
+---
+
+# If You Don t Spend Enough Time Getting to Know Yourself  You ll End Up Absorbing Everyone Else s  c0bee9270298
+
 ::: {}
 # If You Don't Spend Enough Time Getting to Know Yourself, You'll End Up Absorbing Everyone Else's... {#if-you-dont-spend-enough-time-getting-to-know-yourself-youll-end-up-absorbing-everyone-elses .p-name}
 :::

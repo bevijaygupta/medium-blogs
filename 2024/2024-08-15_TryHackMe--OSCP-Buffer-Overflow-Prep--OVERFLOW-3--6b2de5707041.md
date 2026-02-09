@@ -1,3 +1,11 @@
+---
+title: "TryHackMe  OSCP Buffer Overflow Prep  OVERFLOW 3  6b2de5707041"
+platform: Medium
+original_file: 2024-08-15_TryHackMe--OSCP-Buffer-Overflow-Prep--OVERFLOW-3--6b2de5707041.md
+---
+
+# TryHackMe  OSCP Buffer Overflow Prep  OVERFLOW 3  6b2de5707041
+
 ::: {}
 # TryHackMe: OSCP Buffer Overflow Prep (OVERFLOW 3) {#tryhackme-oscp-buffer-overflow-prep-overflow-3 .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "The Ultimate Guide to Becoming a Cybersecurity Freelancer 54cce9903e55"
+platform: Medium
+original_file: 2024-08-25_The-Ultimate-Guide-to-Becoming-a-Cybersecurity-Freelancer-54cce9903e55.md
+---
+
+# The Ultimate Guide to Becoming a Cybersecurity Freelancer 54cce9903e55
+
 ::: {}
 # The Ultimate Guide to Becoming a Cybersecurity Freelancer {#the-ultimate-guide-to-becoming-a-cybersecurity-freelancer .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Think You Have What It Takes to Catch Cybercriminals  8ab7676d814d"
+platform: Medium
+original_file: 2025-03-08_Think-You-Have-What-It-Takes-to-Catch-Cybercriminals--8ab7676d814d.md
+---
+
+# Think You Have What It Takes to Catch Cybercriminals  8ab7676d814d
+
 ::: {}
 # Think You Have What It Takes to Catch Cybercriminals? {#think-you-have-what-it-takes-to-catch-cybercriminals .p-name}
 :::

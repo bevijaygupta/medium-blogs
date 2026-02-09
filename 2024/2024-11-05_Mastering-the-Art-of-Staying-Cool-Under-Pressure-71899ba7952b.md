@@ -1,3 +1,11 @@
+---
+title: "Mastering the Art of Staying Cool Under Pressure 71899ba7952b"
+platform: Medium
+original_file: 2024-11-05_Mastering-the-Art-of-Staying-Cool-Under-Pressure-71899ba7952b.md
+---
+
+# Mastering the Art of Staying Cool Under Pressure 71899ba7952b
+
 ::: {}
 # Mastering the Art of Staying Cool Under Pressure {#mastering-the-art-of-staying-cool-under-pressure .p-name}
 :::

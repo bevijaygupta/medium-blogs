@@ -1,3 +1,11 @@
+---
+title: "Guide to AWS Penetration Testing 9c8c8339e157"
+platform: Medium
+original_file: 2024-10-06_Guide-to-AWS-Penetration-Testing-9c8c8339e157.md
+---
+
+# Guide to AWS Penetration Testing 9c8c8339e157
+
 ::: {}
 # Guide to AWS Penetration Testing {#guide-to-aws-penetration-testing .p-name}
 :::

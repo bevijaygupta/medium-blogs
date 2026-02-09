@@ -1,3 +1,11 @@
+---
+title: "The Plan Will Work If We Make It Work d355d4e5d2b6"
+platform: Medium
+original_file: 2024-10-28_The-Plan-Will-Work-If-We-Make-It-Work-d355d4e5d2b6.md
+---
+
+# The Plan Will Work If We Make It Work d355d4e5d2b6
+
 ::: {}
 # The Plan Will Work If We Make It Work {#the-plan-will-work-if-we-make-it-work .p-name}
 :::

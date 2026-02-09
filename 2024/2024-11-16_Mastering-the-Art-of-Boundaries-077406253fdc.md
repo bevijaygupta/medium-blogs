@@ -1,3 +1,11 @@
+---
+title: "Mastering the Art of Boundaries 077406253fdc"
+platform: Medium
+original_file: 2024-11-16_Mastering-the-Art-of-Boundaries-077406253fdc.md
+---
+
+# Mastering the Art of Boundaries 077406253fdc
+
 ::: {}
 # Mastering the Art of Boundaries {#mastering-the-art-of-boundaries .p-name}
 :::

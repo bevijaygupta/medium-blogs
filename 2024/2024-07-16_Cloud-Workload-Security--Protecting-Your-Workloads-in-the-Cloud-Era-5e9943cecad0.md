@@ -1,3 +1,11 @@
+---
+title: "Cloud Workload Security  Protecting Your Workloads in the Cloud Era 5e9943cecad0"
+platform: Medium
+original_file: 2024-07-16_Cloud-Workload-Security--Protecting-Your-Workloads-in-the-Cloud-Era-5e9943cecad0.md
+---
+
+# Cloud Workload Security  Protecting Your Workloads in the Cloud Era 5e9943cecad0
+
 ::: {}
 # Cloud Workload Security: Protecting Your Workloads in the Cloud Era {#cloud-workload-security-protecting-your-workloads-in-the-cloud-era .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Pay for Security or Pay the Ransom 1e50c7df7ff9"
+platform: Medium
+original_file: 2025-03-24_Pay-for-Security-or-Pay-the-Ransom-1e50c7df7ff9.md
+---
+
+# Pay for Security or Pay the Ransom 1e50c7df7ff9
+
 ::: {}
 # Pay for Security or Pay the Ransom {#pay-for-security-or-pay-the-ransom .p-name}
 :::

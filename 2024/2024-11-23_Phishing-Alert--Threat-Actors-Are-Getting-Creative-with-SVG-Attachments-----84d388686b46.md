@@ -1,3 +1,11 @@
+---
+title: "Phishing Alert  Threat Actors Are Getting Creative with SVG Attachments     84d388686b46"
+platform: Medium
+original_file: 2024-11-23_Phishing-Alert--Threat-Actors-Are-Getting-Creative-with-SVG-Attachments-----84d388686b46.md
+---
+
+# Phishing Alert  Threat Actors Are Getting Creative with SVG Attachments     84d388686b46
+
 ::: {}
 # Phishing Alert: Threat Actors Are Getting Creative with SVG Attachments! 🚨 {#phishing-alert-threat-actors-are-getting-creative-with-svg-attachments .p-name}
 :::

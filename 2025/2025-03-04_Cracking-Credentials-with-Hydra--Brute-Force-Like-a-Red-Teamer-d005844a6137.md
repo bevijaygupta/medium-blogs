@@ -1,3 +1,11 @@
+---
+title: "Cracking Credentials with Hydra  Brute Force Like a Red Teamer d005844a6137"
+platform: Medium
+original_file: 2025-03-04_Cracking-Credentials-with-Hydra--Brute-Force-Like-a-Red-Teamer-d005844a6137.md
+---
+
+# Cracking Credentials with Hydra  Brute Force Like a Red Teamer d005844a6137
+
 ::: {}
 # Cracking Credentials with Hydra: Brute-Force Like a Red Teamer {#cracking-credentials-with-hydra-brute-force-like-a-red-teamer .p-name}
 :::

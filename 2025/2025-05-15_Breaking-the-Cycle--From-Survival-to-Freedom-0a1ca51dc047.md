@@ -1,3 +1,11 @@
+---
+title: "Breaking the Cycle  From Survival to Freedom 0a1ca51dc047"
+platform: Medium
+original_file: 2025-05-15_Breaking-the-Cycle--From-Survival-to-Freedom-0a1ca51dc047.md
+---
+
+# Breaking the Cycle  From Survival to Freedom 0a1ca51dc047
+
 ::: {}
 # Breaking the Cycle: From Survival to Freedom {#breaking-the-cycle-from-survival-to-freedom .p-name}
 :::

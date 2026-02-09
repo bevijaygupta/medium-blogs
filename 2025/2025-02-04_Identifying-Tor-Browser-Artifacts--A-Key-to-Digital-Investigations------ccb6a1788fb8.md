@@ -1,3 +1,11 @@
+---
+title: "Identifying Tor Browser Artifacts  A Key to Digital Investigations      ccb6a1788fb8"
+platform: Medium
+original_file: 2025-02-04_Identifying-Tor-Browser-Artifacts--A-Key-to-Digital-Investigations------ccb6a1788fb8.md
+---
+
+# Identifying Tor Browser Artifacts  A Key to Digital Investigations      ccb6a1788fb8
+
 ::: {}
 # Identifying Tor Browser Artifacts: A Key to Digital Investigations 🛅🔍 {#identifying-tor-browser-artifacts-a-key-to-digital-investigations .p-name}
 :::

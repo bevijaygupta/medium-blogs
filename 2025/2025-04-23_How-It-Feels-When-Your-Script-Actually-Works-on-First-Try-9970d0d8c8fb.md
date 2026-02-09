@@ -1,3 +1,11 @@
+---
+title: "How It Feels When Your Script Actually Works on First Try 9970d0d8c8fb"
+platform: Medium
+original_file: 2025-04-23_How-It-Feels-When-Your-Script-Actually-Works-on-First-Try-9970d0d8c8fb.md
+---
+
+# How It Feels When Your Script Actually Works on First Try 9970d0d8c8fb
+
 ::: {}
 # How It Feels When Your Script Actually Works on First Try {#how-it-feels-when-your-script-actually-works-on-first-try .p-name}
 :::

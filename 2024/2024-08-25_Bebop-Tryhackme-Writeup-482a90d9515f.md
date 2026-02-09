@@ -1,3 +1,11 @@
+---
+title: "Bebop Tryhackme Writeup 482a90d9515f"
+platform: Medium
+original_file: 2024-08-25_Bebop-Tryhackme-Writeup-482a90d9515f.md
+---
+
+# Bebop Tryhackme Writeup 482a90d9515f
+
 ::: {}
 # Bebop Tryhackme Writeup {#bebop-tryhackme-writeup .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Why I Don t Recommend People To Get into Cybersecurity  84451b8051f5"
+platform: Medium
+original_file: 2024-10-29_Why-I-Don-t-Recommend-People-To-Get-into-Cybersecurity--84451b8051f5.md
+---
+
+# Why I Don t Recommend People To Get into Cybersecurity  84451b8051f5
+
 ::: {}
 # Why I Don't Recommend People To Get into Cybersecurity? {#why-i-dont-recommend-people-to-get-into-cybersecurity .p-name}
 :::

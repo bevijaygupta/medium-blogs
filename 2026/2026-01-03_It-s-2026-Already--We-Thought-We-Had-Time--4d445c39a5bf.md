@@ -1,3 +1,11 @@
+---
+title: "It s 2026 Already  We Thought We Had Time  4d445c39a5bf"
+platform: Medium
+original_file: 2026-01-03_It-s-2026-Already--We-Thought-We-Had-Time--4d445c39a5bf.md
+---
+
+# It s 2026 Already  We Thought We Had Time  4d445c39a5bf
+
 ::: {}
 # It's 2026 Already. We Thought We Had Time. {#its-2026-already.-we-thought-we-had-time. .p-name}
 :::

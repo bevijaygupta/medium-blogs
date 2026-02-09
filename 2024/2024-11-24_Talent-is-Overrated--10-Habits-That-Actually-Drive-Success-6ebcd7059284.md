@@ -1,3 +1,11 @@
+---
+title: "Talent is Overrated  10 Habits That Actually Drive Success 6ebcd7059284"
+platform: Medium
+original_file: 2024-11-24_Talent-is-Overrated--10-Habits-That-Actually-Drive-Success-6ebcd7059284.md
+---
+
+# Talent is Overrated  10 Habits That Actually Drive Success 6ebcd7059284
+
 ::: {}
 # Talent is Overrated: 10 Habits That Actually Drive Success {#talent-is-overrated-10-habits-that-actually-drive-success .p-name}
 :::

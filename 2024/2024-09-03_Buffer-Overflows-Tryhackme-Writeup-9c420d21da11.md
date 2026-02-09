@@ -1,3 +1,11 @@
+---
+title: "Buffer Overflows Tryhackme Writeup 9c420d21da11"
+platform: Medium
+original_file: 2024-09-03_Buffer-Overflows-Tryhackme-Writeup-9c420d21da11.md
+---
+
+# Buffer Overflows Tryhackme Writeup 9c420d21da11
+
 ::: {}
 # Buffer Overflows Tryhackme Writeup {#buffer-overflows-tryhackme-writeup .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Found Bugs  Got Paid  Stayed Poor  Making a Living with Bug Bounties a30355564d32"
+platform: Medium
+original_file: 2024-09-08_Found-Bugs--Got-Paid--Stayed-Poor--Making-a-Living-with-Bug-Bounties-a30355564d32.md
+---
+
+# Found Bugs  Got Paid  Stayed Poor  Making a Living with Bug Bounties a30355564d32
+
 ::: {}
 # Found Bugs, Got Paid, Stayed Poor: Making a Living with Bug Bounties {#found-bugs-got-paid-stayed-poor-making-a-living-with-bug-bounties .p-name}
 :::

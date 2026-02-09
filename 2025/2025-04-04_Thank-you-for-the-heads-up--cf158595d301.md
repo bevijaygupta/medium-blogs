@@ -1,3 +1,11 @@
+---
+title: "Thank you for the heads up  cf158595d301"
+platform: Medium
+original_file: 2025-04-04_Thank-you-for-the-heads-up--cf158595d301.md
+---
+
+# Thank you for the heads up  cf158595d301
+
 ::: {}
 # Thank you for the heads-up! {#thank-you-for-the-heads-up .p-name}
 :::

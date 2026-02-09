@@ -1,3 +1,11 @@
+---
+title: "Cloud Security Consulting  Navigating the Path to Secure Cloud Adoption 30240b137867"
+platform: Medium
+original_file: 2024-07-04_Cloud-Security-Consulting--Navigating-the-Path-to-Secure-Cloud-Adoption-30240b137867.md
+---
+
+# Cloud Security Consulting  Navigating the Path to Secure Cloud Adoption 30240b137867
+
 ::: {}
 # Cloud Security Consulting: Navigating the Path to Secure Cloud Adoption {#cloud-security-consulting-navigating-the-path-to-secure-cloud-adoption .p-name}
 :::

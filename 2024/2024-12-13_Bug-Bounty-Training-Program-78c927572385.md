@@ -1,3 +1,11 @@
+---
+title: "Bug Bounty Training Program 78c927572385"
+platform: Medium
+original_file: 2024-12-13_Bug-Bounty-Training-Program-78c927572385.md
+---
+
+# Bug Bounty Training Program 78c927572385
+
 ::: {}
 # Bug Bounty Training Program {#bug-bounty-training-program .p-name}
 :::

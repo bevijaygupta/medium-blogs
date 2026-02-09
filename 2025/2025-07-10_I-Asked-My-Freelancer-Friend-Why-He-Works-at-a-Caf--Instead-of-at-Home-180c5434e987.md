@@ -1,3 +1,11 @@
+---
+title: "I Asked My Freelancer Friend Why He Works at a Caf  Instead of at Home 180c5434e987"
+platform: Medium
+original_file: 2025-07-10_I-Asked-My-Freelancer-Friend-Why-He-Works-at-a-Caf--Instead-of-at-Home-180c5434e987.md
+---
+
+# I Asked My Freelancer Friend Why He Works at a Caf  Instead of at Home 180c5434e987
+
 ::: {}
 # I Asked My Freelancer Friend Why He Works at a Café Instead of at Home {#i-asked-my-freelancer-friend-why-he-works-at-a-café-instead-of-at-home .p-name}
 :::

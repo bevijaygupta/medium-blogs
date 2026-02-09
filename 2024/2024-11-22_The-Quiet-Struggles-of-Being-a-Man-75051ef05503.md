@@ -1,3 +1,11 @@
+---
+title: "The Quiet Struggles of Being a Man 75051ef05503"
+platform: Medium
+original_file: 2024-11-22_The-Quiet-Struggles-of-Being-a-Man-75051ef05503.md
+---
+
+# The Quiet Struggles of Being a Man 75051ef05503
+
 ::: {}
 # The Quiet Struggles of Being a Man {#the-quiet-struggles-of-being-a-man .p-name}
 :::

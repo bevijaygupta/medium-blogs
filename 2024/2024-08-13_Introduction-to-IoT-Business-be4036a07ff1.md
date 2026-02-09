@@ -1,3 +1,11 @@
+---
+title: "Introduction to IoT Business be4036a07ff1"
+platform: Medium
+original_file: 2024-08-13_Introduction-to-IoT-Business-be4036a07ff1.md
+---
+
+# Introduction to IoT Business be4036a07ff1
+
 ::: {}
 # Introduction to IoT Business {#introduction-to-iot-business .p-name}
 :::

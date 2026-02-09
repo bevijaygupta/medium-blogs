@@ -1,3 +1,11 @@
+---
+title: "VulnNet Tryhackme Writeup 8cc910f0d53f"
+platform: Medium
+original_file: 2024-08-16_VulnNet-Tryhackme-Writeup-8cc910f0d53f.md
+---
+
+# VulnNet Tryhackme Writeup 8cc910f0d53f
+
 ::: {}
 # VulnNet Tryhackme Writeup {#vulnnet-tryhackme-writeup .p-name}
 :::

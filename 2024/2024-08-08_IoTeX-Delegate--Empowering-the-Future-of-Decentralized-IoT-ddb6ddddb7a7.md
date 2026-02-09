@@ -1,3 +1,11 @@
+---
+title: "IoTeX Delegate  Empowering the Future of Decentralized IoT ddb6ddddb7a7"
+platform: Medium
+original_file: 2024-08-08_IoTeX-Delegate--Empowering-the-Future-of-Decentralized-IoT-ddb6ddddb7a7.md
+---
+
+# IoTeX Delegate  Empowering the Future of Decentralized IoT ddb6ddddb7a7
+
 ::: {}
 # IoTeX Delegate: Empowering the Future of Decentralized IoT {#iotex-delegate-empowering-the-future-of-decentralized-iot .p-name}
 :::

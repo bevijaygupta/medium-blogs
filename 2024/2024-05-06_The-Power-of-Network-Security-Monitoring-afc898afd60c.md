@@ -1,3 +1,11 @@
+---
+title: "The Power of Network Security Monitoring afc898afd60c"
+platform: Medium
+original_file: 2024-05-06_The-Power-of-Network-Security-Monitoring-afc898afd60c.md
+---
+
+# The Power of Network Security Monitoring afc898afd60c
+
 ::: {}
 # The Power of Network Security Monitoring {#the-power-of-network-security-monitoring .p-name}
 :::

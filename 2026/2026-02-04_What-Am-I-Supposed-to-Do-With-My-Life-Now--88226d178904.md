@@ -1,3 +1,11 @@
+---
+title: "What Am I Supposed to Do With My Life Now  88226d178904"
+platform: Medium
+original_file: 2026-02-04_What-Am-I-Supposed-to-Do-With-My-Life-Now--88226d178904.md
+---
+
+# What Am I Supposed to Do With My Life Now  88226d178904
+
 ::: {}
 # What Am I Supposed to Do With My Life Now? {#what-am-i-supposed-to-do-with-my-life-now .p-name}
 :::

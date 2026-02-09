@@ -1,3 +1,11 @@
+---
+title: "How to Use ChatGPT in Daily Life  88cd531a2a12"
+platform: Medium
+original_file: 2024-10-04_How-to-Use-ChatGPT-in-Daily-Life--88cd531a2a12.md
+---
+
+# How to Use ChatGPT in Daily Life  88cd531a2a12
+
 ::: {}
 # How to Use ChatGPT in Daily Life? {#how-to-use-chatgpt-in-daily-life .p-name}
 :::

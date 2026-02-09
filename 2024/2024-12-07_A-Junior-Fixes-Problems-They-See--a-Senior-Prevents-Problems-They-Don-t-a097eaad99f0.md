@@ -1,3 +1,11 @@
+---
+title: "A Junior Fixes Problems They See  a Senior Prevents Problems They Don t a097eaad99f0"
+platform: Medium
+original_file: 2024-12-07_A-Junior-Fixes-Problems-They-See--a-Senior-Prevents-Problems-They-Don-t-a097eaad99f0.md
+---
+
+# A Junior Fixes Problems They See  a Senior Prevents Problems They Don t a097eaad99f0
+
 ::: {}
 # A Junior Fixes Problems They See, a Senior Prevents Problems They Don't {#a-junior-fixes-problems-they-see-a-senior-prevents-problems-they-dont .p-name}
 :::

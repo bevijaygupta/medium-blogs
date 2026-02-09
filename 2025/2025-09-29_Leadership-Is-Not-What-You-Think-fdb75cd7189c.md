@@ -1,3 +1,11 @@
+---
+title: "Leadership Is Not What You Think fdb75cd7189c"
+platform: Medium
+original_file: 2025-09-29_Leadership-Is-Not-What-You-Think-fdb75cd7189c.md
+---
+
+# Leadership Is Not What You Think fdb75cd7189c
+
 ::: {}
 # Leadership Is Not What You Think {#leadership-is-not-what-you-think .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "How I Found Multiple IDOR Vulnerabilities 230edce7a26d"
+platform: Medium
+original_file: 2024-09-05_How-I-Found-Multiple-IDOR-Vulnerabilities-230edce7a26d.md
+---
+
+# How I Found Multiple IDOR Vulnerabilities 230edce7a26d
+
 ::: {}
 # How I Found Multiple IDOR Vulnerabilities {#how-i-found-multiple-idor-vulnerabilities .p-name}
 :::

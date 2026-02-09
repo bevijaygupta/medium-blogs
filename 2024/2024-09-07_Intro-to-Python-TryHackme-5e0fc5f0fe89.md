@@ -1,3 +1,11 @@
+---
+title: "Intro to Python TryHackme 5e0fc5f0fe89"
+platform: Medium
+original_file: 2024-09-07_Intro-to-Python-TryHackme-5e0fc5f0fe89.md
+---
+
+# Intro to Python TryHackme 5e0fc5f0fe89
+
 ::: {}
 # Intro to Python TryHackme {#intro-to-python-tryhackme .p-name}
 :::

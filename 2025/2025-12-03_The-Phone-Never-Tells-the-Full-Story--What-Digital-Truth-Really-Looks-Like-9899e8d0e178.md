@@ -1,3 +1,11 @@
+---
+title: "The Phone Never Tells the Full Story  What Digital Truth Really Looks Like 9899e8d0e178"
+platform: Medium
+original_file: 2025-12-03_The-Phone-Never-Tells-the-Full-Story--What-Digital-Truth-Really-Looks-Like-9899e8d0e178.md
+---
+
+# The Phone Never Tells the Full Story  What Digital Truth Really Looks Like 9899e8d0e178
+
 ::: {}
 # The Phone Never Tells the Full Story: What Digital Truth Really Looks Like {#the-phone-never-tells-the-full-story-what-digital-truth-really-looks-like .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Types of Logs  A Comprehensive Guide a4bfdd9e7ff4"
+platform: Medium
+original_file: 2024-12-18_Types-of-Logs--A-Comprehensive-Guide-a4bfdd9e7ff4.md
+---
+
+# Types of Logs  A Comprehensive Guide a4bfdd9e7ff4
+
 ::: {}
 # Types of Logs: A Comprehensive Guide {#types-of-logs-a-comprehensive-guide .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Your Side Project Won t Save You Anymore 2a1d76d429dd"
+platform: Medium
+original_file: 2026-01-04_Your-Side-Project-Won-t-Save-You-Anymore-2a1d76d429dd.md
+---
+
+# Your Side Project Won t Save You Anymore 2a1d76d429dd
+
 ::: {}
 # Your Side Project Won't Save You Anymore {#your-side-project-wont-save-you-anymore .p-name}
 :::

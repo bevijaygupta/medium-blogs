@@ -1,3 +1,11 @@
+---
+title: "Digital Detox for Professionals  How Fear of Being Involved Protects My Focus 55d7344e92b2"
+platform: Medium
+original_file: 2025-11-07_Digital-Detox-for-Professionals--How-Fear-of-Being-Involved-Protects-My-Focus-55d7344e92b2.md
+---
+
+# Digital Detox for Professionals  How Fear of Being Involved Protects My Focus 55d7344e92b2
+
 ::: {}
 # Digital Detox for Professionals: How Fear of Being Involved Protects My Focus {#digital-detox-for-professionals-how-fear-of-being-involved-protects-my-focus .p-name}
 :::

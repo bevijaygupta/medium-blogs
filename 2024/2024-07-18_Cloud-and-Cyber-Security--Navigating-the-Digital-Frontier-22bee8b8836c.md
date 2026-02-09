@@ -1,3 +1,11 @@
+---
+title: "Cloud and Cyber Security  Navigating the Digital Frontier 22bee8b8836c"
+platform: Medium
+original_file: 2024-07-18_Cloud-and-Cyber-Security--Navigating-the-Digital-Frontier-22bee8b8836c.md
+---
+
+# Cloud and Cyber Security  Navigating the Digital Frontier 22bee8b8836c
+
 ::: {}
 # Cloud and Cyber Security: Navigating the Digital Frontier {#cloud-and-cyber-security-navigating-the-digital-frontier .p-name}
 :::

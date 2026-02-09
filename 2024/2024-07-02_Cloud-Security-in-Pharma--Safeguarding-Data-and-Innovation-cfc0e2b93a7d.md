@@ -1,3 +1,11 @@
+---
+title: "Cloud Security in Pharma  Safeguarding Data and Innovation cfc0e2b93a7d"
+platform: Medium
+original_file: 2024-07-02_Cloud-Security-in-Pharma--Safeguarding-Data-and-Innovation-cfc0e2b93a7d.md
+---
+
+# Cloud Security in Pharma  Safeguarding Data and Innovation cfc0e2b93a7d
+
 ::: {}
 # Cloud Security in Pharma: Safeguarding Data and Innovation {#cloud-security-in-pharma-safeguarding-data-and-innovation .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "The Role of IoT in Revolutionizing the Construction Industry aaacf9905931"
+platform: Medium
+original_file: 2024-08-12_The-Role-of-IoT-in-Revolutionizing-the-Construction-Industry-aaacf9905931.md
+---
+
+# The Role of IoT in Revolutionizing the Construction Industry aaacf9905931
+
 ::: {}
 # The Role of IoT in Revolutionizing the Construction Industry {#the-role-of-iot-in-revolutionizing-the-construction-industry .p-name}
 :::

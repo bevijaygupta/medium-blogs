@@ -1,3 +1,11 @@
+---
+title: "Types of Firewalls  Securing the Digital Frontier    1f1af6d5fcd2"
+platform: Medium
+original_file: 2024-12-09_Types-of-Firewalls--Securing-the-Digital-Frontier----1f1af6d5fcd2.md
+---
+
+# Types of Firewalls  Securing the Digital Frontier    1f1af6d5fcd2
+
 ::: {}
 # Types of Firewalls: Securing the Digital Frontier 🔥 {#types-of-firewalls-securing-the-digital-frontier .p-name}
 :::

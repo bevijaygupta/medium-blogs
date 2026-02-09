@@ -1,3 +1,11 @@
+---
+title: "Linux Modules Tryhackme writeup 4f07b9e8561d"
+platform: Medium
+original_file: 2024-08-21_Linux-Modules-Tryhackme-writeup-4f07b9e8561d.md
+---
+
+# Linux Modules Tryhackme writeup 4f07b9e8561d
+
 ::: {}
 # Linux Modules Tryhackme writeup {#linux-modules-tryhackme-writeup .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Cyber Crime Penalties e2e663dac1f3"
+platform: Medium
+original_file: 2024-06-05_Cyber-Crime-Penalties-e2e663dac1f3.md
+---
+
+# Cyber Crime Penalties e2e663dac1f3
+
 ::: {}
 # Cyber Crime Penalties {#cyber-crime-penalties .p-name}
 :::

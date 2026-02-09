@@ -1,3 +1,11 @@
+---
+title: "Thank you so much for your kind words  c840d5da7307"
+platform: Medium
+original_file: 2025-05-29_Thank-you-so-much-for-your-kind-words--c840d5da7307.md
+---
+
+# Thank you so much for your kind words  c840d5da7307
+
 ::: {}
 # Thank you so much for your kind words! {#thank-you-so-much-for-your-kind-words .p-name}
 :::

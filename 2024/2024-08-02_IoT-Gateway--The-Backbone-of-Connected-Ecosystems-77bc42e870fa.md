@@ -1,3 +1,11 @@
+---
+title: "IoT Gateway  The Backbone of Connected Ecosystems 77bc42e870fa"
+platform: Medium
+original_file: 2024-08-02_IoT-Gateway--The-Backbone-of-Connected-Ecosystems-77bc42e870fa.md
+---
+
+# IoT Gateway  The Backbone of Connected Ecosystems 77bc42e870fa
+
 ::: {}
 # IoT Gateway: The Backbone of Connected Ecosystems {#iot-gateway-the-backbone-of-connected-ecosystems .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Content Security Policy Tryhackme Writeup ff5c7ce618fa"
+platform: Medium
+original_file: 2024-08-30_Content-Security-Policy-Tryhackme-Writeup-ff5c7ce618fa.md
+---
+
+# Content Security Policy Tryhackme Writeup ff5c7ce618fa
+
 ::: {}
 # Content Security Policy Tryhackme Writeup {#content-security-policy-tryhackme-writeup .p-name}
 :::

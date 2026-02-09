@@ -1,3 +1,11 @@
+---
+title: "IT Audit Checklist   Network   Infrastructure  Simplifying Audit Excellence 0ae0400889aa"
+platform: Medium
+original_file: 2024-11-29_IT-Audit-Checklist---Network---Infrastructure--Simplifying-Audit-Excellence-0ae0400889aa.md
+---
+
+# IT Audit Checklist   Network   Infrastructure  Simplifying Audit Excellence 0ae0400889aa
+
 ::: {}
 # IT Audit Checklist --- Network & Infrastructure: Simplifying Audit Excellence {#it-audit-checklist-network-infrastructure-simplifying-audit-excellence .p-name}
 :::

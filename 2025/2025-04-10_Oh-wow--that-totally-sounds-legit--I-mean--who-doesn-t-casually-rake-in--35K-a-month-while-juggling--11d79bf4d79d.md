@@ -1,3 +1,11 @@
+---
+title: "Oh wow  that totally sounds legit  I mean  who doesn t casually rake in  35K a month while juggling  11d79bf4d79d"
+platform: Medium
+original_file: 2025-04-10_Oh-wow--that-totally-sounds-legit--I-mean--who-doesn-t-casually-rake-in--35K-a-month-while-juggling--11d79bf4d79d.md
+---
+
+# Oh wow  that totally sounds legit  I mean  who doesn t casually rake in  35K a month while juggling  11d79bf4d79d
+
 ::: {}
 # Oh wow, that totally sounds legit... I mean, who doesn't casually rake in \$35K a month while juggling... {#oh-wow-that-totally-sounds-legit-i-mean-who-doesnt-casually-rake-in-35k-a-month-while-juggling .p-name}
 :::

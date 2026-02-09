@@ -1,3 +1,11 @@
+---
+title: "Erit Securus I TryHackme Writeup d945690ac3ad"
+platform: Medium
+original_file: 2024-08-30_Erit-Securus-I-TryHackme-Writeup-d945690ac3ad.md
+---
+
+# Erit Securus I TryHackme Writeup d945690ac3ad
+
 ::: {}
 # Erit Securus I TryHackme Writeup {#erit-securus-i-tryhackme-writeup .p-name}
 :::

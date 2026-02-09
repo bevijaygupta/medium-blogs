@@ -1,3 +1,11 @@
+---
+title: "Cloud Security vs  CASB  Understanding the Differences and Benefits cbba6f75b96b"
+platform: Medium
+original_file: 2024-06-29_Cloud-Security-vs--CASB--Understanding-the-Differences-and-Benefits-cbba6f75b96b.md
+---
+
+# Cloud Security vs  CASB  Understanding the Differences and Benefits cbba6f75b96b
+
 ::: {}
 # Cloud Security vs. CASB: Understanding the Differences and Benefits {#cloud-security-vs.-casb-understanding-the-differences-and-benefits .p-name}
 :::

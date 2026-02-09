@@ -1,3 +1,11 @@
+---
+title: "The Dark Side of Digital Forensic Education in India 6e9ed5aacb4b"
+platform: Medium
+original_file: 2025-09-11_The-Dark-Side-of-Digital-Forensic-Education-in-India-6e9ed5aacb4b.md
+---
+
+# The Dark Side of Digital Forensic Education in India 6e9ed5aacb4b
+
 ::: {}
 # The Dark Side of Digital Forensic Education in India {#the-dark-side-of-digital-forensic-education-in-india .p-name}
 :::

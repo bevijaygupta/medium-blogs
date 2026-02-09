@@ -1,3 +1,11 @@
+---
+title: "In Life  You ll Never Be Ready for Anything   So Do It Scared  Do It Anyway  c993e16e12d5"
+platform: Medium
+original_file: 2025-12-21_In-Life--You-ll-Never-Be-Ready-for-Anything---So-Do-It-Scared--Do-It-Anyway--c993e16e12d5.md
+---
+
+# In Life  You ll Never Be Ready for Anything   So Do It Scared  Do It Anyway  c993e16e12d5
+
 ::: {}
 # In Life, You'll Never Be Ready for Anything --- So Do It Scared. Do It Anyway. {#in-life-youll-never-be-ready-for-anything-so-do-it-scared.-do-it-anyway. .p-name}
 :::

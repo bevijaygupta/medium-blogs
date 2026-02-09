@@ -1,3 +1,11 @@
+---
+title: "Bug Bounty Burnout  Stay Motivated and Mentally Strong 9408b92fa6c8"
+platform: Medium
+original_file: 2024-10-24_Bug-Bounty-Burnout--Stay-Motivated-and-Mentally-Strong-9408b92fa6c8.md
+---
+
+# Bug Bounty Burnout  Stay Motivated and Mentally Strong 9408b92fa6c8
+
 ::: {}
 # Bug Bounty Burnout: Stay Motivated and Mentally Strong {#bug-bounty-burnout-stay-motivated-and-mentally-strong .p-name}
 :::

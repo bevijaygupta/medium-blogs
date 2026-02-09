@@ -1,3 +1,11 @@
+---
+title: "Stop Learning for the Sake of Learning  Build as You Learn 7792f8e9a2f8"
+platform: Medium
+original_file: 2025-05-23_Stop-Learning-for-the-Sake-of-Learning--Build-as-You-Learn-7792f8e9a2f8.md
+---
+
+# Stop Learning for the Sake of Learning  Build as You Learn 7792f8e9a2f8
+
 ::: {}
 # Stop Learning for the Sake of Learning: Build as You Learn {#stop-learning-for-the-sake-of-learning-build-as-you-learn .p-name}
 :::

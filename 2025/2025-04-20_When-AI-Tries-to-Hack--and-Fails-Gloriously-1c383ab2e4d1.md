@@ -1,3 +1,11 @@
+---
+title: "When AI Tries to Hack  and Fails Gloriously 1c383ab2e4d1"
+platform: Medium
+original_file: 2025-04-20_When-AI-Tries-to-Hack--and-Fails-Gloriously-1c383ab2e4d1.md
+---
+
+# When AI Tries to Hack  and Fails Gloriously 1c383ab2e4d1
+
 ::: {}
 # When AI Tries to Hack... and Fails Gloriously {#when-ai-tries-to-hack-and-fails-gloriously .p-name}
 :::

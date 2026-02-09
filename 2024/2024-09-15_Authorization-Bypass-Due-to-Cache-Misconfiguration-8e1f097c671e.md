@@ -1,3 +1,11 @@
+---
+title: "Authorization Bypass Due to Cache Misconfiguration 8e1f097c671e"
+platform: Medium
+original_file: 2024-09-15_Authorization-Bypass-Due-to-Cache-Misconfiguration-8e1f097c671e.md
+---
+
+# Authorization Bypass Due to Cache Misconfiguration 8e1f097c671e
+
 ::: {}
 # Authorization Bypass Due to Cache Misconfiguration {#authorization-bypass-due-to-cache-misconfiguration .p-name}
 :::

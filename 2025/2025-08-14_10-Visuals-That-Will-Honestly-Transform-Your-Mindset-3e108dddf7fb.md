@@ -1,3 +1,11 @@
+---
+title: "10 Visuals That Will Honestly Transform Your Mindset 3e108dddf7fb"
+platform: Medium
+original_file: 2025-08-14_10-Visuals-That-Will-Honestly-Transform-Your-Mindset-3e108dddf7fb.md
+---
+
+# 10 Visuals That Will Honestly Transform Your Mindset 3e108dddf7fb
+
 ::: {}
 # 10 Visuals That Will Honestly Transform Your Mindset {#visuals-that-will-honestly-transform-your-mindset .p-name}
 :::

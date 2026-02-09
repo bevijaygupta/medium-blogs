@@ -1,3 +1,11 @@
+---
+title: "Exploring the Depths of Windows Forensics 906b8f5b1d24"
+platform: Medium
+original_file: 2025-01-08_Exploring-the-Depths-of-Windows-Forensics-906b8f5b1d24.md
+---
+
+# Exploring the Depths of Windows Forensics 906b8f5b1d24
+
 ::: {}
 # Exploring the Depths of Windows Forensics {#exploring-the-depths-of-windows-forensics .p-name}
 :::

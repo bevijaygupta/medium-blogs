@@ -1,3 +1,11 @@
+---
+title: "Advanced Scripting Techniques for Automation in Kali Linux 6719b1b822ad"
+platform: Medium
+original_file: 2024-10-18_Advanced-Scripting-Techniques-for-Automation-in-Kali-Linux-6719b1b822ad.md
+---
+
+# Advanced Scripting Techniques for Automation in Kali Linux 6719b1b822ad
+
 ::: {}
 # Advanced Scripting Techniques for Automation in Kali Linux {#advanced-scripting-techniques-for-automation-in-kali-linux .p-name}
 :::

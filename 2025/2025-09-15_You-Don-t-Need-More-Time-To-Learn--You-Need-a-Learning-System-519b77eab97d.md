@@ -1,3 +1,11 @@
+---
+title: "You Don t Need More Time To Learn  You Need a Learning System 519b77eab97d"
+platform: Medium
+original_file: 2025-09-15_You-Don-t-Need-More-Time-To-Learn--You-Need-a-Learning-System-519b77eab97d.md
+---
+
+# You Don t Need More Time To Learn  You Need a Learning System 519b77eab97d
+
 ::: {}
 # You Don't Need More Time To Learn. You Need a Learning System {#you-dont-need-more-time-to-learn.-you-need-a-learning-system .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Which Stage of Life Should I Be at This Age  a0fd486ae3d4"
+platform: Medium
+original_file: 2026-01-15_Which-Stage-of-Life-Should-I-Be-at-This-Age--a0fd486ae3d4.md
+---
+
+# Which Stage of Life Should I Be at This Age  a0fd486ae3d4
+
 ::: {}
 # Which Stage of Life Should I Be at This Age? {#which-stage-of-life-should-i-be-at-this-age .p-name}
 :::

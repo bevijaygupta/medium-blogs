@@ -1,3 +1,11 @@
+---
+title: "Amateur OSINT  A Beginner s Guide to Open Source Intelligence 775e6f3ae2c5"
+platform: Medium
+original_file: 2024-09-23_Amateur-OSINT--A-Beginner-s-Guide-to-Open-Source-Intelligence-775e6f3ae2c5.md
+---
+
+# Amateur OSINT  A Beginner s Guide to Open Source Intelligence 775e6f3ae2c5
+
 ::: {}
 # Amateur OSINT: A Beginner's Guide to Open-Source Intelligence {#amateur-osint-a-beginners-guide-to-open-source-intelligence .p-name}
 :::

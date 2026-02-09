@@ -1,3 +1,11 @@
+---
+title: "I Went on the Dark Web and Instantly Regretted It c18e5ab8718e"
+platform: Medium
+original_file: 2024-09-04_I-Went-on-the-Dark-Web-and-Instantly-Regretted-It-c18e5ab8718e.md
+---
+
+# I Went on the Dark Web and Instantly Regretted It c18e5ab8718e
+
 ::: {}
 # I Went on the Dark Web and Instantly Regretted It {#i-went-on-the-dark-web-and-instantly-regretted-it .p-name}
 :::

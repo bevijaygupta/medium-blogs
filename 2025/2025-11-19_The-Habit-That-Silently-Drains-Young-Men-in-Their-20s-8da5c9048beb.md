@@ -1,3 +1,11 @@
+---
+title: "The Habit That Silently Drains Young Men in Their 20s 8da5c9048beb"
+platform: Medium
+original_file: 2025-11-19_The-Habit-That-Silently-Drains-Young-Men-in-Their-20s-8da5c9048beb.md
+---
+
+# The Habit That Silently Drains Young Men in Their 20s 8da5c9048beb
+
 ::: {}
 # The Habit That Silently Drains Young Men in Their 20s {#the-habit-that-silently-drains-young-men-in-their-20s .p-name}
 :::

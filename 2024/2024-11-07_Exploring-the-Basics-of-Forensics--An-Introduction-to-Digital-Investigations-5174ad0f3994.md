@@ -1,3 +1,11 @@
+---
+title: "Exploring the Basics of Forensics  An Introduction to Digital Investigations 5174ad0f3994"
+platform: Medium
+original_file: 2024-11-07_Exploring-the-Basics-of-Forensics--An-Introduction-to-Digital-Investigations-5174ad0f3994.md
+---
+
+# Exploring the Basics of Forensics  An Introduction to Digital Investigations 5174ad0f3994
+
 ::: {}
 # Exploring the Basics of Forensics: An Introduction to Digital Investigations {#exploring-the-basics-of-forensics-an-introduction-to-digital-investigations .p-name}
 :::

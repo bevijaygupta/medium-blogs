@@ -1,3 +1,11 @@
+---
+title: "9 Marcus Aurelius Quotes You ll Never Forget a8fdaadc75ad"
+platform: Medium
+original_file: 2025-08-19_9-Marcus-Aurelius-Quotes-You-ll-Never-Forget-a8fdaadc75ad.md
+---
+
+# 9 Marcus Aurelius Quotes You ll Never Forget a8fdaadc75ad
+
 ::: {}
 # 9 Marcus Aurelius Quotes You'll Never Forget {#marcus-aurelius-quotes-youll-never-forget .p-name}
 :::

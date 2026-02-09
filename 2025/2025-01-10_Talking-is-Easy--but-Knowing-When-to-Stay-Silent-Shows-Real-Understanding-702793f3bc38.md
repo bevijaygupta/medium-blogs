@@ -1,3 +1,11 @@
+---
+title: "Talking is Easy  but Knowing When to Stay Silent Shows Real Understanding 702793f3bc38"
+platform: Medium
+original_file: 2025-01-10_Talking-is-Easy--but-Knowing-When-to-Stay-Silent-Shows-Real-Understanding-702793f3bc38.md
+---
+
+# Talking is Easy  but Knowing When to Stay Silent Shows Real Understanding 702793f3bc38
+
 ::: {}
 # Talking is Easy, but Knowing When to Stay Silent Shows Real Understanding {#talking-is-easy-but-knowing-when-to-stay-silent-shows-real-understanding .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Sure  If you re interested in hacking for ethical or educational purposes  like cybersecurity   a  4d29b27a9aa3"
+platform: Medium
+original_file: 2025-05-12_Sure--If-you-re-interested-in-hacking-for-ethical-or-educational-purposes--like-cybersecurity---a--4d29b27a9aa3.md
+---
+
+# Sure  If you re interested in hacking for ethical or educational purposes  like cybersecurity   a  4d29b27a9aa3
+
 ::: {}
 # Sure! If you're interested in hacking for ethical or educational purposes (like cybersecurity), a... {#sure-if-youre-interested-in-hacking-for-ethical-or-educational-purposes-like-cybersecurity-a .p-name}
 :::

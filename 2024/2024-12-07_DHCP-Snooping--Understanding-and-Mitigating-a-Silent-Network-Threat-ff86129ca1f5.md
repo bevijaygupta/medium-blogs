@@ -1,3 +1,11 @@
+---
+title: "DHCP Snooping  Understanding and Mitigating a Silent Network Threat ff86129ca1f5"
+platform: Medium
+original_file: 2024-12-07_DHCP-Snooping--Understanding-and-Mitigating-a-Silent-Network-Threat-ff86129ca1f5.md
+---
+
+# DHCP Snooping  Understanding and Mitigating a Silent Network Threat ff86129ca1f5
+
 ::: {}
 # DHCP Snooping: Understanding and Mitigating a Silent Network Threat {#dhcp-snooping-understanding-and-mitigating-a-silent-network-threat .p-name}
 :::

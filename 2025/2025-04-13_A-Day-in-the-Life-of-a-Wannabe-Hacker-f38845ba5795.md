@@ -1,3 +1,11 @@
+---
+title: "A Day in the Life of a Wannabe Hacker f38845ba5795"
+platform: Medium
+original_file: 2025-04-13_A-Day-in-the-Life-of-a-Wannabe-Hacker-f38845ba5795.md
+---
+
+# A Day in the Life of a Wannabe Hacker f38845ba5795
+
 ::: {}
 # A Day in the Life of a Wannabe Hacker {#a-day-in-the-life-of-a-wannabe-hacker .p-name}
 :::

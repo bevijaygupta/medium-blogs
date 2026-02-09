@@ -1,3 +1,11 @@
+---
+title: "What Does Gen Z in DFIR Expect from Experts with 20  Years of Experience  a40ec2a8f2e2"
+platform: Medium
+original_file: 2025-03-07_What-Does-Gen-Z-in-DFIR-Expect-from-Experts-with-20--Years-of-Experience--a40ec2a8f2e2.md
+---
+
+# What Does Gen Z in DFIR Expect from Experts with 20  Years of Experience  a40ec2a8f2e2
+
 ::: {}
 # What Does Gen Z in DFIR Expect from Experts with 20+ Years of Experience? {#what-does-gen-z-in-dfir-expect-from-experts-with-20-years-of-experience .p-name}
 :::

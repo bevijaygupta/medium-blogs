@@ -1,3 +1,11 @@
+---
+title: "Investigating Malicious Processes with Task Manager 0fb0cbbde90e"
+platform: Medium
+original_file: 2025-01-12_Investigating-Malicious-Processes-with-Task-Manager-0fb0cbbde90e.md
+---
+
+# Investigating Malicious Processes with Task Manager 0fb0cbbde90e
+
 ::: {}
 # Investigating Malicious Processes with Task Manager {#investigating-malicious-processes-with-task-manager .p-name}
 :::

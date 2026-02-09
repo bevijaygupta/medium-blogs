@@ -1,3 +1,11 @@
+---
+title: "When Security Gets  Selective    A Reality Every IT Professional Knows Too Well e6e5f6431cbb"
+platform: Medium
+original_file: 2025-12-17_When-Security-Gets--Selective----A-Reality-Every-IT-Professional-Knows-Too-Well-e6e5f6431cbb.md
+---
+
+# When Security Gets  Selective    A Reality Every IT Professional Knows Too Well e6e5f6431cbb
+
 ::: {}
 # When Security Gets "Selective" --- A Reality Every IT Professional Knows Too Well {#when-security-gets-selective-a-reality-every-it-professional-knows-too-well .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Considering OSCP  Read This First 75650ab9ec70"
+platform: Medium
+original_file: 2024-08-22_Considering-OSCP--Read-This-First-75650ab9ec70.md
+---
+
+# Considering OSCP  Read This First 75650ab9ec70
+
 ::: {}
 # Considering OSCP? Read This First {#considering-oscp-read-this-first .p-name}
 :::

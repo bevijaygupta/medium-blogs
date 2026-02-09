@@ -1,3 +1,11 @@
+---
+title: "h4cked Tryhackme Writeup cf36e2ab8a91"
+platform: Medium
+original_file: 2024-08-16_h4cked-Tryhackme-Writeup-cf36e2ab8a91.md
+---
+
+# h4cked Tryhackme Writeup cf36e2ab8a91
+
 ::: {}
 # h4cked Tryhackme Writeup {#h4cked-tryhackme-writeup .p-name}
 :::

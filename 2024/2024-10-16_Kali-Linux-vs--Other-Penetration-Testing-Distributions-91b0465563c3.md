@@ -1,3 +1,11 @@
+---
+title: "Kali Linux vs  Other Penetration Testing Distributions 91b0465563c3"
+platform: Medium
+original_file: 2024-10-16_Kali-Linux-vs--Other-Penetration-Testing-Distributions-91b0465563c3.md
+---
+
+# Kali Linux vs  Other Penetration Testing Distributions 91b0465563c3
+
 ::: {}
 # Kali Linux vs. Other Penetration Testing Distributions {#kali-linux-vs.-other-penetration-testing-distributions .p-name}
 :::

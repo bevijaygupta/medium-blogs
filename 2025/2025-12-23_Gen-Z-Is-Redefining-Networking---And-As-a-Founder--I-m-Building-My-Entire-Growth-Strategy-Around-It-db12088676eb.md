@@ -1,3 +1,11 @@
+---
+title: "Gen Z Is Redefining Networking   And As a Founder  I m Building My Entire Growth Strategy Around It db12088676eb"
+platform: Medium
+original_file: 2025-12-23_Gen-Z-Is-Redefining-Networking---And-As-a-Founder--I-m-Building-My-Entire-Growth-Strategy-Around-It-db12088676eb.md
+---
+
+# Gen Z Is Redefining Networking   And As a Founder  I m Building My Entire Growth Strategy Around It db12088676eb
+
 ::: {}
 # Gen Z Is Redefining Networking --- And As a Founder, I'm Building My Entire Growth Strategy Around It {#gen-z-is-redefining-networking-and-as-a-founder-im-building-my-entire-growth-strategy-around-it .p-name}
 :::

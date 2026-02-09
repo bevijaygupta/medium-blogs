@@ -1,3 +1,11 @@
+---
+title: "Laziness Does Not Exist  A Deep Dive into the Myth of Motivation 624bfb368c71"
+platform: Medium
+original_file: 2025-06-11_Laziness-Does-Not-Exist--A-Deep-Dive-into-the-Myth-of-Motivation-624bfb368c71.md
+---
+
+# Laziness Does Not Exist  A Deep Dive into the Myth of Motivation 624bfb368c71
+
 ::: {}
 # Laziness Does Not Exist: A Deep Dive into the Myth of Motivation {#laziness-does-not-exist-a-deep-dive-into-the-myth-of-motivation .p-name}
 :::

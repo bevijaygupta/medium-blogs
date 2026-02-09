@@ -1,3 +1,11 @@
+---
+title: "Top 27 Use Cases of Burp Suite for Penetration Testers 57bc722ab7fd"
+platform: Medium
+original_file: 2024-11-11_Top-27-Use-Cases-of-Burp-Suite-for-Penetration-Testers-57bc722ab7fd.md
+---
+
+# Top 27 Use Cases of Burp Suite for Penetration Testers 57bc722ab7fd
+
 ::: {}
 # Top 27 Use Cases of Burp Suite for Penetration Testers {#top-27-use-cases-of-burp-suite-for-penetration-testers .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Top 50 Cybersecurity Project Ideas with GitHub Links aea46b09f47c"
+platform: Medium
+original_file: 2025-05-29_Top-50-Cybersecurity-Project-Ideas-with-GitHub-Links-aea46b09f47c.md
+---
+
+# Top 50 Cybersecurity Project Ideas with GitHub Links aea46b09f47c
+
 ::: {}
 # Top 50 Cybersecurity Project Ideas with GitHub Links {#top-50-cybersecurity-project-ideas-with-github-links .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Are You Vulnerable to Deepfakes  f1aeb8832921"
+platform: Medium
+original_file: 2024-11-14_Are-You-Vulnerable-to-Deepfakes--f1aeb8832921.md
+---
+
+# Are You Vulnerable to Deepfakes  f1aeb8832921
+
 ::: {}
 # Are You Vulnerable to Deepfakes? {#are-you-vulnerable-to-deepfakes .p-name}
 :::

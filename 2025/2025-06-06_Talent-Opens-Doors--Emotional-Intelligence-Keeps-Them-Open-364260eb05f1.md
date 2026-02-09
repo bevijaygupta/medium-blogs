@@ -1,3 +1,11 @@
+---
+title: "Talent Opens Doors  Emotional Intelligence Keeps Them Open 364260eb05f1"
+platform: Medium
+original_file: 2025-06-06_Talent-Opens-Doors--Emotional-Intelligence-Keeps-Them-Open-364260eb05f1.md
+---
+
+# Talent Opens Doors  Emotional Intelligence Keeps Them Open 364260eb05f1
+
 ::: {}
 # Talent Opens Doors. Emotional Intelligence Keeps Them Open {#talent-opens-doors.-emotional-intelligence-keeps-them-open .p-name}
 :::

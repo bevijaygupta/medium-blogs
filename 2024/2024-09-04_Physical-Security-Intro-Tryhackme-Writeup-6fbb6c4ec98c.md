@@ -1,3 +1,11 @@
+---
+title: "Physical Security Intro Tryhackme Writeup 6fbb6c4ec98c"
+platform: Medium
+original_file: 2024-09-04_Physical-Security-Intro-Tryhackme-Writeup-6fbb6c4ec98c.md
+---
+
+# Physical Security Intro Tryhackme Writeup 6fbb6c4ec98c
+
 ::: {}
 # Physical Security Intro Tryhackme Writeup {#physical-security-intro-tryhackme-writeup .p-name}
 :::

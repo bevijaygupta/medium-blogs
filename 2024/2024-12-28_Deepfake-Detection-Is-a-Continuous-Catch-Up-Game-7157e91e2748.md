@@ -1,3 +1,11 @@
+---
+title: "Deepfake Detection Is a Continuous Catch Up Game 7157e91e2748"
+platform: Medium
+original_file: 2024-12-28_Deepfake-Detection-Is-a-Continuous-Catch-Up-Game-7157e91e2748.md
+---
+
+# Deepfake Detection Is a Continuous Catch Up Game 7157e91e2748
+
 ::: {}
 # Deepfake Detection Is a Continuous Catch-Up Game {#deepfake-detection-is-a-continuous-catch-up-game .p-name}
 :::

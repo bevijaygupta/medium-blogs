@@ -1,3 +1,11 @@
+---
+title: "The Red Team Career Path  From Beginner to Elite Offensive Security Specialist a1d12e88ebee"
+platform: Medium
+original_file: 2025-01-09_The-Red-Team-Career-Path--From-Beginner-to-Elite-Offensive-Security-Specialist-a1d12e88ebee.md
+---
+
+# The Red Team Career Path  From Beginner to Elite Offensive Security Specialist a1d12e88ebee
+
 ::: {}
 # The Red Team Career Path: From Beginner to Elite Offensive Security Specialist {#the-red-team-career-path-from-beginner-to-elite-offensive-security-specialist .p-name}
 :::

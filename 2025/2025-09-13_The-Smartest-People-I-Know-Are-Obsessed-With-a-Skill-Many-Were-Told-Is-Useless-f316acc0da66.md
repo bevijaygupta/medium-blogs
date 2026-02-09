@@ -1,3 +1,11 @@
+---
+title: "The Smartest People I Know Are Obsessed With a Skill Many Were Told Is Useless f316acc0da66"
+platform: Medium
+original_file: 2025-09-13_The-Smartest-People-I-Know-Are-Obsessed-With-a-Skill-Many-Were-Told-Is-Useless-f316acc0da66.md
+---
+
+# The Smartest People I Know Are Obsessed With a Skill Many Were Told Is Useless f316acc0da66
+
 ::: {}
 # The Smartest People I Know Are Obsessed With a Skill Many Were Told Is Useless {#the-smartest-people-i-know-are-obsessed-with-a-skill-many-were-told-is-useless .p-name}
 :::

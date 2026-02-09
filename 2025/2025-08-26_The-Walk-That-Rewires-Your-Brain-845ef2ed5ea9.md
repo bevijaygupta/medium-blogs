@@ -1,3 +1,11 @@
+---
+title: "The Walk That Rewires Your Brain 845ef2ed5ea9"
+platform: Medium
+original_file: 2025-08-26_The-Walk-That-Rewires-Your-Brain-845ef2ed5ea9.md
+---
+
+# The Walk That Rewires Your Brain 845ef2ed5ea9
+
 ::: {}
 # The Walk That Rewires Your Brain {#the-walk-that-rewires-your-brain .p-name}
 :::

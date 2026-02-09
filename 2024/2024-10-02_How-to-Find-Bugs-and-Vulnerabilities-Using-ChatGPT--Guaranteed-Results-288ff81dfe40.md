@@ -1,3 +1,11 @@
+---
+title: "How to Find Bugs and Vulnerabilities Using ChatGPT  Guaranteed Results 288ff81dfe40"
+platform: Medium
+original_file: 2024-10-02_How-to-Find-Bugs-and-Vulnerabilities-Using-ChatGPT--Guaranteed-Results-288ff81dfe40.md
+---
+
+# How to Find Bugs and Vulnerabilities Using ChatGPT  Guaranteed Results 288ff81dfe40
+
 ::: {}
 # How to Find Bugs and Vulnerabilities Using ChatGPT: Guaranteed Results {#how-to-find-bugs-and-vulnerabilities-using-chatgpt-guaranteed-results .p-name}
 :::

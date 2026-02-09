@@ -1,3 +1,11 @@
+---
+title: "Evaluating Cloud Security  A Comprehensive Guide 948e9a5a1d0d"
+platform: Medium
+original_file: 2024-07-09_Evaluating-Cloud-Security--A-Comprehensive-Guide-948e9a5a1d0d.md
+---
+
+# Evaluating Cloud Security  A Comprehensive Guide 948e9a5a1d0d
+
 ::: {}
 # Evaluating Cloud Security: A Comprehensive Guide {#evaluating-cloud-security-a-comprehensive-guide .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Everyone Says  Start a Business   That s Why Most Stay Poor 4bb7104b992d"
+platform: Medium
+original_file: 2026-01-31_Everyone-Says--Start-a-Business---That-s-Why-Most-Stay-Poor-4bb7104b992d.md
+---
+
+# Everyone Says  Start a Business   That s Why Most Stay Poor 4bb7104b992d
+
 ::: {}
 # Everyone Says "Start a Business." That's Why Most Stay Poor {#everyone-says-start-a-business.-thats-why-most-stay-poor .p-name}
 :::

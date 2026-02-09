@@ -1,3 +1,11 @@
+---
+title: "The Pain of Setting Up 2FA on Every App 4d17cb0895a2"
+platform: Medium
+original_file: 2025-04-28_The-Pain-of-Setting-Up-2FA-on-Every-App-4d17cb0895a2.md
+---
+
+# The Pain of Setting Up 2FA on Every App 4d17cb0895a2
+
 ::: {}
 # The Pain of Setting Up 2FA on Every App {#the-pain-of-setting-up-2fa-on-every-app .p-name}
 :::

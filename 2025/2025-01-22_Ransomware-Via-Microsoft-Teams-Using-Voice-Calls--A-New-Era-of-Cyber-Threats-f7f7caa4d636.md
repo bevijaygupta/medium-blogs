@@ -1,3 +1,11 @@
+---
+title: "Ransomware Via Microsoft Teams Using Voice Calls  A New Era of Cyber Threats f7f7caa4d636"
+platform: Medium
+original_file: 2025-01-22_Ransomware-Via-Microsoft-Teams-Using-Voice-Calls--A-New-Era-of-Cyber-Threats-f7f7caa4d636.md
+---
+
+# Ransomware Via Microsoft Teams Using Voice Calls  A New Era of Cyber Threats f7f7caa4d636
+
 ::: {}
 # Ransomware Via Microsoft Teams Using Voice Calls: A New Era of Cyber Threats {#ransomware-via-microsoft-teams-using-voice-calls-a-new-era-of-cyber-threats .p-name}
 :::

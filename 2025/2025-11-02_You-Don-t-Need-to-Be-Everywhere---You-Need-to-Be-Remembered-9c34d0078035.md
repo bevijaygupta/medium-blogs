@@ -1,3 +1,11 @@
+---
+title: "You Don t Need to Be Everywhere   You Need to Be Remembered 9c34d0078035"
+platform: Medium
+original_file: 2025-11-02_You-Don-t-Need-to-Be-Everywhere---You-Need-to-Be-Remembered-9c34d0078035.md
+---
+
+# You Don t Need to Be Everywhere   You Need to Be Remembered 9c34d0078035
+
 ::: {}
 # You Don't Need to Be Everywhere --- You Need to Be Remembered {#you-dont-need-to-be-everywhere-you-need-to-be-remembered .p-name}
 :::

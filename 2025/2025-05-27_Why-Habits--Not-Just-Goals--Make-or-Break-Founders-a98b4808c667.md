@@ -1,3 +1,11 @@
+---
+title: "Why Habits  Not Just Goals  Make or Break Founders a98b4808c667"
+platform: Medium
+original_file: 2025-05-27_Why-Habits--Not-Just-Goals--Make-or-Break-Founders-a98b4808c667.md
+---
+
+# Why Habits  Not Just Goals  Make or Break Founders a98b4808c667
+
 ::: {}
 # Why Habits, Not Just Goals, Make or Break Founders {#why-habits-not-just-goals-make-or-break-founders .p-name}
 :::

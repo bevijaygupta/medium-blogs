@@ -1,3 +1,11 @@
+---
+title: "Managed Cloud Security  Safeguarding the Digital Frontier 45980dfb3341"
+platform: Medium
+original_file: 2024-07-07_Managed-Cloud-Security--Safeguarding-the-Digital-Frontier-45980dfb3341.md
+---
+
+# Managed Cloud Security  Safeguarding the Digital Frontier 45980dfb3341
+
 ::: {}
 # Managed Cloud Security: Safeguarding the Digital Frontier {#managed-cloud-security-safeguarding-the-digital-frontier .p-name}
 :::

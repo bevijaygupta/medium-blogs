@@ -1,3 +1,11 @@
+---
+title: "Understanding Linux File System Structure  A Beginner s Guide b19282d0b3cd"
+platform: Medium
+original_file: 2025-03-19_Understanding-Linux-File-System-Structure--A-Beginner-s-Guide-b19282d0b3cd.md
+---
+
+# Understanding Linux File System Structure  A Beginner s Guide b19282d0b3cd
+
 ::: {}
 # Understanding Linux File System Structure: A Beginner's Guide {#understanding-linux-file-system-structure-a-beginners-guide .p-name}
 :::

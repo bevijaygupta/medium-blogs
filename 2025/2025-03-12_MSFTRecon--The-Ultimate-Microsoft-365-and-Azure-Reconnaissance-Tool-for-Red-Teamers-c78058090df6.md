@@ -1,3 +1,11 @@
+---
+title: "MSFTRecon  The Ultimate Microsoft 365 and Azure Reconnaissance Tool for Red Teamers c78058090df6"
+platform: Medium
+original_file: 2025-03-12_MSFTRecon--The-Ultimate-Microsoft-365-and-Azure-Reconnaissance-Tool-for-Red-Teamers-c78058090df6.md
+---
+
+# MSFTRecon  The Ultimate Microsoft 365 and Azure Reconnaissance Tool for Red Teamers c78058090df6
+
 ::: {}
 # MSFTRecon: The Ultimate Microsoft 365 and Azure Reconnaissance Tool for Red Teamers {#msftrecon-the-ultimate-microsoft-365-and-azure-reconnaissance-tool-for-red-teamers .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "The Internet Under Siege  Breaking Down the 7 3 Tbps DDoS Attack That Shook the Web b055733634f0"
+platform: Medium
+original_file: 2025-07-25_The-Internet-Under-Siege--Breaking-Down-the-7-3-Tbps-DDoS-Attack-That-Shook-the-Web-b055733634f0.md
+---
+
+# The Internet Under Siege  Breaking Down the 7 3 Tbps DDoS Attack That Shook the Web b055733634f0
+
 ::: {}
 # The Internet Under Siege: Breaking Down the 7.3 Tbps DDoS Attack That Shook the Web {#the-internet-under-siege-breaking-down-the-7.3-tbps-ddos-attack-that-shook-the-web .p-name}
 :::

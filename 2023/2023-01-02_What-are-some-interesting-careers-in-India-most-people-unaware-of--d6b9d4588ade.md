@@ -1,3 +1,11 @@
+---
+title: "What are some interesting careers in India most people unaware of  d6b9d4588ade"
+platform: Medium
+original_file: 2023-01-02_What-are-some-interesting-careers-in-India-most-people-unaware-of--d6b9d4588ade.md
+---
+
+# What are some interesting careers in India most people unaware of  d6b9d4588ade
+
 ::: {}
 # What are some interesting careers in India most people unaware of? {#what-are-some-interesting-careers-in-india-most-people-unaware-of .p-name}
 :::

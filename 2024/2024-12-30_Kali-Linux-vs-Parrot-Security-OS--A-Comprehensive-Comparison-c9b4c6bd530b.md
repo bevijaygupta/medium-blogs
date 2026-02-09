@@ -1,3 +1,11 @@
+---
+title: "Kali Linux vs Parrot Security OS  A Comprehensive Comparison c9b4c6bd530b"
+platform: Medium
+original_file: 2024-12-30_Kali-Linux-vs-Parrot-Security-OS--A-Comprehensive-Comparison-c9b4c6bd530b.md
+---
+
+# Kali Linux vs Parrot Security OS  A Comprehensive Comparison c9b4c6bd530b
+
 ::: {}
 # Kali Linux vs Parrot Security OS: A Comprehensive Comparison {#kali-linux-vs-parrot-security-os-a-comprehensive-comparison .p-name}
 :::

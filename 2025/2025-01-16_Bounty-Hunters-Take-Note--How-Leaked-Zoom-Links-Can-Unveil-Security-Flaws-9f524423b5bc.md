@@ -1,3 +1,11 @@
+---
+title: "Bounty Hunters Take Note  How Leaked Zoom Links Can Unveil Security Flaws 9f524423b5bc"
+platform: Medium
+original_file: 2025-01-16_Bounty-Hunters-Take-Note--How-Leaked-Zoom-Links-Can-Unveil-Security-Flaws-9f524423b5bc.md
+---
+
+# Bounty Hunters Take Note  How Leaked Zoom Links Can Unveil Security Flaws 9f524423b5bc
+
 ::: {}
 # Bounty Hunters Take Note: How Leaked Zoom Links Can Unveil Security Flaws {#bounty-hunters-take-note-how-leaked-zoom-links-can-unveil-security-flaws .p-name}
 :::

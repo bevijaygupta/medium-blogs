@@ -1,3 +1,11 @@
+---
+title: "Haha welcome to the world of cybersecurity   where you re barely two hours in and already being  cca667440a0f"
+platform: Medium
+original_file: 2025-04-10_Haha-welcome-to-the-world-of-cybersecurity---where-you-re-barely-two-hours-in-and-already-being--cca667440a0f.md
+---
+
+# Haha welcome to the world of cybersecurity   where you re barely two hours in and already being  cca667440a0f
+
 ::: {}
 # Haha welcome to the world of cybersecurity --- where you're barely two hours in and already being... {#haha-welcome-to-the-world-of-cybersecurity-where-youre-barely-two-hours-in-and-already-being .p-name}
 :::

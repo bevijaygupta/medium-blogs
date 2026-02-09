@@ -1,3 +1,11 @@
+---
+title: "10 Things Your Boss Won t Tell You a7eb9fb206d0"
+platform: Medium
+original_file: 2024-11-02_10-Things-Your-Boss-Won-t-Tell-You-a7eb9fb206d0.md
+---
+
+# 10 Things Your Boss Won t Tell You a7eb9fb206d0
+
 ::: {}
 # 10 Things Your Boss Won't Tell You {#things-your-boss-wont-tell-you .p-name}
 :::

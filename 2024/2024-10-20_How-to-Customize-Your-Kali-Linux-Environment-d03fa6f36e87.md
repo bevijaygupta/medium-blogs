@@ -1,3 +1,11 @@
+---
+title: "How to Customize Your Kali Linux Environment d03fa6f36e87"
+platform: Medium
+original_file: 2024-10-20_How-to-Customize-Your-Kali-Linux-Environment-d03fa6f36e87.md
+---
+
+# How to Customize Your Kali Linux Environment d03fa6f36e87
+
 ::: {}
 # How to Customize Your Kali Linux Environment {#how-to-customize-your-kali-linux-environment .p-name}
 :::

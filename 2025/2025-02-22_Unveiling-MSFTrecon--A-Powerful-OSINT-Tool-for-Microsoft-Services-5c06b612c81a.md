@@ -1,3 +1,11 @@
+---
+title: "Unveiling MSFTrecon  A Powerful OSINT Tool for Microsoft Services 5c06b612c81a"
+platform: Medium
+original_file: 2025-02-22_Unveiling-MSFTrecon--A-Powerful-OSINT-Tool-for-Microsoft-Services-5c06b612c81a.md
+---
+
+# Unveiling MSFTrecon  A Powerful OSINT Tool for Microsoft Services 5c06b612c81a
+
 ::: {}
 # Unveiling MSFTrecon: A Powerful OSINT Tool for Microsoft Services {#unveiling-msftrecon-a-powerful-osint-tool-for-microsoft-services .p-name}
 :::

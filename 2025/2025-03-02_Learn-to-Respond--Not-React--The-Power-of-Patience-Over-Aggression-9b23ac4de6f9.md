@@ -1,3 +1,11 @@
+---
+title: "Learn to Respond  Not React  The Power of Patience Over Aggression 9b23ac4de6f9"
+platform: Medium
+original_file: 2025-03-02_Learn-to-Respond--Not-React--The-Power-of-Patience-Over-Aggression-9b23ac4de6f9.md
+---
+
+# Learn to Respond  Not React  The Power of Patience Over Aggression 9b23ac4de6f9
+
 ::: {}
 # Learn to Respond, Not React: The Power of Patience Over Aggression {#learn-to-respond-not-react-the-power-of-patience-over-aggression .p-name}
 :::

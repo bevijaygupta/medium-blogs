@@ -1,3 +1,11 @@
+---
+title: "Why Do Universities Still Teach C and C    6f053f9ad820"
+platform: Medium
+original_file: 2024-09-07_Why-Do-Universities-Still-Teach-C-and-C----6f053f9ad820.md
+---
+
+# Why Do Universities Still Teach C and C    6f053f9ad820
+
 ::: {}
 # Why Do Universities Still Teach C and C++? {#why-do-universities-still-teach-c-and-c .p-name}
 :::

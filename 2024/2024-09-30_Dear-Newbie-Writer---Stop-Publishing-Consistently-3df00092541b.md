@@ -1,3 +1,11 @@
+---
+title: "Dear Newbie Writer   Stop Publishing Consistently 3df00092541b"
+platform: Medium
+original_file: 2024-09-30_Dear-Newbie-Writer---Stop-Publishing-Consistently-3df00092541b.md
+---
+
+# Dear Newbie Writer   Stop Publishing Consistently 3df00092541b
+
 ::: {}
 # Dear Newbie Writer --- Stop Publishing Consistently {#dear-newbie-writer-stop-publishing-consistently .p-name}
 :::

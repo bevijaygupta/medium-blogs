@@ -1,3 +1,11 @@
+---
+title: "Introduction to IoT Training Course 492f00e48f62"
+platform: Medium
+original_file: 2024-08-09_Introduction-to-IoT-Training-Course-492f00e48f62.md
+---
+
+# Introduction to IoT Training Course 492f00e48f62
+
 ::: {}
 # Introduction to IoT Training Course {#introduction-to-iot-training-course .p-name}
 :::

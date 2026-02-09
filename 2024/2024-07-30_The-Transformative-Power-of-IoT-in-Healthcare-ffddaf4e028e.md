@@ -1,3 +1,11 @@
+---
+title: "The Transformative Power of IoT in Healthcare ffddaf4e028e"
+platform: Medium
+original_file: 2024-07-30_The-Transformative-Power-of-IoT-in-Healthcare-ffddaf4e028e.md
+---
+
+# The Transformative Power of IoT in Healthcare ffddaf4e028e
+
 ::: {}
 # The Transformative Power of IoT in Healthcare {#the-transformative-power-of-iot-in-healthcare .p-name}
 :::

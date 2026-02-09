@@ -1,3 +1,11 @@
+---
+title: "Stay Safe from Scammers  Know Their Tricks     a7216da16d5f"
+platform: Medium
+original_file: 2024-12-10_Stay-Safe-from-Scammers--Know-Their-Tricks-----a7216da16d5f.md
+---
+
+# Stay Safe from Scammers  Know Their Tricks     a7216da16d5f
+
 ::: {}
 # Stay Safe from Scammers: Know Their Tricks! 🚨 {#stay-safe-from-scammers-know-their-tricks .p-name}
 :::

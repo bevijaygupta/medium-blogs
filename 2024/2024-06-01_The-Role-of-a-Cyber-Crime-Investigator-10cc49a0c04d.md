@@ -1,3 +1,11 @@
+---
+title: "The Role of a Cyber Crime Investigator 10cc49a0c04d"
+platform: Medium
+original_file: 2024-06-01_The-Role-of-a-Cyber-Crime-Investigator-10cc49a0c04d.md
+---
+
+# The Role of a Cyber Crime Investigator 10cc49a0c04d
+
 ::: {}
 # The Role of a Cyber Crime Investigator {#the-role-of-a-cyber-crime-investigator .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Understanding Penetration Testing  A Comprehensive Guide cd633e459e50"
+platform: Medium
+original_file: 2024-04-02_Understanding-Penetration-Testing--A-Comprehensive-Guide-cd633e459e50.md
+---
+
+# Understanding Penetration Testing  A Comprehensive Guide cd633e459e50
+
 ::: {}
 # Understanding Penetration Testing: A Comprehensive Guide {#understanding-penetration-testing-a-comprehensive-guide .p-name}
 :::

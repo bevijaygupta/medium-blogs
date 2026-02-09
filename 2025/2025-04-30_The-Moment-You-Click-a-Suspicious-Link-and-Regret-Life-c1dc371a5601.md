@@ -1,3 +1,11 @@
+---
+title: "The Moment You Click a Suspicious Link and Regret Life c1dc371a5601"
+platform: Medium
+original_file: 2025-04-30_The-Moment-You-Click-a-Suspicious-Link-and-Regret-Life-c1dc371a5601.md
+---
+
+# The Moment You Click a Suspicious Link and Regret Life c1dc371a5601
+
 ::: {}
 # The Moment You Click a Suspicious Link and Regret Life {#the-moment-you-click-a-suspicious-link-and-regret-life .p-name}
 :::

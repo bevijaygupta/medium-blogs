@@ -1,3 +1,11 @@
+---
+title: "How to write a Walkthrough 23eee7f6777c"
+platform: Medium
+original_file: 2024-03-28_How-to-write-a-Walkthrough-23eee7f6777c.md
+---
+
+# How to write a Walkthrough 23eee7f6777c
+
 ::: {}
 # How to write a Walkthrough {#how-to-write-a-walkthrough .p-name}
 :::

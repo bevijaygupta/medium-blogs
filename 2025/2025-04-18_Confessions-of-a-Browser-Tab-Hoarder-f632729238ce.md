@@ -1,3 +1,11 @@
+---
+title: "Confessions of a Browser Tab Hoarder f632729238ce"
+platform: Medium
+original_file: 2025-04-18_Confessions-of-a-Browser-Tab-Hoarder-f632729238ce.md
+---
+
+# Confessions of a Browser Tab Hoarder f632729238ce
+
 ::: {}
 # Confessions of a Browser Tab Hoarder {#confessions-of-a-browser-tab-hoarder .p-name}
 :::

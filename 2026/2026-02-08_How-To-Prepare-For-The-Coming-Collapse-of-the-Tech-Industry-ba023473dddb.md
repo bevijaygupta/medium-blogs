@@ -1,3 +1,11 @@
+---
+title: "How To Prepare For The Coming Collapse of the Tech Industry ba023473dddb"
+platform: Medium
+original_file: 2026-02-08_How-To-Prepare-For-The-Coming-Collapse-of-the-Tech-Industry-ba023473dddb.md
+---
+
+# How To Prepare For The Coming Collapse of the Tech Industry ba023473dddb
+
 ::: {}
 # How To Prepare For The Coming Collapse of the Tech Industry {#how-to-prepare-for-the-coming-collapse-of-the-tech-industry .p-name}
 :::

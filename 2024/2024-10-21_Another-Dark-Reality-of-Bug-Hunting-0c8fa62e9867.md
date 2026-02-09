@@ -1,3 +1,11 @@
+---
+title: "Another Dark Reality of Bug Hunting 0c8fa62e9867"
+platform: Medium
+original_file: 2024-10-21_Another-Dark-Reality-of-Bug-Hunting-0c8fa62e9867.md
+---
+
+# Another Dark Reality of Bug Hunting 0c8fa62e9867
+
 ::: {}
 # Another Dark Reality of Bug Hunting {#another-dark-reality-of-bug-hunting .p-name}
 :::

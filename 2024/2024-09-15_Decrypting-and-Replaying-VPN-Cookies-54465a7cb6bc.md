@@ -1,3 +1,11 @@
+---
+title: "Decrypting and Replaying VPN Cookies 54465a7cb6bc"
+platform: Medium
+original_file: 2024-09-15_Decrypting-and-Replaying-VPN-Cookies-54465a7cb6bc.md
+---
+
+# Decrypting and Replaying VPN Cookies 54465a7cb6bc
+
 ::: {}
 # Decrypting and Replaying VPN Cookies {#decrypting-and-replaying-vpn-cookies .p-name}
 :::

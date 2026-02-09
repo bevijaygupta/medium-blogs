@@ -1,3 +1,11 @@
+---
+title: "How to Track a Person Using Open Data 9c7ae87629de"
+platform: Medium
+original_file: 2024-08-31_How-to-Track-a-Person-Using-Open-Data-9c7ae87629de.md
+---
+
+# How to Track a Person Using Open Data 9c7ae87629de
+
 ::: {}
 # How to Track a Person Using Open Data {#how-to-track-a-person-using-open-data .p-name}
 :::

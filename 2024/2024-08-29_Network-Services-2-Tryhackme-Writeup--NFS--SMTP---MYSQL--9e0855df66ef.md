@@ -1,3 +1,11 @@
+---
+title: "Network Services 2 Tryhackme Writeup  NFS  SMTP   MYSQL  9e0855df66ef"
+platform: Medium
+original_file: 2024-08-29_Network-Services-2-Tryhackme-Writeup--NFS--SMTP---MYSQL--9e0855df66ef.md
+---
+
+# Network Services 2 Tryhackme Writeup  NFS  SMTP   MYSQL  9e0855df66ef
+
 ::: {}
 # Network Services 2 Tryhackme Writeup (NFS ,SMTP , MYSQL) {#network-services-2-tryhackme-writeup-nfs-smtp-mysql .p-name}
 :::

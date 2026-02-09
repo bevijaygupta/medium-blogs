@@ -1,3 +1,11 @@
+---
+title: "Why Is Wi Fi Network Security Often Compromised by Poor Encryption Practices  5b3d55aa8865"
+platform: Medium
+original_file: 2024-09-10_Why-Is-Wi-Fi-Network-Security-Often-Compromised-by-Poor-Encryption-Practices--5b3d55aa8865.md
+---
+
+# Why Is Wi Fi Network Security Often Compromised by Poor Encryption Practices  5b3d55aa8865
+
 ::: {}
 # Why Is Wi-Fi Network Security Often Compromised by Poor Encryption Practices? {#why-is-wi-fi-network-security-often-compromised-by-poor-encryption-practices .p-name}
 :::

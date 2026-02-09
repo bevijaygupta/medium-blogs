@@ -1,3 +1,11 @@
+---
+title: "Comprehensive Guide to Cloud Web Security 61217c48b703"
+platform: Medium
+original_file: 2024-07-15_Comprehensive-Guide-to-Cloud-Web-Security-61217c48b703.md
+---
+
+# Comprehensive Guide to Cloud Web Security 61217c48b703
+
 ::: {}
 # Comprehensive Guide to Cloud Web Security {#comprehensive-guide-to-cloud-web-security .p-name}
 :::

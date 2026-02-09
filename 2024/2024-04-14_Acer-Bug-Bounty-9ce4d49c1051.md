@@ -1,3 +1,11 @@
+---
+title: "Acer Bug Bounty 9ce4d49c1051"
+platform: Medium
+original_file: 2024-04-14_Acer-Bug-Bounty-9ce4d49c1051.md
+---
+
+# Acer Bug Bounty 9ce4d49c1051
+
 ::: {}
 # Acer Bug Bounty {#acer-bug-bounty .p-name}
 :::

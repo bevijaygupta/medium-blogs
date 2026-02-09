@@ -1,3 +1,11 @@
+---
+title: "40 Methods for Privilege Escalation 51699f2f22cc"
+platform: Medium
+original_file: 2024-11-16_40-Methods-for-Privilege-Escalation-51699f2f22cc.md
+---
+
+# 40 Methods for Privilege Escalation 51699f2f22cc
+
 ::: {}
 # 40 Methods for Privilege Escalation {#methods-for-privilege-escalation .p-name}
 :::

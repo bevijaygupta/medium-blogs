@@ -1,3 +1,11 @@
+---
+title: "The True Anatomy of a Brand 4a2355ac8466"
+platform: Medium
+original_file: 2024-12-24_The-True-Anatomy-of-a-Brand-4a2355ac8466.md
+---
+
+# The True Anatomy of a Brand 4a2355ac8466
+
 ::: {}
 # The True Anatomy of a Brand {#the-true-anatomy-of-a-brand .p-name}
 :::

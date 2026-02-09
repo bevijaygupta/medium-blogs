@@ -1,3 +1,11 @@
+---
+title: "Proxy Tool For HTTP HTTPS Traffic Capture 9b3895cf0913"
+platform: Medium
+original_file: 2024-07-14_Proxy-Tool-For-HTTP-HTTPS-Traffic-Capture-9b3895cf0913.md
+---
+
+# Proxy Tool For HTTP HTTPS Traffic Capture 9b3895cf0913
+
 ::: {}
 # Proxy Tool For HTTP/HTTPS Traffic Capture {#proxy-tool-for-httphttps-traffic-capture .p-name}
 :::

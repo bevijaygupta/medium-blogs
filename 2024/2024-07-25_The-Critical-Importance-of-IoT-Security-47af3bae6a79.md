@@ -1,3 +1,11 @@
+---
+title: "The Critical Importance of IoT Security 47af3bae6a79"
+platform: Medium
+original_file: 2024-07-25_The-Critical-Importance-of-IoT-Security-47af3bae6a79.md
+---
+
+# The Critical Importance of IoT Security 47af3bae6a79
+
 ::: {}
 # The Critical Importance of IoT Security {#the-critical-importance-of-iot-security .p-name}
 :::

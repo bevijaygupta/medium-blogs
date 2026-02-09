@@ -1,3 +1,11 @@
+---
+title: "The Role of Network Security Monitoring 9672fc515a2e"
+platform: Medium
+original_file: 2024-05-14_The-Role-of-Network-Security-Monitoring-9672fc515a2e.md
+---
+
+# The Role of Network Security Monitoring 9672fc515a2e
+
 ::: {}
 # The Role of Network Security Monitoring {#the-role-of-network-security-monitoring .p-name}
 :::

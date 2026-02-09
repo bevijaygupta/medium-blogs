@@ -1,3 +1,11 @@
+---
+title: "Types of Cybercrimes  A Comprehensive Guide ba92c73cbec3"
+platform: Medium
+original_file: 2024-06-15_Types-of-Cybercrimes--A-Comprehensive-Guide-ba92c73cbec3.md
+---
+
+# Types of Cybercrimes  A Comprehensive Guide ba92c73cbec3
+
 ::: {}
 # Types of Cybercrimes: A Comprehensive Guide {#types-of-cybercrimes-a-comprehensive-guide .p-name}
 :::

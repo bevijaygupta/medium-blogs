@@ -1,3 +1,11 @@
+---
+title: "6 Science Backed Habits to Sharpen Your Cybersecurity Mindset c5a747ff5c28"
+platform: Medium
+original_file: 2025-07-23_6-Science-Backed-Habits-to-Sharpen-Your-Cybersecurity-Mindset-c5a747ff5c28.md
+---
+
+# 6 Science Backed Habits to Sharpen Your Cybersecurity Mindset c5a747ff5c28
+
 ::: {}
 # 6 Science-Backed Habits to Sharpen Your Cybersecurity Mindset {#science-backed-habits-to-sharpen-your-cybersecurity-mindset .p-name}
 :::

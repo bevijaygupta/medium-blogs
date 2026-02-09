@@ -1,3 +1,11 @@
+---
+title: "SoC Analyst  Active Directory   Splunk Home Lab 7e01e0db71e2"
+platform: Medium
+original_file: 2024-10-03_SoC-Analyst--Active-Directory---Splunk-Home-Lab-7e01e0db71e2.md
+---
+
+# SoC Analyst  Active Directory   Splunk Home Lab 7e01e0db71e2
+
 ::: {}
 # SoC Analyst: Active Directory & Splunk Home Lab {#soc-analyst-active-directory-splunk-home-lab .p-name}
 :::

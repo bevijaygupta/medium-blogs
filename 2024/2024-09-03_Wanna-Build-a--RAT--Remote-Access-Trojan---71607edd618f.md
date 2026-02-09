@@ -1,3 +1,11 @@
+---
+title: "Wanna Build a  RAT  Remote Access Trojan   71607edd618f"
+platform: Medium
+original_file: 2024-09-03_Wanna-Build-a--RAT--Remote-Access-Trojan---71607edd618f.md
+---
+
+# Wanna Build a  RAT  Remote Access Trojan   71607edd618f
+
 ::: {}
 # Wanna Build a (RAT) Remote Access Trojan?? {#wanna-build-a-rat-remote-access-trojan .p-name}
 :::

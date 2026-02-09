@@ -1,3 +1,11 @@
+---
+title: "9 Visuals That Will Shift How You Lead   Think 4bcecd9e727d"
+platform: Medium
+original_file: 2025-02-21_9-Visuals-That-Will-Shift-How-You-Lead---Think-4bcecd9e727d.md
+---
+
+# 9 Visuals That Will Shift How You Lead   Think 4bcecd9e727d
+
 ::: {}
 # 9 Visuals That Will Shift How You Lead & Think {#visuals-that-will-shift-how-you-lead-think .p-name}
 :::

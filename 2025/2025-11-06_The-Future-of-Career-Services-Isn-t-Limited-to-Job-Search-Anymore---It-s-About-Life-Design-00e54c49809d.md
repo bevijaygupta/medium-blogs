@@ -1,3 +1,11 @@
+---
+title: "The Future of Career Services Isn t Limited to Job Search Anymore   It s About Life Design 00e54c49809d"
+platform: Medium
+original_file: 2025-11-06_The-Future-of-Career-Services-Isn-t-Limited-to-Job-Search-Anymore---It-s-About-Life-Design-00e54c49809d.md
+---
+
+# The Future of Career Services Isn t Limited to Job Search Anymore   It s About Life Design 00e54c49809d
+
 ::: {}
 # The Future of Career Services Isn't Limited to Job Search Anymore --- It's About Life Design {#the-future-of-career-services-isnt-limited-to-job-search-anymore-its-about-life-design .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Kali New Release 2024 3   Explore 11 New Tools for Hacking 9368a988a0d2"
+platform: Medium
+original_file: 2024-09-23_Kali-New-Release-2024-3---Explore-11-New-Tools-for-Hacking-9368a988a0d2.md
+---
+
+# Kali New Release 2024 3   Explore 11 New Tools for Hacking 9368a988a0d2
+
 ::: {}
 # Kali New Release 2024.3 \| Explore 11 New Tools for Hacking {#kali-new-release-2024.3-explore-11-new-tools-for-hacking .p-name}
 :::

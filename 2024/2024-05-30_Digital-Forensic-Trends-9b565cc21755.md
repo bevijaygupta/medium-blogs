@@ -1,3 +1,11 @@
+---
+title: "Digital Forensic Trends 9b565cc21755"
+platform: Medium
+original_file: 2024-05-30_Digital-Forensic-Trends-9b565cc21755.md
+---
+
+# Digital Forensic Trends 9b565cc21755
+
 ::: {}
 # Digital Forensic Trends {#digital-forensic-trends .p-name}
 :::

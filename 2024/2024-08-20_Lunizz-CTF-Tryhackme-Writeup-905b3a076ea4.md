@@ -1,3 +1,11 @@
+---
+title: "Lunizz CTF Tryhackme Writeup 905b3a076ea4"
+platform: Medium
+original_file: 2024-08-20_Lunizz-CTF-Tryhackme-Writeup-905b3a076ea4.md
+---
+
+# Lunizz CTF Tryhackme Writeup 905b3a076ea4
+
 ::: {}
 # Lunizz CTF Tryhackme Writeup {#lunizz-ctf-tryhackme-writeup .p-name}
 :::

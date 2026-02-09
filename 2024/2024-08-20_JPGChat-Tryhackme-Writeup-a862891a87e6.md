@@ -1,3 +1,11 @@
+---
+title: "JPGChat Tryhackme Writeup a862891a87e6"
+platform: Medium
+original_file: 2024-08-20_JPGChat-Tryhackme-Writeup-a862891a87e6.md
+---
+
+# JPGChat Tryhackme Writeup a862891a87e6
+
 ::: {}
 # JPGChat Tryhackme Writeup {#jpgchat-tryhackme-writeup .p-name}
 :::

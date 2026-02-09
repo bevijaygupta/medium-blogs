@@ -1,3 +1,11 @@
+---
+title: "Customer Centric Work  The Mindset That Builds Winning Teams 468a3ed26bdb"
+platform: Medium
+original_file: 2025-11-16_Customer-Centric-Work--The-Mindset-That-Builds-Winning-Teams-468a3ed26bdb.md
+---
+
+# Customer Centric Work  The Mindset That Builds Winning Teams 468a3ed26bdb
+
 ::: {}
 # Customer-Centric Work: The Mindset That Builds Winning Teams {#customer-centric-work-the-mindset-that-builds-winning-teams .p-name}
 :::

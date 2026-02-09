@@ -1,3 +1,11 @@
+---
+title: "Linux for SOC Analysts  Incident Response Essentials 4ca0ede41527"
+platform: Medium
+original_file: 2024-12-02_Linux-for-SOC-Analysts--Incident-Response-Essentials-4ca0ede41527.md
+---
+
+# Linux for SOC Analysts  Incident Response Essentials 4ca0ede41527
+
 ::: {}
 # Linux for SOC Analysts: Incident Response Essentials {#linux-for-soc-analysts-incident-response-essentials .p-name}
 :::

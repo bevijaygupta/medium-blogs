@@ -1,3 +1,11 @@
+---
+title: "Guide to Kali Linux Commands 4a2c634fec13"
+platform: Medium
+original_file: 2024-05-24_Guide-to-Kali-Linux-Commands-4a2c634fec13.md
+---
+
+# Guide to Kali Linux Commands 4a2c634fec13
+
 ::: {}
 # Guide to Kali Linux Commands {#guide-to-kali-linux-commands .p-name}
 :::

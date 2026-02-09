@@ -1,3 +1,11 @@
+---
+title: "Cybercrime as a Service  The Dark Economy of Digital Crime 28b89f3c55d0"
+platform: Medium
+original_file: 2024-06-11_Cybercrime-as-a-Service--The-Dark-Economy-of-Digital-Crime-28b89f3c55d0.md
+---
+
+# Cybercrime as a Service  The Dark Economy of Digital Crime 28b89f3c55d0
+
 ::: {}
 # Cybercrime as a Service: The Dark Economy of Digital Crime {#cybercrime-as-a-service-the-dark-economy-of-digital-crime .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Phishing Attacks  How They Outsmart Us in 2024 fd6fe003cb7c"
+platform: Medium
+original_file: 2024-11-29_Phishing-Attacks--How-They-Outsmart-Us-in-2024-fd6fe003cb7c.md
+---
+
+# Phishing Attacks  How They Outsmart Us in 2024 fd6fe003cb7c
+
 ::: {}
 # Phishing Attacks: How They Outsmart Us in 2024 {#phishing-attacks-how-they-outsmart-us-in-2024 .p-name}
 :::

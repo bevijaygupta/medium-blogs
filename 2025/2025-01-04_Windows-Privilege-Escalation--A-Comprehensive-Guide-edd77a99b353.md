@@ -1,3 +1,11 @@
+---
+title: "Windows Privilege Escalation  A Comprehensive Guide edd77a99b353"
+platform: Medium
+original_file: 2025-01-04_Windows-Privilege-Escalation--A-Comprehensive-Guide-edd77a99b353.md
+---
+
+# Windows Privilege Escalation  A Comprehensive Guide edd77a99b353
+
 ::: {}
 # Windows Privilege Escalation: A Comprehensive Guide {#windows-privilege-escalation-a-comprehensive-guide .p-name}
 :::

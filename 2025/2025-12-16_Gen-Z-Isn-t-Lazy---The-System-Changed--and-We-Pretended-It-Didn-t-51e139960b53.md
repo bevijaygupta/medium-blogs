@@ -1,3 +1,11 @@
+---
+title: "Gen Z Isn t Lazy   The System Changed  and We Pretended It Didn t 51e139960b53"
+platform: Medium
+original_file: 2025-12-16_Gen-Z-Isn-t-Lazy---The-System-Changed--and-We-Pretended-It-Didn-t-51e139960b53.md
+---
+
+# Gen Z Isn t Lazy   The System Changed  and We Pretended It Didn t 51e139960b53
+
 ::: {}
 # Gen Z Isn't Lazy --- The System Changed, and We Pretended It Didn't {#gen-z-isnt-lazy-the-system-changed-and-we-pretended-it-didnt .p-name}
 :::

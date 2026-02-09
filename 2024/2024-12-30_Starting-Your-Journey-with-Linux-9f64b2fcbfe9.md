@@ -1,3 +1,11 @@
+---
+title: "Starting Your Journey with Linux 9f64b2fcbfe9"
+platform: Medium
+original_file: 2024-12-30_Starting-Your-Journey-with-Linux-9f64b2fcbfe9.md
+---
+
+# Starting Your Journey with Linux 9f64b2fcbfe9
+
 ::: {}
 # Starting Your Journey with Linux {#starting-your-journey-with-linux .p-name}
 :::

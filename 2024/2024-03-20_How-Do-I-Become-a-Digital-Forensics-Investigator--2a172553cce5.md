@@ -1,3 +1,11 @@
+---
+title: "How Do I Become a Digital Forensics Investigator  2a172553cce5"
+platform: Medium
+original_file: 2024-03-20_How-Do-I-Become-a-Digital-Forensics-Investigator--2a172553cce5.md
+---
+
+# How Do I Become a Digital Forensics Investigator  2a172553cce5
+
 ::: {}
 # How Do I Become a Digital Forensics Investigator? {#how-do-i-become-a-digital-forensics-investigator .p-name}
 :::

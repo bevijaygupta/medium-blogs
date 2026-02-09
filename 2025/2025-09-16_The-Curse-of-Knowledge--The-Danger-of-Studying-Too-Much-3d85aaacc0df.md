@@ -1,3 +1,11 @@
+---
+title: "The Curse of Knowledge  The Danger of Studying Too Much 3d85aaacc0df"
+platform: Medium
+original_file: 2025-09-16_The-Curse-of-Knowledge--The-Danger-of-Studying-Too-Much-3d85aaacc0df.md
+---
+
+# The Curse of Knowledge  The Danger of Studying Too Much 3d85aaacc0df
+
 ::: {}
 # The Curse of Knowledge: The Danger of Studying Too Much {#the-curse-of-knowledge-the-danger-of-studying-too-much .p-name}
 :::

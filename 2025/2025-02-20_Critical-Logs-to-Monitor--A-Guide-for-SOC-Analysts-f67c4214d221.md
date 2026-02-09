@@ -1,3 +1,11 @@
+---
+title: "Critical Logs to Monitor  A Guide for SOC Analysts f67c4214d221"
+platform: Medium
+original_file: 2025-02-20_Critical-Logs-to-Monitor--A-Guide-for-SOC-Analysts-f67c4214d221.md
+---
+
+# Critical Logs to Monitor  A Guide for SOC Analysts f67c4214d221
+
 ::: {}
 # Critical Logs to Monitor: A Guide for SOC Analysts {#critical-logs-to-monitor-a-guide-for-soc-analysts .p-name}
 :::

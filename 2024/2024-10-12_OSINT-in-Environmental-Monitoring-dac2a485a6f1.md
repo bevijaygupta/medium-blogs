@@ -1,3 +1,11 @@
+---
+title: "OSINT in Environmental Monitoring dac2a485a6f1"
+platform: Medium
+original_file: 2024-10-12_OSINT-in-Environmental-Monitoring-dac2a485a6f1.md
+---
+
+# OSINT in Environmental Monitoring dac2a485a6f1
+
 ::: {}
 # OSINT in Environmental Monitoring {#osint-in-environmental-monitoring .p-name}
 :::

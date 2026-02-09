@@ -1,3 +1,11 @@
+---
+title: "Cloud Security Gateway  Protecting the Digital Frontier 04e726894afc"
+platform: Medium
+original_file: 2024-07-03_Cloud-Security-Gateway--Protecting-the-Digital-Frontier-04e726894afc.md
+---
+
+# Cloud Security Gateway  Protecting the Digital Frontier 04e726894afc
+
 ::: {}
 # Cloud Security Gateway: Protecting the Digital Frontier {#cloud-security-gateway-protecting-the-digital-frontier .p-name}
 :::

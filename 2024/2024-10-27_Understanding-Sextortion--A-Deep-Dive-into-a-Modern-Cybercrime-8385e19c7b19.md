@@ -1,3 +1,11 @@
+---
+title: "Understanding Sextortion  A Deep Dive into a Modern Cybercrime 8385e19c7b19"
+platform: Medium
+original_file: 2024-10-27_Understanding-Sextortion--A-Deep-Dive-into-a-Modern-Cybercrime-8385e19c7b19.md
+---
+
+# Understanding Sextortion  A Deep Dive into a Modern Cybercrime 8385e19c7b19
+
 ::: {}
 # Understanding Sextortion: A Deep Dive into a Modern Cybercrime {#understanding-sextortion-a-deep-dive-into-a-modern-cybercrime .p-name}
 :::

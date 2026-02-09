@@ -1,3 +1,11 @@
+---
+title: "That Awkward Moment When You Forget Your Own Password 7542d4090175"
+platform: Medium
+original_file: 2025-03-31_That-Awkward-Moment-When-You-Forget-Your-Own-Password-7542d4090175.md
+---
+
+# That Awkward Moment When You Forget Your Own Password 7542d4090175
+
 ::: {}
 # That Awkward Moment When You Forget Your Own Password {#that-awkward-moment-when-you-forget-your-own-password .p-name}
 :::

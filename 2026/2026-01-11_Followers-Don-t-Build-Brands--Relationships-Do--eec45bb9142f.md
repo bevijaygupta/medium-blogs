@@ -1,3 +1,11 @@
+---
+title: "Followers Don t Build Brands  Relationships Do  eec45bb9142f"
+platform: Medium
+original_file: 2026-01-11_Followers-Don-t-Build-Brands--Relationships-Do--eec45bb9142f.md
+---
+
+# Followers Don t Build Brands  Relationships Do  eec45bb9142f
+
 ::: {}
 # Followers Don't Build Brands. Relationships Do. {#followers-dont-build-brands.-relationships-do. .p-name}
 :::

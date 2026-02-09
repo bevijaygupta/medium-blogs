@@ -1,3 +1,11 @@
+---
+title: "Beware   Tycoon2FA  Phishing Attack Targets Microsoft 365 Users b2cd958a6276"
+platform: Medium
+original_file: 2025-05-31_Beware---Tycoon2FA--Phishing-Attack-Targets-Microsoft-365-Users-b2cd958a6276.md
+---
+
+# Beware   Tycoon2FA  Phishing Attack Targets Microsoft 365 Users b2cd958a6276
+
 ::: {}
 # Beware! "Tycoon2FA" Phishing Attack Targets Microsoft 365 Users {#beware-tycoon2fa-phishing-attack-targets-microsoft-365-users .p-name}
 :::

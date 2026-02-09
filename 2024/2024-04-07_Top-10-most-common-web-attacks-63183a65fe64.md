@@ -1,3 +1,11 @@
+---
+title: "Top 10 most common web attacks 63183a65fe64"
+platform: Medium
+original_file: 2024-04-07_Top-10-most-common-web-attacks-63183a65fe64.md
+---
+
+# Top 10 most common web attacks 63183a65fe64
+
 ::: {}
 # Top 10 most common web attacks {#top-10-most-common-web-attacks .p-name}
 :::

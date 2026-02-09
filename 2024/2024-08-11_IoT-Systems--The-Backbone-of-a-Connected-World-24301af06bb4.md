@@ -1,3 +1,11 @@
+---
+title: "IoT Systems  The Backbone of a Connected World 24301af06bb4"
+platform: Medium
+original_file: 2024-08-11_IoT-Systems--The-Backbone-of-a-Connected-World-24301af06bb4.md
+---
+
+# IoT Systems  The Backbone of a Connected World 24301af06bb4
+
 ::: {}
 # IoT Systems: The Backbone of a Connected World {#iot-systems-the-backbone-of-a-connected-world .p-name}
 :::

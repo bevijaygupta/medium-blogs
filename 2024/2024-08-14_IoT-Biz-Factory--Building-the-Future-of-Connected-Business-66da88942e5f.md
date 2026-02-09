@@ -1,3 +1,11 @@
+---
+title: "IoT Biz Factory  Building the Future of Connected Business 66da88942e5f"
+platform: Medium
+original_file: 2024-08-14_IoT-Biz-Factory--Building-the-Future-of-Connected-Business-66da88942e5f.md
+---
+
+# IoT Biz Factory  Building the Future of Connected Business 66da88942e5f
+
 ::: {}
 # IoT Biz Factory: Building the Future of Connected Business {#iot-biz-factory-building-the-future-of-connected-business .p-name}
 :::

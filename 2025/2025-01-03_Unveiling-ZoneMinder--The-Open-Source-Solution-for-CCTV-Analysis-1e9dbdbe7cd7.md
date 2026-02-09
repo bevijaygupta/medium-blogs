@@ -1,3 +1,11 @@
+---
+title: "Unveiling ZoneMinder  The Open Source Solution for CCTV Analysis 1e9dbdbe7cd7"
+platform: Medium
+original_file: 2025-01-03_Unveiling-ZoneMinder--The-Open-Source-Solution-for-CCTV-Analysis-1e9dbdbe7cd7.md
+---
+
+# Unveiling ZoneMinder  The Open Source Solution for CCTV Analysis 1e9dbdbe7cd7
+
 ::: {}
 # Unveiling ZoneMinder: The Open-Source Solution for CCTV Analysis {#unveiling-zoneminder-the-open-source-solution-for-cctv-analysis .p-name}
 :::

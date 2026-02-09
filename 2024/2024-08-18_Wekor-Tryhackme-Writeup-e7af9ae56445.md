@@ -1,3 +1,11 @@
+---
+title: "Wekor Tryhackme Writeup e7af9ae56445"
+platform: Medium
+original_file: 2024-08-18_Wekor-Tryhackme-Writeup-e7af9ae56445.md
+---
+
+# Wekor Tryhackme Writeup e7af9ae56445
+
 ::: {}
 # Wekor Tryhackme Writeup {#wekor-tryhackme-writeup .p-name}
 :::

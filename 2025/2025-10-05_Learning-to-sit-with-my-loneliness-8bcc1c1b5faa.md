@@ -1,3 +1,11 @@
+---
+title: "Learning to sit with my loneliness 8bcc1c1b5faa"
+platform: Medium
+original_file: 2025-10-05_Learning-to-sit-with-my-loneliness-8bcc1c1b5faa.md
+---
+
+# Learning to sit with my loneliness 8bcc1c1b5faa
+
 ::: {}
 # Learning to sit with my loneliness {#learning-to-sit-with-my-loneliness .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Leading the Next Generation of Cybersecurity 8f7e1f76447c"
+platform: Medium
+original_file: 2024-12-23_Leading-the-Next-Generation-of-Cybersecurity-8f7e1f76447c.md
+---
+
+# Leading the Next Generation of Cybersecurity 8f7e1f76447c
+
 ::: {}
 # Leading the Next Generation of Cybersecurity {#leading-the-next-generation-of-cybersecurity .p-name}
 :::

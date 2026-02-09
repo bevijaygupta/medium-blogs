@@ -1,3 +1,11 @@
+---
+title: "A Day in the Life of a SOC Analyst 670496d11572"
+platform: Medium
+original_file: 2025-05-04_A-Day-in-the-Life-of-a-SOC-Analyst-670496d11572.md
+---
+
+# A Day in the Life of a SOC Analyst 670496d11572
+
 ::: {}
 # A Day in the Life of a SOC Analyst {#a-day-in-the-life-of-a-soc-analyst .p-name}
 :::

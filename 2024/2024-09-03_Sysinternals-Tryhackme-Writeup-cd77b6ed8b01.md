@@ -1,3 +1,11 @@
+---
+title: "Sysinternals Tryhackme Writeup cd77b6ed8b01"
+platform: Medium
+original_file: 2024-09-03_Sysinternals-Tryhackme-Writeup-cd77b6ed8b01.md
+---
+
+# Sysinternals Tryhackme Writeup cd77b6ed8b01
+
 ::: {}
 # Sysinternals Tryhackme Writeup {#sysinternals-tryhackme-writeup .p-name}
 :::

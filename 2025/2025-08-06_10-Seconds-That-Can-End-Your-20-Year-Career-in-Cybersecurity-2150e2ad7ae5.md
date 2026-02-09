@@ -1,3 +1,11 @@
+---
+title: "10 Seconds That Can End Your 20 Year Career in Cybersecurity 2150e2ad7ae5"
+platform: Medium
+original_file: 2025-08-06_10-Seconds-That-Can-End-Your-20-Year-Career-in-Cybersecurity-2150e2ad7ae5.md
+---
+
+# 10 Seconds That Can End Your 20 Year Career in Cybersecurity 2150e2ad7ae5
+
 ::: {}
 # 10 Seconds That Can End Your 20-Year Career in Cybersecurity {#seconds-that-can-end-your-20-year-career-in-cybersecurity .p-name}
 :::

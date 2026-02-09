@@ -1,3 +1,11 @@
+---
+title: "More Money  Less Control  The Trade Off No One Talks About 5157766ead12"
+platform: Medium
+original_file: 2026-01-06_More-Money--Less-Control--The-Trade-Off-No-One-Talks-About-5157766ead12.md
+---
+
+# More Money  Less Control  The Trade Off No One Talks About 5157766ead12
+
 ::: {}
 # More Money, Less Control: The Trade-Off No One Talks About {#more-money-less-control-the-trade-off-no-one-talks-about .p-name}
 :::

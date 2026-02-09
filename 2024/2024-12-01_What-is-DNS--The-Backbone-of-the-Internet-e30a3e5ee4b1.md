@@ -1,3 +1,11 @@
+---
+title: "What is DNS  The Backbone of the Internet e30a3e5ee4b1"
+platform: Medium
+original_file: 2024-12-01_What-is-DNS--The-Backbone-of-the-Internet-e30a3e5ee4b1.md
+---
+
+# What is DNS  The Backbone of the Internet e30a3e5ee4b1
+
 ::: {}
 # What is DNS? The Backbone of the Internet {#what-is-dns-the-backbone-of-the-internet .p-name}
 :::

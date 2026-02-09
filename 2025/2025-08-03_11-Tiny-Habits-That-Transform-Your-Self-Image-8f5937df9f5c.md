@@ -1,3 +1,11 @@
+---
+title: "11 Tiny Habits That Transform Your Self Image 8f5937df9f5c"
+platform: Medium
+original_file: 2025-08-03_11-Tiny-Habits-That-Transform-Your-Self-Image-8f5937df9f5c.md
+---
+
+# 11 Tiny Habits That Transform Your Self Image 8f5937df9f5c
+
 ::: {}
 # 11 Tiny Habits That Transform Your Self-Image {#tiny-habits-that-transform-your-self-image .p-name}
 :::

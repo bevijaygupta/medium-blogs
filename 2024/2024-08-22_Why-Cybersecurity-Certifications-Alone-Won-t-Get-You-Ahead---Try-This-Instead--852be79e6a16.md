@@ -1,3 +1,11 @@
+---
+title: "Why Cybersecurity Certifications Alone Won t Get You Ahead   Try This Instead  852be79e6a16"
+platform: Medium
+original_file: 2024-08-22_Why-Cybersecurity-Certifications-Alone-Won-t-Get-You-Ahead---Try-This-Instead--852be79e6a16.md
+---
+
+# Why Cybersecurity Certifications Alone Won t Get You Ahead   Try This Instead  852be79e6a16
+
 ::: {}
 # Why Cybersecurity Certifications Alone Won't Get You Ahead --- Try This Instead! {#why-cybersecurity-certifications-alone-wont-get-you-ahead-try-this-instead .p-name}
 :::

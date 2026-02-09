@@ -1,3 +1,11 @@
+---
+title: "JPEG Files Weaponized to Attack Windows Systems via  mspaint exe  d5a6dcfbe2fb"
+platform: Medium
+original_file: 2025-08-04_JPEG-Files-Weaponized-to-Attack-Windows-Systems-via--mspaint-exe--d5a6dcfbe2fb.md
+---
+
+# JPEG Files Weaponized to Attack Windows Systems via  mspaint exe  d5a6dcfbe2fb
+
 ::: {}
 # JPEG Files Weaponized to Attack Windows Systems via "mspaint.exe" {#jpeg-files-weaponized-to-attack-windows-systems-via-mspaint.exe .p-name}
 :::

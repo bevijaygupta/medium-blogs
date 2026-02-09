@@ -1,3 +1,11 @@
+---
+title: "Why Experienced Programmers Fail Coding Interviews 20efd6146822"
+platform: Medium
+original_file: 2024-09-07_Why-Experienced-Programmers-Fail-Coding-Interviews-20efd6146822.md
+---
+
+# Why Experienced Programmers Fail Coding Interviews 20efd6146822
+
 ::: {}
 # Why Experienced Programmers Fail Coding Interviews {#why-experienced-programmers-fail-coding-interviews .p-name}
 :::

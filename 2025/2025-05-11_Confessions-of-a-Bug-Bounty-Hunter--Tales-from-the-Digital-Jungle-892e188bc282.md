@@ -1,3 +1,11 @@
+---
+title: "Confessions of a Bug Bounty Hunter  Tales from the Digital Jungle 892e188bc282"
+platform: Medium
+original_file: 2025-05-11_Confessions-of-a-Bug-Bounty-Hunter--Tales-from-the-Digital-Jungle-892e188bc282.md
+---
+
+# Confessions of a Bug Bounty Hunter  Tales from the Digital Jungle 892e188bc282
+
 ::: {}
 # Confessions of a Bug Bounty Hunter: Tales from the Digital Jungle {#confessions-of-a-bug-bounty-hunter-tales-from-the-digital-jungle .p-name}
 :::

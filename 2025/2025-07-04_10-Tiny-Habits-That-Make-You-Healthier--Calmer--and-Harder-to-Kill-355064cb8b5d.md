@@ -1,3 +1,11 @@
+---
+title: "10 Tiny Habits That Make You Healthier  Calmer  and Harder to Kill 355064cb8b5d"
+platform: Medium
+original_file: 2025-07-04_10-Tiny-Habits-That-Make-You-Healthier--Calmer--and-Harder-to-Kill-355064cb8b5d.md
+---
+
+# 10 Tiny Habits That Make You Healthier  Calmer  and Harder to Kill 355064cb8b5d
+
 ::: {}
 # 10 Tiny Habits That Make You Healthier, Calmer, and Harder to Kill {#tiny-habits-that-make-you-healthier-calmer-and-harder-to-kill .p-name}
 :::

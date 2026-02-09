@@ -1,3 +1,11 @@
+---
+title: "Password Reset Glitch Leads to Instant Account Takeover a4e67b667eaf"
+platform: Medium
+original_file: 2024-08-26_Password-Reset-Glitch-Leads-to-Instant-Account-Takeover-a4e67b667eaf.md
+---
+
+# Password Reset Glitch Leads to Instant Account Takeover a4e67b667eaf
+
 ::: {}
 # Password Reset Glitch Leads to Instant Account Takeover {#password-reset-glitch-leads-to-instant-account-takeover .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Certs vs Experience in IT   Cyber Security  How Employers Really Weigh Them a1c579b3bcfe"
+platform: Medium
+original_file: 2025-11-03_Certs-vs-Experience-in-IT---Cyber-Security--How-Employers-Really-Weigh-Them-a1c579b3bcfe.md
+---
+
+# Certs vs Experience in IT   Cyber Security  How Employers Really Weigh Them a1c579b3bcfe
+
 ::: {}
 # Certs vs Experience in IT & Cyber Security: How Employers Really Weigh Them {#certs-vs-experience-in-it-cyber-security-how-employers-really-weigh-them .p-name}
 :::

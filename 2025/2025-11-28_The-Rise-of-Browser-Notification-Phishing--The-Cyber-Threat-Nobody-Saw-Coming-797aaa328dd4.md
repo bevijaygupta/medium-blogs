@@ -1,3 +1,11 @@
+---
+title: "The Rise of Browser Notification Phishing  The Cyber Threat Nobody Saw Coming 797aaa328dd4"
+platform: Medium
+original_file: 2025-11-28_The-Rise-of-Browser-Notification-Phishing--The-Cyber-Threat-Nobody-Saw-Coming-797aaa328dd4.md
+---
+
+# The Rise of Browser Notification Phishing  The Cyber Threat Nobody Saw Coming 797aaa328dd4
+
 ::: {}
 # The Rise of Browser Notification Phishing: The Cyber Threat Nobody Saw Coming {#the-rise-of-browser-notification-phishing-the-cyber-threat-nobody-saw-coming .p-name}
 :::

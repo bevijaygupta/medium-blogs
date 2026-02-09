@@ -1,3 +1,11 @@
+---
+title: "10 Unexpected Psychology Facts That Reveal How Our Minds Work 87b5b24bbbb9"
+platform: Medium
+original_file: 2025-06-18_10-Unexpected-Psychology-Facts-That-Reveal-How-Our-Minds-Work-87b5b24bbbb9.md
+---
+
+# 10 Unexpected Psychology Facts That Reveal How Our Minds Work 87b5b24bbbb9
+
 ::: {}
 # 10 Unexpected Psychology Facts That Reveal How Our Minds Work {#unexpected-psychology-facts-that-reveal-how-our-minds-work .p-name}
 :::

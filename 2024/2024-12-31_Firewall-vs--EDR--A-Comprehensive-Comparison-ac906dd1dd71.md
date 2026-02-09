@@ -1,3 +1,11 @@
+---
+title: "Firewall vs  EDR  A Comprehensive Comparison ac906dd1dd71"
+platform: Medium
+original_file: 2024-12-31_Firewall-vs--EDR--A-Comprehensive-Comparison-ac906dd1dd71.md
+---
+
+# Firewall vs  EDR  A Comprehensive Comparison ac906dd1dd71
+
 ::: {}
 # Firewall vs. EDR: A Comprehensive Comparison {#firewall-vs.-edr-a-comprehensive-comparison .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Value People Over Positions  A Stark Reminder About Corporate Life c79c502a39da"
+platform: Medium
+original_file: 2024-12-25_Value-People-Over-Positions--A-Stark-Reminder-About-Corporate-Life-c79c502a39da.md
+---
+
+# Value People Over Positions  A Stark Reminder About Corporate Life c79c502a39da
+
 ::: {}
 # Value People Over Positions: A Stark Reminder About Corporate Life {#value-people-over-positions-a-stark-reminder-about-corporate-life .p-name}
 :::

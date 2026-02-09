@@ -1,3 +1,11 @@
+---
+title: "What Every Investigator Should Know 0e6e11eb7432"
+platform: Medium
+original_file: 2024-11-19_What-Every-Investigator-Should-Know-0e6e11eb7432.md
+---
+
+# What Every Investigator Should Know 0e6e11eb7432
+
 ::: {}
 # What Every Investigator Should Know {#what-every-investigator-should-know .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "After Sending Over 1 Million Cold Emails in 3 Months  Here s What Most Founders Get Wrong 48d297642a37"
+platform: Medium
+original_file: 2025-12-24_After-Sending-Over-1-Million-Cold-Emails-in-3-Months--Here-s-What-Most-Founders-Get-Wrong-48d297642a37.md
+---
+
+# After Sending Over 1 Million Cold Emails in 3 Months  Here s What Most Founders Get Wrong 48d297642a37
+
 ::: {}
 # After Sending Over 1 Million Cold Emails in 3 Months, Here's What Most Founders Get Wrong {#after-sending-over-1-million-cold-emails-in-3-months-heres-what-most-founders-get-wrong .p-name}
 :::

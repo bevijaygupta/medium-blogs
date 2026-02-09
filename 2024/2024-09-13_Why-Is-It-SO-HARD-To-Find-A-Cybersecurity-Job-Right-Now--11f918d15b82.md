@@ -1,3 +1,11 @@
+---
+title: "Why Is It SO HARD To Find A Cybersecurity Job Right Now  11f918d15b82"
+platform: Medium
+original_file: 2024-09-13_Why-Is-It-SO-HARD-To-Find-A-Cybersecurity-Job-Right-Now--11f918d15b82.md
+---
+
+# Why Is It SO HARD To Find A Cybersecurity Job Right Now  11f918d15b82
+
 ::: {}
 # Why Is It SO HARD To Find A Cybersecurity Job Right Now? {#why-is-it-so-hard-to-find-a-cybersecurity-job-right-now .p-name}
 :::

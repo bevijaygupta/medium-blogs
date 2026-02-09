@@ -1,3 +1,11 @@
+---
+title: "Cloud Security Practices  A Comprehensive Guide f7bbdabfbd01"
+platform: Medium
+original_file: 2024-06-26_Cloud-Security-Practices--A-Comprehensive-Guide-f7bbdabfbd01.md
+---
+
+# Cloud Security Practices  A Comprehensive Guide f7bbdabfbd01
+
 ::: {}
 # Cloud Security Practices: A Comprehensive Guide {#cloud-security-practices-a-comprehensive-guide .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "7 Signs You re Ready to Be a Leader b3d91a181a17"
+platform: Medium
+original_file: 2025-08-15_7-Signs-You-re-Ready-to-Be-a-Leader-b3d91a181a17.md
+---
+
+# 7 Signs You re Ready to Be a Leader b3d91a181a17
+
 ::: {}
 # 7 Signs You're Ready to Be a Leader {#signs-youre-ready-to-be-a-leader .p-name}
 :::

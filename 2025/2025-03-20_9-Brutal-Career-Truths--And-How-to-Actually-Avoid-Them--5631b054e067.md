@@ -1,3 +1,11 @@
+---
+title: "9 Brutal Career Truths  And How to Actually Avoid Them  5631b054e067"
+platform: Medium
+original_file: 2025-03-20_9-Brutal-Career-Truths--And-How-to-Actually-Avoid-Them--5631b054e067.md
+---
+
+# 9 Brutal Career Truths  And How to Actually Avoid Them  5631b054e067
+
 ::: {}
 # 9 Brutal Career Truths (And How to Actually Avoid Them) {#brutal-career-truths-and-how-to-actually-avoid-them .p-name}
 :::

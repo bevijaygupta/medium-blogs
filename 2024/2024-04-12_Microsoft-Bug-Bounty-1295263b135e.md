@@ -1,3 +1,11 @@
+---
+title: "Microsoft Bug Bounty 1295263b135e"
+platform: Medium
+original_file: 2024-04-12_Microsoft-Bug-Bounty-1295263b135e.md
+---
+
+# Microsoft Bug Bounty 1295263b135e
+
 ::: {}
 # Microsoft Bug Bounty {#microsoft-bug-bounty .p-name}
 :::

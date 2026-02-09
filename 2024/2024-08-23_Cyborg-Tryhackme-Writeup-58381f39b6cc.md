@@ -1,3 +1,11 @@
+---
+title: "Cyborg Tryhackme Writeup 58381f39b6cc"
+platform: Medium
+original_file: 2024-08-23_Cyborg-Tryhackme-Writeup-58381f39b6cc.md
+---
+
+# Cyborg Tryhackme Writeup 58381f39b6cc
+
 ::: {}
 # Cyborg Tryhackme Writeup {#cyborg-tryhackme-writeup .p-name}
 :::

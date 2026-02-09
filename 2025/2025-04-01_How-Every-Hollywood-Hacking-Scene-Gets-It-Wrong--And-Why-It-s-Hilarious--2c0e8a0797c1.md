@@ -1,3 +1,11 @@
+---
+title: "How Every Hollywood Hacking Scene Gets It Wrong  And Why It s Hilarious  2c0e8a0797c1"
+platform: Medium
+original_file: 2025-04-01_How-Every-Hollywood-Hacking-Scene-Gets-It-Wrong--And-Why-It-s-Hilarious--2c0e8a0797c1.md
+---
+
+# How Every Hollywood Hacking Scene Gets It Wrong  And Why It s Hilarious  2c0e8a0797c1
+
 ::: {}
 # How Every Hollywood Hacking Scene Gets It Wrong (And Why It's Hilarious) {#how-every-hollywood-hacking-scene-gets-it-wrong-and-why-its-hilarious .p-name}
 :::

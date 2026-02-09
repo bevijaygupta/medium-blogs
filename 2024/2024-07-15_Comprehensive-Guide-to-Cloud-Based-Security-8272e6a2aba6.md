@@ -1,3 +1,11 @@
+---
+title: "Comprehensive Guide to Cloud Based Security 8272e6a2aba6"
+platform: Medium
+original_file: 2024-07-15_Comprehensive-Guide-to-Cloud-Based-Security-8272e6a2aba6.md
+---
+
+# Comprehensive Guide to Cloud Based Security 8272e6a2aba6
+
 ::: {}
 # Comprehensive Guide to Cloud-Based Security {#comprehensive-guide-to-cloud-based-security .p-name}
 :::

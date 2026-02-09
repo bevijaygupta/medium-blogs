@@ -1,3 +1,11 @@
+---
+title: "API Fuzzing for Bug Bounty  Unlock the Secrets of Vulnerable APIs d8b297280caa"
+platform: Medium
+original_file: 2025-01-04_API-Fuzzing-for-Bug-Bounty--Unlock-the-Secrets-of-Vulnerable-APIs-d8b297280caa.md
+---
+
+# API Fuzzing for Bug Bounty  Unlock the Secrets of Vulnerable APIs d8b297280caa
+
 ::: {}
 # API Fuzzing for Bug Bounty: Unlock the Secrets of Vulnerable APIs {#api-fuzzing-for-bug-bounty-unlock-the-secrets-of-vulnerable-apis .p-name}
 :::

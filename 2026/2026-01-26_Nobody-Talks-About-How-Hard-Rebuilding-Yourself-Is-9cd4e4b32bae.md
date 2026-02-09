@@ -1,3 +1,11 @@
+---
+title: "Nobody Talks About How Hard Rebuilding Yourself Is 9cd4e4b32bae"
+platform: Medium
+original_file: 2026-01-26_Nobody-Talks-About-How-Hard-Rebuilding-Yourself-Is-9cd4e4b32bae.md
+---
+
+# Nobody Talks About How Hard Rebuilding Yourself Is 9cd4e4b32bae
+
 ::: {}
 # Nobody Talks About How Hard Rebuilding Yourself Is {#nobody-talks-about-how-hard-rebuilding-yourself-is .p-name}
 :::

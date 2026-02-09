@@ -1,3 +1,11 @@
+---
+title: "6 Japanese Techniques to Break Free from Laziness    8f499207caf3"
+platform: Medium
+original_file: 2025-01-13_6-Japanese-Techniques-to-Break-Free-from-Laziness----8f499207caf3.md
+---
+
+# 6 Japanese Techniques to Break Free from Laziness    8f499207caf3
+
 ::: {}
 # 6 Japanese Techniques to Break Free from Laziness 🐢 {#japanese-techniques-to-break-free-from-laziness .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Understanding Privacy Consent  A Key to Building Trust 5c3137127966"
+platform: Medium
+original_file: 2024-11-26_Understanding-Privacy-Consent--A-Key-to-Building-Trust-5c3137127966.md
+---
+
+# Understanding Privacy Consent  A Key to Building Trust 5c3137127966
+
 ::: {}
 # Understanding Privacy Consent: A Key to Building Trust {#understanding-privacy-consent-a-key-to-building-trust .p-name}
 :::

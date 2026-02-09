@@ -1,3 +1,11 @@
+---
+title: "Thanks so much for the kind words I m really glad you enjoyed the article  6b78d43933ea"
+platform: Medium
+original_file: 2025-04-06_Thanks-so-much-for-the-kind-words-I-m-really-glad-you-enjoyed-the-article--6b78d43933ea.md
+---
+
+# Thanks so much for the kind words I m really glad you enjoyed the article  6b78d43933ea
+
 ::: {}
 # Thanks so much for the kind words---I\'m really glad you enjoyed the article! {#thanks-so-much-for-the-kind-wordsim-really-glad-you-enjoyed-the-article .p-name}
 :::

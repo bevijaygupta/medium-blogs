@@ -1,3 +1,11 @@
+---
+title: "Security Rule  1  Don t Point Fingers     Patch Fingers  and Systems  Instead 121a81e4e844"
+platform: Medium
+original_file: 2025-09-08_Security-Rule--1--Don-t-Point-Fingers-----Patch-Fingers--and-Systems--Instead-121a81e4e844.md
+---
+
+# Security Rule  1  Don t Point Fingers     Patch Fingers  and Systems  Instead 121a81e4e844
+
 ::: {}
 # Security Rule #1: Don't Point Fingers 👆, Patch Fingers (and Systems) Instead {#security-rule-1-dont-point-fingers-patch-fingers-and-systems-instead .p-name}
 :::

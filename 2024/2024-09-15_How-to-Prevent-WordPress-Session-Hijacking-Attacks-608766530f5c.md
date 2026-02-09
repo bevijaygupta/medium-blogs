@@ -1,3 +1,11 @@
+---
+title: "How to Prevent WordPress Session Hijacking Attacks 608766530f5c"
+platform: Medium
+original_file: 2024-09-15_How-to-Prevent-WordPress-Session-Hijacking-Attacks-608766530f5c.md
+---
+
+# How to Prevent WordPress Session Hijacking Attacks 608766530f5c
+
 ::: {}
 # How to Prevent WordPress Session Hijacking Attacks {#how-to-prevent-wordpress-session-hijacking-attacks .p-name}
 :::

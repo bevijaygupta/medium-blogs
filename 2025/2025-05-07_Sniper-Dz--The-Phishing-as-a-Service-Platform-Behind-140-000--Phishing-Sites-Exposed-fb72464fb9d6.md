@@ -1,3 +1,11 @@
+---
+title: "Sniper Dz  The Phishing as a Service Platform Behind 140 000  Phishing Sites Exposed fb72464fb9d6"
+platform: Medium
+original_file: 2025-05-07_Sniper-Dz--The-Phishing-as-a-Service-Platform-Behind-140-000--Phishing-Sites-Exposed-fb72464fb9d6.md
+---
+
+# Sniper Dz  The Phishing as a Service Platform Behind 140 000  Phishing Sites Exposed fb72464fb9d6
+
 ::: {}
 # Sniper Dz: The Phishing-as-a-Service Platform Behind 140,000+ Phishing Sites Exposed {#sniper-dz-the-phishing-as-a-service-platform-behind-140000-phishing-sites-exposed .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Cybersecurity Certs are Dead 08c23e07dc1f"
+platform: Medium
+original_file: 2024-08-30_Cybersecurity-Certs-are-Dead-08c23e07dc1f.md
+---
+
+# Cybersecurity Certs are Dead 08c23e07dc1f
+
 ::: {}
 # Cybersecurity Certs are Dead {#cybersecurity-certs-are-dead .p-name}
 :::

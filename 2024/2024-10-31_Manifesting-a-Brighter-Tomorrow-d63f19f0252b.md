@@ -1,3 +1,11 @@
+---
+title: "Manifesting a Brighter Tomorrow d63f19f0252b"
+platform: Medium
+original_file: 2024-10-31_Manifesting-a-Brighter-Tomorrow-d63f19f0252b.md
+---
+
+# Manifesting a Brighter Tomorrow d63f19f0252b
+
 ::: {}
 # Manifesting a Brighter Tomorrow {#manifesting-a-brighter-tomorrow .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "You Should Do Something Really  Really Hard This Year 0524d58aa45f"
+platform: Medium
+original_file: 2026-01-08_You-Should-Do-Something-Really--Really-Hard-This-Year-0524d58aa45f.md
+---
+
+# You Should Do Something Really  Really Hard This Year 0524d58aa45f
+
 ::: {}
 # You Should Do Something Really, Really Hard This Year {#you-should-do-something-really-really-hard-this-year .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "John The Ripper TryHackme Writeup e7d0ac9f965b"
+platform: Medium
+original_file: 2024-09-07_John-The-Ripper-TryHackme-Writeup-e7d0ac9f965b.md
+---
+
+# John The Ripper TryHackme Writeup e7d0ac9f965b
+
 ::: {}
 # John The Ripper TryHackme Writeup {#john-the-ripper-tryhackme-writeup .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "How to become a bug bounty hunter c607bb7de595"
+platform: Medium
+original_file: 2024-03-28_How-to-become-a-bug-bounty-hunter-c607bb7de595.md
+---
+
+# How to become a bug bounty hunter c607bb7de595
+
 ::: {}
 # How to become a bug bounty hunter {#how-to-become-a-bug-bounty-hunter .p-name}
 :::

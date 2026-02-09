@@ -1,3 +1,11 @@
+---
+title: "Do Hard Things if You Want an Easy Life  A Cybersecurity and Ethical Hacker s Perspective 8a9bad8b5e89"
+platform: Medium
+original_file: 2025-08-24_Do-Hard-Things-if-You-Want-an-Easy-Life--A-Cybersecurity-and-Ethical-Hacker-s-Perspective-8a9bad8b5e89.md
+---
+
+# Do Hard Things if You Want an Easy Life  A Cybersecurity and Ethical Hacker s Perspective 8a9bad8b5e89
+
 ::: {}
 # Do Hard Things if You Want an Easy Life: A Cybersecurity and Ethical Hacker's Perspective {#do-hard-things-if-you-want-an-easy-life-a-cybersecurity-and-ethical-hackers-perspective .p-name}
 :::

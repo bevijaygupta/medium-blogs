@@ -1,3 +1,11 @@
+---
+title: "Mastering the Craft of Hacking the Human Psyche 73456caa6d4a"
+platform: Medium
+original_file: 2024-10-19_Mastering-the-Craft-of-Hacking-the-Human-Psyche-73456caa6d4a.md
+---
+
+# Mastering the Craft of Hacking the Human Psyche 73456caa6d4a
+
 ::: {}
 # Mastering the Craft of Hacking the Human Psyche {#mastering-the-craft-of-hacking-the-human-psyche .p-name}
 :::

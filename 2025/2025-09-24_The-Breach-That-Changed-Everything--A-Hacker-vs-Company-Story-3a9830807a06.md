@@ -1,3 +1,11 @@
+---
+title: "The Breach That Changed Everything  A Hacker vs Company Story 3a9830807a06"
+platform: Medium
+original_file: 2025-09-24_The-Breach-That-Changed-Everything--A-Hacker-vs-Company-Story-3a9830807a06.md
+---
+
+# The Breach That Changed Everything  A Hacker vs Company Story 3a9830807a06
+
 ::: {}
 # The Breach That Changed Everything: A Hacker vs Company Story {#the-breach-that-changed-everything-a-hacker-vs-company-story .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Criticism and Growth  Embracing the Journey to Success 5e2cf2113e5d"
+platform: Medium
+original_file: 2024-10-29_Criticism-and-Growth--Embracing-the-Journey-to-Success-5e2cf2113e5d.md
+---
+
+# Criticism and Growth  Embracing the Journey to Success 5e2cf2113e5d
+
 ::: {}
 # Criticism and Growth: Embracing the Journey to Success {#criticism-and-growth-embracing-the-journey-to-success .p-name}
 :::

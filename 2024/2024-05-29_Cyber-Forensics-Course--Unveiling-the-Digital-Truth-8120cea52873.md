@@ -1,3 +1,11 @@
+---
+title: "Cyber Forensics Course  Unveiling the Digital Truth 8120cea52873"
+platform: Medium
+original_file: 2024-05-29_Cyber-Forensics-Course--Unveiling-the-Digital-Truth-8120cea52873.md
+---
+
+# Cyber Forensics Course  Unveiling the Digital Truth 8120cea52873
+
 ::: {}
 # Cyber Forensics Course: Unveiling the Digital Truth {#cyber-forensics-course-unveiling-the-digital-truth .p-name}
 :::

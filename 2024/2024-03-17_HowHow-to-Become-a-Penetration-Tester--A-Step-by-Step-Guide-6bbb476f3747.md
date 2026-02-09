@@ -1,3 +1,11 @@
+---
+title: "HowHow to Become a Penetration Tester  A Step by Step Guide 6bbb476f3747"
+platform: Medium
+original_file: 2024-03-17_HowHow-to-Become-a-Penetration-Tester--A-Step-by-Step-Guide-6bbb476f3747.md
+---
+
+# HowHow to Become a Penetration Tester  A Step by Step Guide 6bbb476f3747
+
 ::: {}
 # HowHow to Become a Penetration Tester: A Step-by-Step Guide {#howhow-to-become-a-penetration-tester-a-step-by-step-guide .p-name}
 :::

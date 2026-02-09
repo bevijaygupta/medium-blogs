@@ -1,3 +1,11 @@
+---
+title: "Using Metasploit Framework on Kali Linux  A Step by Step Guide d47396f9dacd"
+platform: Medium
+original_file: 2024-10-14_Using-Metasploit-Framework-on-Kali-Linux--A-Step-by-Step-Guide-d47396f9dacd.md
+---
+
+# Using Metasploit Framework on Kali Linux  A Step by Step Guide d47396f9dacd
+
 ::: {}
 # Using Metasploit Framework on Kali Linux: A Step-by-Step Guide {#using-metasploit-framework-on-kali-linux-a-step-by-step-guide .p-name}
 :::

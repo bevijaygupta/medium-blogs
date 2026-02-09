@@ -1,3 +1,11 @@
+---
+title: "9 Mindset Shifts High Performers Swear By 838c0883e11a"
+platform: Medium
+original_file: 2024-11-30_9-Mindset-Shifts-High-Performers-Swear-By-838c0883e11a.md
+---
+
+# 9 Mindset Shifts High Performers Swear By 838c0883e11a
+
 ::: {}
 # 9 Mindset Shifts High Performers Swear By {#mindset-shifts-high-performers-swear-by .p-name}
 :::

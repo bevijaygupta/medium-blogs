@@ -1,3 +1,11 @@
+---
+title: "Bash Scripting Tryhackme writeup 9336fbf488fb"
+platform: Medium
+original_file: 2024-08-24_Bash-Scripting-Tryhackme-writeup-9336fbf488fb.md
+---
+
+# Bash Scripting Tryhackme writeup 9336fbf488fb
+
 ::: {}
 # Bash Scripting Tryhackme writeup {#bash-scripting-tryhackme-writeup .p-name}
 :::

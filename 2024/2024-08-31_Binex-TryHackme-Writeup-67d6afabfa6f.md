@@ -1,3 +1,11 @@
+---
+title: "Binex TryHackme Writeup 67d6afabfa6f"
+platform: Medium
+original_file: 2024-08-31_Binex-TryHackme-Writeup-67d6afabfa6f.md
+---
+
+# Binex TryHackme Writeup 67d6afabfa6f
+
 ::: {}
 # Binex TryHackme Writeup {#binex-tryhackme-writeup .p-name}
 :::

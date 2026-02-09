@@ -1,3 +1,11 @@
+---
+title: "Podcasting  More Than Just a Show 823c9687e4ce"
+platform: Medium
+original_file: 2024-09-30_Podcasting--More-Than-Just-a-Show-823c9687e4ce.md
+---
+
+# Podcasting  More Than Just a Show 823c9687e4ce
+
 ::: {}
 # Podcasting: More Than Just a Show {#podcasting-more-than-just-a-show .p-name}
 :::

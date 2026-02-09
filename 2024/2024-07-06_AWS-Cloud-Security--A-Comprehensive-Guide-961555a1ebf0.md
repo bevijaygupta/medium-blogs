@@ -1,3 +1,11 @@
+---
+title: "AWS Cloud Security  A Comprehensive Guide 961555a1ebf0"
+platform: Medium
+original_file: 2024-07-06_AWS-Cloud-Security--A-Comprehensive-Guide-961555a1ebf0.md
+---
+
+# AWS Cloud Security  A Comprehensive Guide 961555a1ebf0
+
 ::: {}
 # AWS Cloud Security: A Comprehensive Guide {#aws-cloud-security-a-comprehensive-guide .p-name}
 :::

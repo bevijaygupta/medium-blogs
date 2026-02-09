@@ -1,3 +1,11 @@
+---
+title: "The Ocean Takes Care of Each Wave d0806bb4c1ca"
+platform: Medium
+original_file: 2024-11-21_The-Ocean-Takes-Care-of-Each-Wave-d0806bb4c1ca.md
+---
+
+# The Ocean Takes Care of Each Wave d0806bb4c1ca
+
 ::: {}
 # The Ocean Takes Care of Each Wave {#the-ocean-takes-care-of-each-wave .p-name}
 :::

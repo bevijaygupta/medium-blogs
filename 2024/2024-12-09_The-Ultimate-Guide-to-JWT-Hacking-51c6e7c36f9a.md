@@ -1,3 +1,11 @@
+---
+title: "The Ultimate Guide to JWT Hacking 51c6e7c36f9a"
+platform: Medium
+original_file: 2024-12-09_The-Ultimate-Guide-to-JWT-Hacking-51c6e7c36f9a.md
+---
+
+# The Ultimate Guide to JWT Hacking 51c6e7c36f9a
+
 ::: {}
 # The Ultimate Guide to JWT Hacking {#the-ultimate-guide-to-jwt-hacking .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Cloud Security Architect  A Comprehensive Guide 55fdd9293664"
+platform: Medium
+original_file: 2024-06-20_Cloud-Security-Architect--A-Comprehensive-Guide-55fdd9293664.md
+---
+
+# Cloud Security Architect  A Comprehensive Guide 55fdd9293664
+
 ::: {}
 # Cloud Security Architect: A Comprehensive Guide {#cloud-security-architect-a-comprehensive-guide .p-name}
 :::

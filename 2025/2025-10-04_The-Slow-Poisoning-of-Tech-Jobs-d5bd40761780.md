@@ -1,3 +1,11 @@
+---
+title: "The Slow Poisoning of Tech Jobs d5bd40761780"
+platform: Medium
+original_file: 2025-10-04_The-Slow-Poisoning-of-Tech-Jobs-d5bd40761780.md
+---
+
+# The Slow Poisoning of Tech Jobs d5bd40761780
+
 ::: {}
 # The Slow Poisoning of Tech Jobs {#the-slow-poisoning-of-tech-jobs .p-name}
 :::

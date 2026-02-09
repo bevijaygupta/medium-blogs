@@ -1,3 +1,11 @@
+---
+title: "When You Realize Your Webcam Might Be Watching You    ed8a77b8c5cf"
+platform: Medium
+original_file: 2025-04-26_When-You-Realize-Your-Webcam-Might-Be-Watching-You----ed8a77b8c5cf.md
+---
+
+# When You Realize Your Webcam Might Be Watching You    ed8a77b8c5cf
+
 ::: {}
 # When You Realize Your Webcam Might Be Watching You 👀 {#when-you-realize-your-webcam-might-be-watching-you .p-name}
 :::

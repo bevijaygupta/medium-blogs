@@ -1,3 +1,11 @@
+---
+title: "Quiet Performers  Loud Neglect  A Workplace Reality We Ignore ae1dfab022fd"
+platform: Medium
+original_file: 2025-12-18_Quiet-Performers--Loud-Neglect--A-Workplace-Reality-We-Ignore-ae1dfab022fd.md
+---
+
+# Quiet Performers  Loud Neglect  A Workplace Reality We Ignore ae1dfab022fd
+
 ::: {}
 # Quiet Performers, Loud Neglect: A Workplace Reality We Ignore {#quiet-performers-loud-neglect-a-workplace-reality-we-ignore .p-name}
 :::

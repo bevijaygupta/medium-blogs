@@ -1,3 +1,11 @@
+---
+title: "Success Without Applause  What Founders  Parents  and Gen Z Must Understand About Real Leadership fadc2e0c2e78"
+platform: Medium
+original_file: 2025-12-26_Success-Without-Applause--What-Founders--Parents--and-Gen-Z-Must-Understand-About-Real-Leadership-fadc2e0c2e78.md
+---
+
+# Success Without Applause  What Founders  Parents  and Gen Z Must Understand About Real Leadership fadc2e0c2e78
+
 ::: {}
 # Success Without Applause: What Founders, Parents, and Gen Z Must Understand About Real Leadership {#success-without-applause-what-founders-parents-and-gen-z-must-understand-about-real-leadership .p-name}
 :::

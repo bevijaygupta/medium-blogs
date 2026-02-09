@@ -1,3 +1,11 @@
+---
+title: "Trying to Explain Phishing to Your Parents Like  785aa70f092d"
+platform: Medium
+original_file: 2025-05-01_Trying-to-Explain-Phishing-to-Your-Parents-Like--785aa70f092d.md
+---
+
+# Trying to Explain Phishing to Your Parents Like  785aa70f092d
+
 ::: {}
 # Trying to Explain Phishing to Your Parents Like... {#trying-to-explain-phishing-to-your-parents-like .p-name}
 :::

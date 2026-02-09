@@ -1,3 +1,11 @@
+---
+title: "What If I Want Too Many Things But End Up As Nothing  5d5409c21944"
+platform: Medium
+original_file: 2025-12-02_What-If-I-Want-Too-Many-Things-But-End-Up-As-Nothing--5d5409c21944.md
+---
+
+# What If I Want Too Many Things But End Up As Nothing  5d5409c21944
+
 ::: {}
 # What If I Want Too Many Things But End Up As Nothing? {#what-if-i-want-too-many-things-but-end-up-as-nothing .p-name}
 :::

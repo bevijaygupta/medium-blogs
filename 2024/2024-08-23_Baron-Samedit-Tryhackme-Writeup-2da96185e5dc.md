@@ -1,3 +1,11 @@
+---
+title: "Baron Samedit Tryhackme Writeup 2da96185e5dc"
+platform: Medium
+original_file: 2024-08-23_Baron-Samedit-Tryhackme-Writeup-2da96185e5dc.md
+---
+
+# Baron Samedit Tryhackme Writeup 2da96185e5dc
+
 ::: {}
 # Baron Samedit Tryhackme Writeup {#baron-samedit-tryhackme-writeup .p-name}
 :::

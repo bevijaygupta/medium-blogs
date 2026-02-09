@@ -1,3 +1,11 @@
+---
+title: "Future Proof Careers in the Age of AI  What You Should Learn in 2026 6e58aaa67531"
+platform: Medium
+original_file: 2026-01-24_Future-Proof-Careers-in-the-Age-of-AI--What-You-Should-Learn-in-2026-6e58aaa67531.md
+---
+
+# Future Proof Careers in the Age of AI  What You Should Learn in 2026 6e58aaa67531
+
 ::: {}
 # Future-Proof Careers in the Age of AI: What You Should Learn in 2026 {#future-proof-careers-in-the-age-of-ai-what-you-should-learn-in-2026 .p-name}
 :::

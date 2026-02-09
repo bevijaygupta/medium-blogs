@@ -1,3 +1,11 @@
+---
+title: "If Discipline Feels Like Punishment  You re Doing It Wrong 1cb0a0502147"
+platform: Medium
+original_file: 2025-10-03_If-Discipline-Feels-Like-Punishment--You-re-Doing-It-Wrong-1cb0a0502147.md
+---
+
+# If Discipline Feels Like Punishment  You re Doing It Wrong 1cb0a0502147
+
 ::: {}
 # If Discipline Feels Like Punishment, You're Doing It Wrong {#if-discipline-feels-like-punishment-youre-doing-it-wrong .p-name}
 :::

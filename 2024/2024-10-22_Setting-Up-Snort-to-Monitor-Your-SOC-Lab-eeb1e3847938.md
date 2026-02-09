@@ -1,3 +1,11 @@
+---
+title: "Setting Up Snort to Monitor Your SOC Lab eeb1e3847938"
+platform: Medium
+original_file: 2024-10-22_Setting-Up-Snort-to-Monitor-Your-SOC-Lab-eeb1e3847938.md
+---
+
+# Setting Up Snort to Monitor Your SOC Lab eeb1e3847938
+
 ::: {}
 # Setting Up Snort to Monitor Your SOC Lab {#setting-up-snort-to-monitor-your-soc-lab .p-name}
 :::

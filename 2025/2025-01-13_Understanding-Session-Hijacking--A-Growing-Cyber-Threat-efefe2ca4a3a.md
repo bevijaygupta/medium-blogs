@@ -1,3 +1,11 @@
+---
+title: "Understanding Session Hijacking  A Growing Cyber Threat efefe2ca4a3a"
+platform: Medium
+original_file: 2025-01-13_Understanding-Session-Hijacking--A-Growing-Cyber-Threat-efefe2ca4a3a.md
+---
+
+# Understanding Session Hijacking  A Growing Cyber Threat efefe2ca4a3a
+
 ::: {}
 # Understanding Session Hijacking: A Growing Cyber Threat {#understanding-session-hijacking-a-growing-cyber-threat .p-name}
 :::

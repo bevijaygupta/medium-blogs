@@ -1,3 +1,11 @@
+---
+title: "Trust in the Age of AI  A Cybersecurity Wake Up Call for Every Parent and Citizen in India fae96ebb5dae"
+platform: Medium
+original_file: 2025-07-24_Trust-in-the-Age-of-AI--A-Cybersecurity-Wake-Up-Call-for-Every-Parent-and-Citizen-in-India-fae96ebb5dae.md
+---
+
+# Trust in the Age of AI  A Cybersecurity Wake Up Call for Every Parent and Citizen in India fae96ebb5dae
+
 ::: {}
 # Trust in the Age of AI: A Cybersecurity Wake-Up Call for Every Parent and Citizen in India {#trust-in-the-age-of-ai-a-cybersecurity-wake-up-call-for-every-parent-and-citizen-in-india .p-name}
 :::

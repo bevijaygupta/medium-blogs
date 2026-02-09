@@ -1,3 +1,11 @@
+---
+title: "PayPal Bug Bounty 7838f8bc5e4b"
+platform: Medium
+original_file: 2024-04-16_PayPal-Bug-Bounty-7838f8bc5e4b.md
+---
+
+# PayPal Bug Bounty 7838f8bc5e4b
+
 ::: {}
 # PayPal Bug Bounty {#paypal-bug-bounty .p-name}
 :::

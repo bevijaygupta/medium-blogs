@@ -1,3 +1,11 @@
+---
+title: "Cryptography for Dummies Tryhackme Writeup 9e664365bf34"
+platform: Medium
+original_file: 2024-08-20_Cryptography-for-Dummies-Tryhackme-Writeup-9e664365bf34.md
+---
+
+# Cryptography for Dummies Tryhackme Writeup 9e664365bf34
+
 ::: {}
 # Cryptography for Dummies Tryhackme Writeup {#cryptography-for-dummies-tryhackme-writeup .p-name}
 :::

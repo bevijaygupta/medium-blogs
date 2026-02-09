@@ -1,3 +1,11 @@
+---
+title: "The Importance of Regular Updates in Kali Linux c9c3eb00df89"
+platform: Medium
+original_file: 2024-10-20_The-Importance-of-Regular-Updates-in-Kali-Linux-c9c3eb00df89.md
+---
+
+# The Importance of Regular Updates in Kali Linux c9c3eb00df89
+
 ::: {}
 # The Importance of Regular Updates in Kali Linux {#the-importance-of-regular-updates-in-kali-linux .p-name}
 :::

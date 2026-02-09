@@ -1,3 +1,11 @@
+---
+title: "What You Should Actually Focus On In 2026  Everything Else Is Noise  1b78df8938b6"
+platform: Medium
+original_file: 2026-01-01_What-You-Should-Actually-Focus-On-In-2026--Everything-Else-Is-Noise--1b78df8938b6.md
+---
+
+# What You Should Actually Focus On In 2026  Everything Else Is Noise  1b78df8938b6
+
 ::: {}
 # What You Should Actually Focus On In 2026 (Everything Else Is Noise) {#what-you-should-actually-focus-on-in-2026-everything-else-is-noise .p-name}
 :::

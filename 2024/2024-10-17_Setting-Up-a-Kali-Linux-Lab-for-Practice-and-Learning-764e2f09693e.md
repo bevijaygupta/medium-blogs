@@ -1,3 +1,11 @@
+---
+title: "Setting Up a Kali Linux Lab for Practice and Learning 764e2f09693e"
+platform: Medium
+original_file: 2024-10-17_Setting-Up-a-Kali-Linux-Lab-for-Practice-and-Learning-764e2f09693e.md
+---
+
+# Setting Up a Kali Linux Lab for Practice and Learning 764e2f09693e
+
 ::: {}
 # Setting Up a Kali Linux Lab for Practice and Learning {#setting-up-a-kali-linux-lab-for-practice-and-learning .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "DeepSeek vs ChatGPT  The Ultimate AI Face Off 9f5965eb6878"
+platform: Medium
+original_file: 2025-01-30_DeepSeek-vs-ChatGPT--The-Ultimate-AI-Face-Off-9f5965eb6878.md
+---
+
+# DeepSeek vs ChatGPT  The Ultimate AI Face Off 9f5965eb6878
+
 ::: {}
 # DeepSeek vs ChatGPT: The Ultimate AI Face-Off {#deepseek-vs-chatgpt-the-ultimate-ai-face-off .p-name}
 :::

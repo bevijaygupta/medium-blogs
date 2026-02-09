@@ -1,3 +1,11 @@
+---
+title: "Learn Rust Tryhackme Writeup 5089421f80b7"
+platform: Medium
+original_file: 2024-08-21_Learn-Rust-Tryhackme-Writeup-5089421f80b7.md
+---
+
+# Learn Rust Tryhackme Writeup 5089421f80b7
+
 ::: {}
 # Learn Rust Tryhackme Writeup {#learn-rust-tryhackme-writeup .p-name}
 :::

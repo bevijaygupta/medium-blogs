@@ -1,3 +1,11 @@
+---
+title: "Free Tools Every Beginner Should Practice in Cybersecurity 7b44c9b0810f"
+platform: Medium
+original_file: 2025-01-07_Free-Tools-Every-Beginner-Should-Practice-in-Cybersecurity-7b44c9b0810f.md
+---
+
+# Free Tools Every Beginner Should Practice in Cybersecurity 7b44c9b0810f
+
 ::: {}
 # Free Tools Every Beginner Should Practice in Cybersecurity {#free-tools-every-beginner-should-practice-in-cybersecurity .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "OSI Layers   Cyber Attacks  Understanding Security from Physical Cables to Web Applications 4c2158c67ee0"
+platform: Medium
+original_file: 2026-01-16_OSI-Layers---Cyber-Attacks--Understanding-Security-from-Physical-Cables-to-Web-Applications-4c2158c67ee0.md
+---
+
+# OSI Layers   Cyber Attacks  Understanding Security from Physical Cables to Web Applications 4c2158c67ee0
+
 ::: {}
 # OSI Layers & Cyber Attacks: Understanding Security from Physical Cables to Web Applications {#osi-layers-cyber-attacks-understanding-security-from-physical-cables-to-web-applications .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Does Using AI Make You a Revolutionary or an Enemy  098fc10eb978"
+platform: Medium
+original_file: 2024-10-08_Does-Using-AI-Make-You-a-Revolutionary-or-an-Enemy--098fc10eb978.md
+---
+
+# Does Using AI Make You a Revolutionary or an Enemy  098fc10eb978
+
 ::: {}
 # Does Using AI Make You a Revolutionary or an Enemy? {#does-using-ai-make-you-a-revolutionary-or-an-enemy .p-name}
 :::

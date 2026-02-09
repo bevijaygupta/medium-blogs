@@ -1,3 +1,11 @@
+---
+title: "Ah yes  like a swimming pool filled with jelly   looks fun until you re stuck  confused  and  349482b9cb6f"
+platform: Medium
+original_file: 2025-05-12_Ah-yes--like-a-swimming-pool-filled-with-jelly---looks-fun-until-you-re-stuck--confused--and--349482b9cb6f.md
+---
+
+# Ah yes  like a swimming pool filled with jelly   looks fun until you re stuck  confused  and  349482b9cb6f
+
 ::: {}
 # Ah yes, like a swimming pool filled with jelly --- looks fun until you're stuck, confused, and... {#ah-yes-like-a-swimming-pool-filled-with-jelly-looks-fun-until-youre-stuck-confused-and .p-name}
 :::

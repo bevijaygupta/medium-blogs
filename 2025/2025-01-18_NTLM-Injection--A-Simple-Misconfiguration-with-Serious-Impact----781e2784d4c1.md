@@ -1,3 +1,11 @@
+---
+title: "NTLM Injection  A Simple Misconfiguration with Serious Impact    781e2784d4c1"
+platform: Medium
+original_file: 2025-01-18_NTLM-Injection--A-Simple-Misconfiguration-with-Serious-Impact----781e2784d4c1.md
+---
+
+# NTLM Injection  A Simple Misconfiguration with Serious Impact    781e2784d4c1
+
 ::: {}
 # NTLM Injection: A Simple Misconfiguration with Serious Impact 🚨 {#ntlm-injection-a-simple-misconfiguration-with-serious-impact .p-name}
 :::

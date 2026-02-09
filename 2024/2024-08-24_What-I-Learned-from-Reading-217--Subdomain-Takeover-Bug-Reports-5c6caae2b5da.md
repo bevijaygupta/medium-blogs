@@ -1,3 +1,11 @@
+---
+title: "What I Learned from Reading 217  Subdomain Takeover Bug Reports 5c6caae2b5da"
+platform: Medium
+original_file: 2024-08-24_What-I-Learned-from-Reading-217--Subdomain-Takeover-Bug-Reports-5c6caae2b5da.md
+---
+
+# What I Learned from Reading 217  Subdomain Takeover Bug Reports 5c6caae2b5da
+
 ::: {}
 # What I Learned from Reading 217\* Subdomain Takeover Bug Reports {#what-i-learned-from-reading-217-subdomain-takeover-bug-reports .p-name}
 :::

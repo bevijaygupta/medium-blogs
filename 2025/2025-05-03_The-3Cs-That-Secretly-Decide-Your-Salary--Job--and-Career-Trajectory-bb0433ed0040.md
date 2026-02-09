@@ -1,3 +1,11 @@
+---
+title: "The 3Cs That Secretly Decide Your Salary  Job  and Career Trajectory bb0433ed0040"
+platform: Medium
+original_file: 2025-05-03_The-3Cs-That-Secretly-Decide-Your-Salary--Job--and-Career-Trajectory-bb0433ed0040.md
+---
+
+# The 3Cs That Secretly Decide Your Salary  Job  and Career Trajectory bb0433ed0040
+
 ::: {}
 # The 3Cs That Secretly Decide Your Salary, Job, and Career Trajectory {#the-3cs-that-secretly-decide-your-salary-job-and-career-trajectory .p-name}
 :::

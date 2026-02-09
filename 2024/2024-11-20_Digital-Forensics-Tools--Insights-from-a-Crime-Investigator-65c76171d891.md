@@ -1,3 +1,11 @@
+---
+title: "Digital Forensics Tools  Insights from a Crime Investigator 65c76171d891"
+platform: Medium
+original_file: 2024-11-20_Digital-Forensics-Tools--Insights-from-a-Crime-Investigator-65c76171d891.md
+---
+
+# Digital Forensics Tools  Insights from a Crime Investigator 65c76171d891
+
 ::: {}
 # Digital Forensics Tools: Insights from a Crime Investigator {#digital-forensics-tools-insights-from-a-crime-investigator .p-name}
 :::

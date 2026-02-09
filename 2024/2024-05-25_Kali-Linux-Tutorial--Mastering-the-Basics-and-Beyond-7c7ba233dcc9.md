@@ -1,3 +1,11 @@
+---
+title: "Kali Linux Tutorial  Mastering the Basics and Beyond 7c7ba233dcc9"
+platform: Medium
+original_file: 2024-05-25_Kali-Linux-Tutorial--Mastering-the-Basics-and-Beyond-7c7ba233dcc9.md
+---
+
+# Kali Linux Tutorial  Mastering the Basics and Beyond 7c7ba233dcc9
+
 ::: {}
 # Kali Linux Tutorial: Mastering the Basics and Beyond {#kali-linux-tutorial-mastering-the-basics-and-beyond .p-name}
 :::

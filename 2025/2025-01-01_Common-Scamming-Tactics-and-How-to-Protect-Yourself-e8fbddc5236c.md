@@ -1,3 +1,11 @@
+---
+title: "Common Scamming Tactics and How to Protect Yourself e8fbddc5236c"
+platform: Medium
+original_file: 2025-01-01_Common-Scamming-Tactics-and-How-to-Protect-Yourself-e8fbddc5236c.md
+---
+
+# Common Scamming Tactics and How to Protect Yourself e8fbddc5236c
+
 ::: {}
 # Common Scamming Tactics and How to Protect Yourself {#common-scamming-tactics-and-how-to-protect-yourself .p-name}
 :::

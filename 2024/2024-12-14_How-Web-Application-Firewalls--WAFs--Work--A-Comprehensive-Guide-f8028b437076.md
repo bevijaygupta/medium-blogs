@@ -1,3 +1,11 @@
+---
+title: "How Web Application Firewalls  WAFs  Work  A Comprehensive Guide f8028b437076"
+platform: Medium
+original_file: 2024-12-14_How-Web-Application-Firewalls--WAFs--Work--A-Comprehensive-Guide-f8028b437076.md
+---
+
+# How Web Application Firewalls  WAFs  Work  A Comprehensive Guide f8028b437076
+
 ::: {}
 # How Web Application Firewalls (WAFs) Work: A Comprehensive Guide {#how-web-application-firewalls-wafs-work-a-comprehensive-guide .p-name}
 :::

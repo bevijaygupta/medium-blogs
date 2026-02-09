@@ -1,3 +1,11 @@
+---
+title: "Hardening Basics Part 2 TryHackme cc5a323e35b3"
+platform: Medium
+original_file: 2024-09-05_Hardening-Basics-Part-2-TryHackme-cc5a323e35b3.md
+---
+
+# Hardening Basics Part 2 TryHackme cc5a323e35b3
+
 ::: {}
 # Hardening Basics Part 2 TryHackme {#hardening-basics-part-2-tryhackme .p-name}
 :::

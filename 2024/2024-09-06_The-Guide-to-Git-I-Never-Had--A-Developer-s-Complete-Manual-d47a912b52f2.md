@@ -1,3 +1,11 @@
+---
+title: "The Guide to Git I Never Had  A Developer s Complete Manual d47a912b52f2"
+platform: Medium
+original_file: 2024-09-06_The-Guide-to-Git-I-Never-Had--A-Developer-s-Complete-Manual-d47a912b52f2.md
+---
+
+# The Guide to Git I Never Had  A Developer s Complete Manual d47a912b52f2
+
 ::: {}
 # The Guide to Git I Never Had: A Developer's Complete Manual {#the-guide-to-git-i-never-had-a-developers-complete-manual .p-name}
 :::

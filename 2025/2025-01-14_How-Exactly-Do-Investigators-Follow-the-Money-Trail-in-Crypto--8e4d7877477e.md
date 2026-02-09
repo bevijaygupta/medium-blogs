@@ -1,3 +1,11 @@
+---
+title: "How Exactly Do Investigators Follow the Money Trail in Crypto  8e4d7877477e"
+platform: Medium
+original_file: 2025-01-14_How-Exactly-Do-Investigators-Follow-the-Money-Trail-in-Crypto--8e4d7877477e.md
+---
+
+# How Exactly Do Investigators Follow the Money Trail in Crypto  8e4d7877477e
+
 ::: {}
 # How Exactly Do Investigators Follow the Money Trail in Crypto? {#how-exactly-do-investigators-follow-the-money-trail-in-crypto .p-name}
 :::

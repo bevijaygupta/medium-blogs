@@ -1,3 +1,11 @@
+---
+title: "Linux Privilege Escalation  A Comprehensive Guide 856ec71566a9"
+platform: Medium
+original_file: 2025-01-27_Linux-Privilege-Escalation--A-Comprehensive-Guide-856ec71566a9.md
+---
+
+# Linux Privilege Escalation  A Comprehensive Guide 856ec71566a9
+
 ::: {}
 # Linux Privilege Escalation: A Comprehensive Guide {#linux-privilege-escalation-a-comprehensive-guide .p-name}
 :::

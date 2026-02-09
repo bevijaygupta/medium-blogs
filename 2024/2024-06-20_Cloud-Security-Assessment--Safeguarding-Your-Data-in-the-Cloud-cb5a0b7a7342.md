@@ -1,3 +1,11 @@
+---
+title: "Cloud Security Assessment  Safeguarding Your Data in the Cloud cb5a0b7a7342"
+platform: Medium
+original_file: 2024-06-20_Cloud-Security-Assessment--Safeguarding-Your-Data-in-the-Cloud-cb5a0b7a7342.md
+---
+
+# Cloud Security Assessment  Safeguarding Your Data in the Cloud cb5a0b7a7342
+
 ::: {}
 # Cloud Security Assessment: Safeguarding Your Data in the Cloud {#cloud-security-assessment-safeguarding-your-data-in-the-cloud .p-name}
 :::

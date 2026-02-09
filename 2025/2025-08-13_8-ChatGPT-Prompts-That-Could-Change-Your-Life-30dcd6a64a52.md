@@ -1,3 +1,11 @@
+---
+title: "8 ChatGPT Prompts That Could Change Your Life 30dcd6a64a52"
+platform: Medium
+original_file: 2025-08-13_8-ChatGPT-Prompts-That-Could-Change-Your-Life-30dcd6a64a52.md
+---
+
+# 8 ChatGPT Prompts That Could Change Your Life 30dcd6a64a52
+
 ::: {}
 # 8 ChatGPT Prompts That Could Change Your Life {#chatgpt-prompts-that-could-change-your-life .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Cloud Security Posture 77512f89fba0"
+platform: Medium
+original_file: 2024-06-18_Cloud-Security-Posture-77512f89fba0.md
+---
+
+# Cloud Security Posture 77512f89fba0
+
 ::: {}
 # Cloud Security Posture {#cloud-security-posture .p-name}
 :::

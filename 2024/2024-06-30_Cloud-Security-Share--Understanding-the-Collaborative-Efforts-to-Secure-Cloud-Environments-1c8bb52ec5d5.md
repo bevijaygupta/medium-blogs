@@ -1,3 +1,11 @@
+---
+title: "Cloud Security Share  Understanding the Collaborative Efforts to Secure Cloud Environments 1c8bb52ec5d5"
+platform: Medium
+original_file: 2024-06-30_Cloud-Security-Share--Understanding-the-Collaborative-Efforts-to-Secure-Cloud-Environments-1c8bb52ec5d5.md
+---
+
+# Cloud Security Share  Understanding the Collaborative Efforts to Secure Cloud Environments 1c8bb52ec5d5
+
 ::: {}
 # Cloud Security Share: Understanding the Collaborative Efforts to Secure Cloud Environments {#cloud-security-share-understanding-the-collaborative-efforts-to-secure-cloud-environments .p-name}
 :::

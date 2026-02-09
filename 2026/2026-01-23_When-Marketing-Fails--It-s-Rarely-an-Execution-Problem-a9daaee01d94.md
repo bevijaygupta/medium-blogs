@@ -1,3 +1,11 @@
+---
+title: "When Marketing Fails  It s Rarely an Execution Problem a9daaee01d94"
+platform: Medium
+original_file: 2026-01-23_When-Marketing-Fails--It-s-Rarely-an-Execution-Problem-a9daaee01d94.md
+---
+
+# When Marketing Fails  It s Rarely an Execution Problem a9daaee01d94
+
 ::: {}
 # When Marketing Fails, It's Rarely an Execution Problem {#when-marketing-fails-its-rarely-an-execution-problem .p-name}
 :::

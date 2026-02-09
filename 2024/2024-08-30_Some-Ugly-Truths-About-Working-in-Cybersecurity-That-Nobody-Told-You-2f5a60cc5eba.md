@@ -1,3 +1,11 @@
+---
+title: "Some Ugly Truths About Working in Cybersecurity That Nobody Told You 2f5a60cc5eba"
+platform: Medium
+original_file: 2024-08-30_Some-Ugly-Truths-About-Working-in-Cybersecurity-That-Nobody-Told-You-2f5a60cc5eba.md
+---
+
+# Some Ugly Truths About Working in Cybersecurity That Nobody Told You 2f5a60cc5eba
+
 ::: {}
 # Some Ugly Truths About Working in Cybersecurity That Nobody Told You {#some-ugly-truths-about-working-in-cybersecurity-that-nobody-told-you .p-name}
 :::

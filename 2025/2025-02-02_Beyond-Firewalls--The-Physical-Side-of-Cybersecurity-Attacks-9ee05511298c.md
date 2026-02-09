@@ -1,3 +1,11 @@
+---
+title: "Beyond Firewalls  The Physical Side of Cybersecurity Attacks 9ee05511298c"
+platform: Medium
+original_file: 2025-02-02_Beyond-Firewalls--The-Physical-Side-of-Cybersecurity-Attacks-9ee05511298c.md
+---
+
+# Beyond Firewalls  The Physical Side of Cybersecurity Attacks 9ee05511298c
+
 ::: {}
 # Beyond Firewalls: The Physical Side of Cybersecurity Attacks {#beyond-firewalls-the-physical-side-of-cybersecurity-attacks .p-name}
 :::

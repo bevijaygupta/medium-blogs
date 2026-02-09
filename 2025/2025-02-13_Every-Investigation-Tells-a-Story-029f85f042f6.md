@@ -1,3 +1,11 @@
+---
+title: "Every Investigation Tells a Story 029f85f042f6"
+platform: Medium
+original_file: 2025-02-13_Every-Investigation-Tells-a-Story-029f85f042f6.md
+---
+
+# Every Investigation Tells a Story 029f85f042f6
+
 ::: {}
 # Every Investigation Tells a Story {#every-investigation-tells-a-story .p-name}
 :::

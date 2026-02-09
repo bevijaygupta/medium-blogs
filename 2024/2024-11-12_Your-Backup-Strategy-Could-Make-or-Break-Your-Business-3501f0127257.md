@@ -1,3 +1,11 @@
+---
+title: "Your Backup Strategy Could Make or Break Your Business 3501f0127257"
+platform: Medium
+original_file: 2024-11-12_Your-Backup-Strategy-Could-Make-or-Break-Your-Business-3501f0127257.md
+---
+
+# Your Backup Strategy Could Make or Break Your Business 3501f0127257
+
 ::: {}
 # Your Backup Strategy Could Make or Break Your Business {#your-backup-strategy-could-make-or-break-your-business .p-name}
 :::

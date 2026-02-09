@@ -1,3 +1,11 @@
+---
+title: "How to Install Kali Linux  A Step by Step Guide d5fb697e688f"
+platform: Medium
+original_file: 2024-05-19_How-to-Install-Kali-Linux--A-Step-by-Step-Guide-d5fb697e688f.md
+---
+
+# How to Install Kali Linux  A Step by Step Guide d5fb697e688f
+
 ::: {}
 # How to Install Kali Linux: A Step-by-Step Guide {#how-to-install-kali-linux-a-step-by-step-guide .p-name}
 :::

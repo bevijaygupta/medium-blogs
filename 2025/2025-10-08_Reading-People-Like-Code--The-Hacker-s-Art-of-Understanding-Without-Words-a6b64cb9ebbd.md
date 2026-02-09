@@ -1,3 +1,11 @@
+---
+title: "Reading People Like Code  The Hacker s Art of Understanding Without Words a6b64cb9ebbd"
+platform: Medium
+original_file: 2025-10-08_Reading-People-Like-Code--The-Hacker-s-Art-of-Understanding-Without-Words-a6b64cb9ebbd.md
+---
+
+# Reading People Like Code  The Hacker s Art of Understanding Without Words a6b64cb9ebbd
+
 ::: {}
 # Reading People Like Code: The Hacker's Art of Understanding Without Words {#reading-people-like-code-the-hackers-art-of-understanding-without-words .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Spoofing GPS Coordinates using HackRF One 9333650edb92"
+platform: Medium
+original_file: 2024-10-05_Spoofing-GPS-Coordinates-using-HackRF-One-9333650edb92.md
+---
+
+# Spoofing GPS Coordinates using HackRF One 9333650edb92
+
 ::: {}
 # Spoofing GPS Coordinates using HackRF One {#spoofing-gps-coordinates-using-hackrf-one .p-name}
 :::

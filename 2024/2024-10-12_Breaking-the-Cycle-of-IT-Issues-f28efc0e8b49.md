@@ -1,3 +1,11 @@
+---
+title: "Breaking the Cycle of IT Issues f28efc0e8b49"
+platform: Medium
+original_file: 2024-10-12_Breaking-the-Cycle-of-IT-Issues-f28efc0e8b49.md
+---
+
+# Breaking the Cycle of IT Issues f28efc0e8b49
+
 ::: {}
 # Breaking the Cycle of IT Issues {#breaking-the-cycle-of-it-issues .p-name}
 :::

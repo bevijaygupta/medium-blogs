@@ -1,3 +1,11 @@
+---
+title: "CrowdStrike Exposes the True Cause of the Worldwide IT Meltdown 9c5d14b5594f"
+platform: Medium
+original_file: 2024-08-28_CrowdStrike-Exposes-the-True-Cause-of-the-Worldwide-IT-Meltdown-9c5d14b5594f.md
+---
+
+# CrowdStrike Exposes the True Cause of the Worldwide IT Meltdown 9c5d14b5594f
+
 ::: {}
 # CrowdStrike Exposes the True Cause of the Worldwide IT Meltdown {#crowdstrike-exposes-the-true-cause-of-the-worldwide-it-meltdown .p-name}
 :::

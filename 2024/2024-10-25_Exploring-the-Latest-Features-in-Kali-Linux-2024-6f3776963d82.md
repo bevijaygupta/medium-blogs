@@ -1,3 +1,11 @@
+---
+title: "Exploring the Latest Features in Kali Linux 2024 6f3776963d82"
+platform: Medium
+original_file: 2024-10-25_Exploring-the-Latest-Features-in-Kali-Linux-2024-6f3776963d82.md
+---
+
+# Exploring the Latest Features in Kali Linux 2024 6f3776963d82
+
 ::: {}
 # Exploring the Latest Features in Kali Linux 2024 {#exploring-the-latest-features-in-kali-linux-2024 .p-name}
 :::

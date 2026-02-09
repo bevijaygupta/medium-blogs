@@ -1,3 +1,11 @@
+---
+title: "Are You a Leader Who Just Talks  or One Who Actually Does  a95bfceacbc0"
+platform: Medium
+original_file: 2025-06-26_Are-You-a-Leader-Who-Just-Talks--or-One-Who-Actually-Does--a95bfceacbc0.md
+---
+
+# Are You a Leader Who Just Talks  or One Who Actually Does  a95bfceacbc0
+
 ::: {}
 # Are You a Leader Who Just Talks... or One Who Actually Does? {#are-you-a-leader-who-just-talks-or-one-who-actually-does .p-name}
 :::

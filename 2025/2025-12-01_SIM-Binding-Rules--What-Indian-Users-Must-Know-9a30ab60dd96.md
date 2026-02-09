@@ -1,3 +1,11 @@
+---
+title: "SIM Binding Rules  What Indian Users Must Know 9a30ab60dd96"
+platform: Medium
+original_file: 2025-12-01_SIM-Binding-Rules--What-Indian-Users-Must-Know-9a30ab60dd96.md
+---
+
+# SIM Binding Rules  What Indian Users Must Know 9a30ab60dd96
+
 ::: {}
 # SIM-Binding Rules: What Indian Users Must Know {#sim-binding-rules-what-indian-users-must-know .p-name}
 :::

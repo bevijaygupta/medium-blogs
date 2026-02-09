@@ -1,3 +1,11 @@
+---
+title: "Oh man  that story is peak cyber drama  3d6724fb3776"
+platform: Medium
+original_file: 2025-04-10_Oh-man--that-story-is-peak-cyber-drama--3d6724fb3776.md
+---
+
+# Oh man  that story is peak cyber drama  3d6724fb3776
+
 ::: {}
 # Oh man, that story is peak cyber-drama. {#oh-man-that-story-is-peak-cyber-drama. .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "10 Micro Habits That Rewire Your Brain for Calm a8b2c89fd669"
+platform: Medium
+original_file: 2025-11-01_10-Micro-Habits-That-Rewire-Your-Brain-for-Calm-a8b2c89fd669.md
+---
+
+# 10 Micro Habits That Rewire Your Brain for Calm a8b2c89fd669
+
 ::: {}
 # 10 Micro-Habits That Rewire Your Brain for Calm {#micro-habits-that-rewire-your-brain-for-calm .p-name}
 :::

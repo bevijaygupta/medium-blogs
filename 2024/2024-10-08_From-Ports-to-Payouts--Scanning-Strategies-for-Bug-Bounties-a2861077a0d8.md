@@ -1,3 +1,11 @@
+---
+title: "From Ports to Payouts  Scanning Strategies for Bug Bounties a2861077a0d8"
+platform: Medium
+original_file: 2024-10-08_From-Ports-to-Payouts--Scanning-Strategies-for-Bug-Bounties-a2861077a0d8.md
+---
+
+# From Ports to Payouts  Scanning Strategies for Bug Bounties a2861077a0d8
+
 ::: {}
 # From Ports to Payouts: Scanning Strategies for Bug Bounties {#from-ports-to-payouts-scanning-strategies-for-bug-bounties .p-name}
 :::

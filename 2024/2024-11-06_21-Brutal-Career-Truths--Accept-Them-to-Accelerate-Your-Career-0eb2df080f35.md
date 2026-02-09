@@ -1,3 +1,11 @@
+---
+title: "21 Brutal Career Truths  Accept Them to Accelerate Your Career 0eb2df080f35"
+platform: Medium
+original_file: 2024-11-06_21-Brutal-Career-Truths--Accept-Them-to-Accelerate-Your-Career-0eb2df080f35.md
+---
+
+# 21 Brutal Career Truths  Accept Them to Accelerate Your Career 0eb2df080f35
+
 ::: {}
 # 21 Brutal Career Truths: Accept Them to Accelerate Your Career {#brutal-career-truths-accept-them-to-accelerate-your-career .p-name}
 :::

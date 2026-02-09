@@ -1,3 +1,11 @@
+---
+title: "YouTube s New AI Deepfake Tracking Tool  A Powerful Solution or a Privacy Nightmare  f3d4842f4ee5"
+platform: Medium
+original_file: 2025-12-05_YouTube-s-New-AI-Deepfake-Tracking-Tool--A-Powerful-Solution-or-a-Privacy-Nightmare--f3d4842f4ee5.md
+---
+
+# YouTube s New AI Deepfake Tracking Tool  A Powerful Solution or a Privacy Nightmare  f3d4842f4ee5
+
 ::: {}
 # YouTube's New AI Deepfake Tracking Tool: A Powerful Solution or a Privacy Nightmare? {#youtubes-new-ai-deepfake-tracking-tool-a-powerful-solution-or-a-privacy-nightmare .p-name}
 :::

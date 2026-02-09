@@ -1,3 +1,11 @@
+---
+title: "Kali Linux Update  A Comprehensive Guide ac2b5f20b6d0"
+platform: Medium
+original_file: 2024-05-22_Kali-Linux-Update--A-Comprehensive-Guide-ac2b5f20b6d0.md
+---
+
+# Kali Linux Update  A Comprehensive Guide ac2b5f20b6d0
+
 ::: {}
 # Kali Linux Update: A Comprehensive Guide {#kali-linux-update-a-comprehensive-guide .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "The Dangerous Linux Commands You Should Never Run in Production  Seriously  Don t Do It  0287055b172e"
+platform: Medium
+original_file: 2024-10-26_The-Dangerous-Linux-Commands-You-Should-Never-Run-in-Production--Seriously--Don-t-Do-It--0287055b172e.md
+---
+
+# The Dangerous Linux Commands You Should Never Run in Production  Seriously  Don t Do It  0287055b172e
+
 ::: {}
 # The Dangerous Linux Commands You Should Never Run in Production (Seriously, Don't Do It) {#the-dangerous-linux-commands-you-should-never-run-in-production-seriously-dont-do-it .p-name}
 :::

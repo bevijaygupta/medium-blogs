@@ -1,3 +1,11 @@
+---
+title: "The War No One Sees  Why the Hardest Battle Is Always Within 9eda35f3f9f5"
+platform: Medium
+original_file: 2026-01-05_The-War-No-One-Sees--Why-the-Hardest-Battle-Is-Always-Within-9eda35f3f9f5.md
+---
+
+# The War No One Sees  Why the Hardest Battle Is Always Within 9eda35f3f9f5
+
 ::: {}
 # The War No One Sees: Why the Hardest Battle Is Always Within {#the-war-no-one-sees-why-the-hardest-battle-is-always-within .p-name}
 :::

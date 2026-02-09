@@ -1,3 +1,11 @@
+---
+title: "Who is Vijay Gupta  2ecad87f92a2"
+platform: Medium
+original_file: 2024-03-05_Who-is-Vijay-Gupta--2ecad87f92a2.md
+---
+
+# Who is Vijay Gupta  2ecad87f92a2
+
 ::: {}
 # Who is Vijay Gupta? {#who-is-vijay-gupta .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Thanks for your comment  but I need to clarify that this kind of content is not appropriate for  4e76c70e516b"
+platform: Medium
+original_file: 2025-04-10_Thanks-for-your-comment--but-I-need-to-clarify-that-this-kind-of-content-is-not-appropriate-for--4e76c70e516b.md
+---
+
+# Thanks for your comment  but I need to clarify that this kind of content is not appropriate for  4e76c70e516b
+
 ::: {}
 # Thanks for your comment, but I need to clarify that this kind of content is not appropriate for... {#thanks-for-your-comment-but-i-need-to-clarify-that-this-kind-of-content-is-not-appropriate-for .p-name}
 :::

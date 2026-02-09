@@ -1,3 +1,11 @@
+---
+title: "Are People Really Killing Themselves to Get a Job  423c3e16ae60"
+platform: Medium
+original_file: 2025-11-12_Are-People-Really-Killing-Themselves-to-Get-a-Job--423c3e16ae60.md
+---
+
+# Are People Really Killing Themselves to Get a Job  423c3e16ae60
+
 ::: {}
 # Are People Really Killing Themselves to Get a Job? {#are-people-really-killing-themselves-to-get-a-job .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Splunk Enterprise Security 8 0 0  A Powerful Tool for Modern Security 348e9b67c50b"
+platform: Medium
+original_file: 2024-12-05_Splunk-Enterprise-Security-8-0-0--A-Powerful-Tool-for-Modern-Security-348e9b67c50b.md
+---
+
+# Splunk Enterprise Security 8 0 0  A Powerful Tool for Modern Security 348e9b67c50b
+
 ::: {}
 # Splunk Enterprise Security 8.0.0: A Powerful Tool for Modern Security {#splunk-enterprise-security-8.0.0-a-powerful-tool-for-modern-security .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "SOC Analyst Myth vs Reality  What They Don t Tell You in Cyber School b48fe4750195"
+platform: Medium
+original_file: 2025-07-07_SOC-Analyst-Myth-vs-Reality--What-They-Don-t-Tell-You-in-Cyber-School-b48fe4750195.md
+---
+
+# SOC Analyst Myth vs Reality  What They Don t Tell You in Cyber School b48fe4750195
+
 ::: {}
 # SOC Analyst Myth vs Reality: What They Don't Tell You in Cyber School {#soc-analyst-myth-vs-reality-what-they-dont-tell-you-in-cyber-school .p-name}
 :::

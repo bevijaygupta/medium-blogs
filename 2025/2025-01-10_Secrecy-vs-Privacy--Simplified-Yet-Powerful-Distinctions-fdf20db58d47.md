@@ -1,3 +1,11 @@
+---
+title: "Secrecy vs Privacy  Simplified Yet Powerful Distinctions fdf20db58d47"
+platform: Medium
+original_file: 2025-01-10_Secrecy-vs-Privacy--Simplified-Yet-Powerful-Distinctions-fdf20db58d47.md
+---
+
+# Secrecy vs Privacy  Simplified Yet Powerful Distinctions fdf20db58d47
+
 ::: {}
 # Secrecy vs Privacy: Simplified Yet Powerful Distinctions {#secrecy-vs-privacy-simplified-yet-powerful-distinctions .p-name}
 :::

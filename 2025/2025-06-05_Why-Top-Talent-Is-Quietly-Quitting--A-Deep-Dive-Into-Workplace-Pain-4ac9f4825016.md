@@ -1,3 +1,11 @@
+---
+title: "Why Top Talent Is Quietly Quitting  A Deep Dive Into Workplace Pain 4ac9f4825016"
+platform: Medium
+original_file: 2025-06-05_Why-Top-Talent-Is-Quietly-Quitting--A-Deep-Dive-Into-Workplace-Pain-4ac9f4825016.md
+---
+
+# Why Top Talent Is Quietly Quitting  A Deep Dive Into Workplace Pain 4ac9f4825016
+
 ::: {}
 # Why Top Talent Is Quietly Quitting: A Deep Dive Into Workplace Pain {#why-top-talent-is-quietly-quitting-a-deep-dive-into-workplace-pain .p-name}
 :::

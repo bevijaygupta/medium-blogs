@@ -1,3 +1,11 @@
+---
+title: "Create a Winning Cybersecurity Portfolio 158e14b97f18"
+platform: Medium
+original_file: 2024-08-27_Create-a-Winning-Cybersecurity-Portfolio-158e14b97f18.md
+---
+
+# Create a Winning Cybersecurity Portfolio 158e14b97f18
+
 ::: {}
 # Create a Winning Cybersecurity Portfolio {#create-a-winning-cybersecurity-portfolio .p-name}
 :::

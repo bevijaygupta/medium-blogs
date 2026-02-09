@@ -1,3 +1,11 @@
+---
+title: "The Future of OSINT in Law Enforcement 3d2879df6ed7"
+platform: Medium
+original_file: 2024-10-11_The-Future-of-OSINT-in-Law-Enforcement-3d2879df6ed7.md
+---
+
+# The Future of OSINT in Law Enforcement 3d2879df6ed7
+
 ::: {}
 # The Future of OSINT in Law Enforcement {#the-future-of-osint-in-law-enforcement .p-name}
 :::

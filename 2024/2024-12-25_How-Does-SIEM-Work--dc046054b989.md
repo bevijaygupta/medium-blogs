@@ -1,3 +1,11 @@
+---
+title: "How Does SIEM Work  dc046054b989"
+platform: Medium
+original_file: 2024-12-25_How-Does-SIEM-Work--dc046054b989.md
+---
+
+# How Does SIEM Work  dc046054b989
+
 ::: {}
 # How Does SIEM Work? {#how-does-siem-work .p-name}
 :::

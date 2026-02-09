@@ -1,3 +1,11 @@
+---
+title: "Securing Docker Containers in Production 181a22b76b79"
+platform: Medium
+original_file: 2024-10-04_Securing-Docker-Containers-in-Production-181a22b76b79.md
+---
+
+# Securing Docker Containers in Production 181a22b76b79
+
 ::: {}
 # Securing Docker Containers in Production {#securing-docker-containers-in-production .p-name}
 :::

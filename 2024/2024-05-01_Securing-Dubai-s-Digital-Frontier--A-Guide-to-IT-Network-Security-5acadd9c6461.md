@@ -1,3 +1,11 @@
+---
+title: "Securing Dubai s Digital Frontier  A Guide to IT Network Security 5acadd9c6461"
+platform: Medium
+original_file: 2024-05-01_Securing-Dubai-s-Digital-Frontier--A-Guide-to-IT-Network-Security-5acadd9c6461.md
+---
+
+# Securing Dubai s Digital Frontier  A Guide to IT Network Security 5acadd9c6461
+
 ::: {}
 # Securing Dubai's Digital Frontier: A Guide to IT Network Security {#securing-dubais-digital-frontier-a-guide-to-it-network-security .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "The Role of IoT App Developers  Shaping the Future of Connected Technology 36f661629bd4"
+platform: Medium
+original_file: 2024-08-04_The-Role-of-IoT-App-Developers--Shaping-the-Future-of-Connected-Technology-36f661629bd4.md
+---
+
+# The Role of IoT App Developers  Shaping the Future of Connected Technology 36f661629bd4
+
 ::: {}
 # The Role of IoT App Developers: Shaping the Future of Connected Technology {#the-role-of-iot-app-developers-shaping-the-future-of-connected-technology .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Linux Strength Training Tryhackme Writeup 48c2d241cfe8"
+platform: Medium
+original_file: 2024-08-28_Linux-Strength-Training-Tryhackme-Writeup-48c2d241cfe8.md
+---
+
+# Linux Strength Training Tryhackme Writeup 48c2d241cfe8
+
 ::: {}
 # Linux Strength Training Tryhackme Writeup {#linux-strength-training-tryhackme-writeup .p-name}
 :::

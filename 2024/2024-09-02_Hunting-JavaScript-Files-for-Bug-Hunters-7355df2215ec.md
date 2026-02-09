@@ -1,3 +1,11 @@
+---
+title: "Hunting JavaScript Files for Bug Hunters 7355df2215ec"
+platform: Medium
+original_file: 2024-09-02_Hunting-JavaScript-Files-for-Bug-Hunters-7355df2215ec.md
+---
+
+# Hunting JavaScript Files for Bug Hunters 7355df2215ec
+
 ::: {}
 # Hunting JavaScript Files for Bug Hunters {#hunting-javascript-files-for-bug-hunters .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Cloud Security Roundup 543056120f08"
+platform: Medium
+original_file: 2024-06-26_Cloud-Security-Roundup-543056120f08.md
+---
+
+# Cloud Security Roundup 543056120f08
+
 ::: {}
 # Cloud Security Roundup {#cloud-security-roundup .p-name}
 :::

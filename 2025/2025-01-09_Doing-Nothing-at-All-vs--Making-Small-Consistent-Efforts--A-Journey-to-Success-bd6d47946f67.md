@@ -1,3 +1,11 @@
+---
+title: "Doing Nothing at All vs  Making Small Consistent Efforts  A Journey to Success bd6d47946f67"
+platform: Medium
+original_file: 2025-01-09_Doing-Nothing-at-All-vs--Making-Small-Consistent-Efforts--A-Journey-to-Success-bd6d47946f67.md
+---
+
+# Doing Nothing at All vs  Making Small Consistent Efforts  A Journey to Success bd6d47946f67
+
 ::: {}
 # Doing Nothing at All vs. Making Small Consistent Efforts: A Journey to Success {#doing-nothing-at-all-vs.-making-small-consistent-efforts-a-journey-to-success .p-name}
 :::

@@ -1,3 +1,11 @@
+---
+title: "Cyber Crime Barrister  Defending Against Digital Threats 7e4957ea654a"
+platform: Medium
+original_file: 2024-06-03_Cyber-Crime-Barrister--Defending-Against-Digital-Threats-7e4957ea654a.md
+---
+
+# Cyber Crime Barrister  Defending Against Digital Threats 7e4957ea654a
+
 ::: {}
 # Cyber Crime Barrister: Defending Against Digital Threats {#cyber-crime-barrister-defending-against-digital-threats .p-name}
 :::
